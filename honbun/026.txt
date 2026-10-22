@@ -1,0 +1,50 @@
+zkt-akishinogetsusei-1251				加霜凍る眞菅が下に閉ぢてけりそがの河原の水の白波	
+zkt-akishinogetsusei-1252				〓幾度か寢覺しつらむ袖の露凍れるよはの明し難さに	
+zkt-akishinogetsusei-1253				一掩ふべき袖こそなけれ世中の貧き民の寒きよな〓〓	
+zkt-akishinogetsusei-1254				〓さゆる夜の槇の板屋の獨寢に心くだけて彼降るなり	
+zkt-akishinogetsusei-1255				吉野川瀧の水上こほるらし今朝よわりゆく岩波の聲	
+zkt-akishinogetsusei-1256				明方の浪間の月やさえぬらむそれより凍る廣澤の池	
+zkt-akishinogetsusei-1257				年年へへ影見る池の凍れるや昔をうつす錢なるらむ	
+zkt-akishinogetsusei-1258				浪の上に心のすゑのかすむかな網代に宿る字治の曙	
+zkt-akishinogetsusei-1259				波よする志賀の辛﨑氷ゐて沖は汀となりにけるかな	
+zkt-akishinogetsusei-1260				〓るるののににかせてさ夜千鳥傾く方に浦傳ふなり	
+zkt-akishinogetsusei-1261		山家雪		憂かりけるまた山深き雪しあらば人をもとはむ雪の曙	
+zkt-akishinogetsusei-1262				〓をれの嶺の椎柴拾ふとてあと見せそむる冬の山里	
+zkt-akishinogetsusei-1263		社頭雪		三笠山昔の月を思ひ出でゝふりさけ見れば敬の白雪	
+zkt-akishinogetsusei-1264		雪中遠望		箸白き四方の山邊を今朝みれば春の三吉野秋の更科	
+zkt-akishinogetsusei-1265		雪ふりけるに定家朝臣が許へ遺しける		難面くば君もや訪と思つる今朝の雪にも遂にまけぬる	
+zkt-akishinogetsusei-1266		返し		ル我我の庭の跡にも難面くてとはむ心の深さをぞ知る	
+zkt-akishinogetsusei-1267		山里にて雪の朝に詠める		24都にはしぐれし程とおもふよりまづ此の里は雪の曙	
+zkt-akishinogetsusei-1268		冬の歌よみける中に		〇重ねても人まつ庭の氣色かな雲に宿れる冬の夜の月	
+zkt-akishinogetsusei-1269				〓下折の竹の響きに散る雪を拂ふとすれど袖ぞ寒けき	
+zkt-akishinogetsusei-1270				寂しさはいつもながめの物なれど雲間の嶺の雪の曙	
+zkt-akishinogetsusei-1271				行く年の流るゝ影は早けれど折しも聞くか谷川の水	
+zkt-akishinogetsusei-1272		歲暮害		^世の中は春の隣になりぬれど垣根のほかも同じ白雪	
+zkt-akishinogetsusei-1273				い雪つもる木末に雲は隔つれど花に近づく三吉野の山	
+zkt-akishinogetsusei-1274		歲暮		明けぬより春の霞も立やせむ今宵はさすな白川の關	
+zkt-akishinogetsusei-1275		家の選歌合に、冬述懷		世に住めば早くも年の暮るゝ哉心の水はかつ凍れ共	
+zkt-akishinogetsusei-1276		院於春日御社歌合三首の內、落葉を		、鹿のたつ森の木蔭の唐錦ふきしく風は神のまに〓〓〓	
+zkt-akishinogetsusei-1277		北野の宮の歌合、時雨		ね村雲に後れ先だつ夜はの月知らず時雨の幾廻りとも人	
+zkt-akishinogetsusei-1278		祝部女御入內の月次の御屏風の歌第一帖小朝拜列立所		立初むる雲居の春は諸人の袖を連ぬる庭に見えけり	
+zkt-akishinogetsusei-1279		野邊の小松原に子日する所		一春日野の小松に雪を引添へてかつ〓〓千世の花咲に見	
+zkt-akishinogetsusei-1280				詠めやる遠里をのは仄かにて霞にのこる松の風かな	
+zkt-akishinogetsusei-1281		第二期花竹の間に爲ある所、人の家もあり		一春の日の長閑にかすむ梢よりうちとけそむる爲の聲	
+zkt-akishinogetsusei-1282		春日祭社頭儀		幾春の今日のまつりを三笠山みねの朝日の末も遙に	
+zkt-akishinogetsusei-1283		人の家井に野邊に梅の花さきたる所		梅の花匂ふ野べにて今日くれぬ宿の梢を誰尋ぬらむ	
+zkt-akishinogetsusei-1284		第三帖澤邊春駒		お霜れし原のヽ澤のあさ綠駒も心ははるにそめけり	
+zkt-akishinogetsusei-1285		山野井に人家、櫻花盛に又咲きたる所、置もあり		おおしなべて雲に際なき花盛いづくも同じ三吉野の山	
+zkt-akishinogetsusei-1286		人の家の庭に藤盛に花咲きたる所山に木もあり		萬代の春知りそむる藤の花宿は雲居にみする也けり	
+zkt-akishinogetsusei-1287		第四帖人の家に更衣したる所、卯の花垣もあり		今日よりは千代は重ねむ始とてまづ一重なる夏衣哉	
+zkt-akishinogetsusei-1288		賀茂社祭神館儀式葵つけたる人の參詣したる所		00今日みれば賀茂の御誕に葵草人の愛にも懸てける哉	
+zkt-akishinogetsusei-1289		早苗植ゑたる所		。早苗とる田子の心は知らね共戰ぎし秋の風ぞ待るゝ	
+zkt-akishinogetsusei-1290		第五帖雲間郭公鳴き渡る所、人の家あり		。思ひ知れ有明がたの郭公さこそは誰もあかぬ名殘は	
+zkt-akishinogetsusei-1291		高蒲かりたる所、人の家に葺きたる所もあり		0風風けばよはの枕にかはすなり軒の萬蒲の同じ匂を	
+zkt-akishinogetsusei-1292		人の家の庭に翔麥咲きたる所		。ませの內に君が種まく常夏の花の盛を見るぞ嬉しき	
+zkt-akishinogetsusei-1293		第六帖山井の邊に人々納涼したる所、泉あり		x。山かげや出る〓水のさゝ波に秋をよすなる楢の下風	
+zkt-akishinogetsusei-1294		野邊の杜の間に夏草茂る所		加涼みにと分け入る道は夏深し裾野につヾく杜の下草	
+zkt-akishinogetsusei-1295		河邊に六月被したる所		100春の日を兼て御禊にすつる哉あすこそ秋の初と思に	
+zkt-akishinogetsusei-1296		第七帖山野井に人の家秋風吹きたる所、〓あり		x0夕されば野山の景色いかならむ秋風立ちぬ庭の荻原	
+zkt-akishinogetsusei-1297				ね秋の野の千草の色を我宿に心よりこそ移し初めつれ	
+zkt-akishinogetsusei-1298		山野井林間鹿有所		〓春日由松の風に聲そへて鹿も千年のあきとつぐなり	
+zkt-akishinogetsusei-1299		第八帖人家池邊人々税月所		一雲はるゝみ空や池に映るらむ水底よりも月は出けり	
+zkt-akishinogetsusei-1300		相坂の關に駒迎に行きむかふ所、〓水あり		一東よりけふ相坂の關越えて都に出づるもち月のこま	

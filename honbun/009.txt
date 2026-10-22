@@ -1,0 +1,50 @@
+zkt-akishinogetsusei-0401				加窓のゆき池の氷も消えずして袖に知られぬ春の初風	
+zkt-akishinogetsusei-0402				ol三三野は山も霞て白雪の降りにし里に春は來にけり	
+zkt-akishinogetsusei-0403				エあさみどり松にかすみは龍田山森の雫や氷とくらむ	
+zkt-akishinogetsusei-0404				〓こほりゐし水の白波いは越えて〓瀧川に春風ぞ吹く	
+zkt-akishinogetsusei-0405		爲		1春春の色に都の空もかすみぬと爲さそへ山おろしの風	
+zkt-akishinogetsusei-0406				一二ののりり淚こしらこほらずばあらぬ露もや花におくらむ	
+zkt-akishinogetsusei-0407				10爲の聲にほひくる松風は軒端の梅に吹かぬばかりぞ	
+zkt-akishinogetsusei-0408				〓九重や雲居の庭の竹のうちに晩ふかきうぐひすの聲	
+zkt-akishinogetsusei-0409				と深深や鶉の床はあとたえて春の里とふうぐひすの聲	
+zkt-akishinogetsusei-0410		花		ふかすむより深山に消ゆる松のゆき櫻にうつる春の略	
+zkt-akishinogetsusei-0411				な三芳野は花の外さへはななれや棋たつ山の敬の白雲	
+zkt-akishinogetsusei-0412				ののりりる都の春の光かな昔がたりの志賀の花ぞの	
+zkt-akishinogetsusei-0413				一山陰や花の雪散る明ぼのゝ木の間の月に誰を尋ねむ	
+zkt-akishinogetsusei-0414				〓花はみな霞の底に移ろひて雲に色づくをはつせの山	
+zkt-akishinogetsusei-0415				郭公我をば數にとはずとも今年になりぬこぞの古聲	
+zkt-akishinogetsusei-0416				うちも寢ず待つ夜更行く時鳥軒に傾く月に鳴くなり〓	
+zkt-akishinogetsusei-0417				〓郭公〓く音や袖にかよふらむ露おもりぬる蟬の羽衣	
+zkt-akishinogetsusei-0418				かたちばなの花ちる里の庭の面にやま時鳥昔をぞとふ	
+zkt-akishinogetsusei-0419				〓公公〓絕え〓〓に消果つる雲路もつらき水無月の空	
+zkt-akishinogetsusei-0420		五月雨		八五月雨は雲と波とを軒端にて煙も立てぬ須府の浦人	
+zkt-akishinogetsusei-0421				五五百雨の降にし里は道絕えて庭のさゆりは波の下草	
+zkt-akishinogetsusei-0422				〓さみだれに柴の庵は傾きて軒の雫のおとぞみじかき	
+zkt-akishinogetsusei-0423				〓花にとひ月に等ねし跡もなし雲こす嶺の五月兩の空	
+zkt-akishinogetsusei-0424				三五月雨の雲をへだてゝ行く月の光はもらで軒の玉水	
+zkt-akishinogetsusei-0425		月		秋風に木の間の月はもりそめて光をむすぶ袖の白玉	
+zkt-akishinogetsusei-0426				『薄霧の麓にしづむ山の端に光はなれてのぼる月かげ	
+zkt-akishinogetsusei-0427				〓〓見見がた浪の千里に雲きえて岩しく袖によする月影	
+zkt-akishinogetsusei-0428				山田みののにに寢寢して霜にさえたる月を見るかな	
+zkt-akishinogetsusei-0429				横の戶のさゝで有明に成行を幾夜の月と訪人もなし	
+zkt-akishinogetsusei-0430		草花		萩原や末こす風のほに出でゝ下露よりも忍び兼ける	
+zkt-akishinogetsusei-0431				嵐はらふ孰のとこの露の上に枕ならぶる女郞花かな	
+zkt-akishinogetsusei-0432				〓茂き野となりゆく庭の萱が下に己れ亂るゝ蟲の聲々	
+zkt-akishinogetsusei-0433				みまのゝ浦の入江は霧の中にして足花が末に殘る白浪	
+zkt-akishinogetsusei-0434				〓とけてねぬ鹿の音ちかし小萩原露吹き結ぶみ山風に	
+zkt-akishinogetsusei-0435		紅葉		龍田姫いくへの山を行廻り松の外をば染め渡すらむ	
+zkt-akishinogetsusei-0436				ししれれるる外山の雲は晴に見夕日に染る嶺の紅葉ば	
+zkt-akishinogetsusei-0437				秋秋の龍田山よりながれ來て紅葉の川をくいる白浪	
+zkt-akishinogetsusei-0438				山山の人の下道は絕えぬらむ軒端の正木紅葉散る也	
+zkt-akishinogetsusei-0439				朽にけり森の落葉に霜消えて變りし色の又變りぬる	
+zkt-akishinogetsusei-0440		雪		ひしぐれこし雲を高嶺に吹きためて風に雪ちる冬の曙	
+zkt-akishinogetsusei-0441				山山ざとの雲の梢にながめつる松さへ今朝も雪の埋木	
+zkt-akishinogetsusei-0442				〓庵さす甲斐の白根の旅枕夜すがら雪を拂ひかねつヽ	
+zkt-akishinogetsusei-0443				一尊の夜の光におなじみねの月雲にぞかはる更科の里	
+zkt-akishinogetsusei-0444				〓楚杖ゆふ葛城山のいかならむ都も雪のまなく時なし	
+zkt-akishinogetsusei-0445		歳暮		春をまつ花の匂も鳥の音も暫しこもれる山の奥かな	
+zkt-akishinogetsusei-0446				山川の氷も知らぬ年波の流るゝ影はよどむ日ぞなき	
+zkt-akishinogetsusei-0447				〓春の爲いそぐ心もうち侘びぬ今年のはての入相の鐘	
+zkt-akishinogetsusei-0448				〓磯の上ふる野の小篠霜をへて一夜ばかりに殘る年哉	
+zkt-akishinogetsusei-0449				尊げだに暫しな晴れそ嶺の雲あすの霞は立變るとも	
+zkt-akishinogetsusei-0450		初戀		ふ山の端に思へばかはる月もなし唯佛ぞ今宵そひぬる	
