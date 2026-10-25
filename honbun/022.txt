@@ -22,7 +22,7 @@ zkt-akishinogetsusei-1071				第一の下に道あり迚や秋はこし菲の庭
 zkt-akishinogetsusei-1072				一九色變る露のみ袖に散りやせむ峯の秋風木の葉靑くて	
 zkt-akishinogetsusei-1073				〓梢ふく風の響きに秋はあれどまだ色わかぬ嶺の椎柴	
 zkt-akishinogetsusei-1074		院の選歌合の十首の內山家秋月を		○時時ももあれ古〓人は音もせで深山の月に秋風ぞ吹く	
-zkt-akishinogetsusei-1075		湖上曉霧		〓志賀の浦の漣白む霧の内にほの〓〓出づる沖の友舟	
+zkt-akishinogetsusei-1075		湖上曉霧		〓志賀の浦の漣白む霧の内にほの／″＼出づる沖の友舟	
 zkt-akishinogetsusei-1076		院の八月十五夜の選歌合に十首の歌に月多秋友		一月ならで誰かは知む君が代に秋の今宵の幾廻りとも	
 zkt-akishinogetsusei-1077		月前松風		秋の夜の光も聲も一つにて月のかつらに松風ぞ吹く	
 zkt-akishinogetsusei-1078		月下接衣		里は荒て月やあらぬと恨みても誰淺芽生に衣打らむ	

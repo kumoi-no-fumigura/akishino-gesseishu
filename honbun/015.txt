@@ -19,7 +19,7 @@ zkt-akishinogetsusei-0718				泊瀬山移ろふ花に春くれてまがひし雲
 zkt-akishinogetsusei-0719				明日よりは志賀の花圓稀にだに誰かは訪む春の故〓	
 zkt-akishinogetsusei-0720		夏		以及きぬといふばかりにや足引の山も置の衣かふらむ	
 zkt-akishinogetsusei-0721				か春春色色遠ざかる也菅原や伏見に見ゆる小泊瀨の山	
-zkt-akishinogetsusei-0722				〓〓郭公忍び〓〓に來鳴くなり卯の花月夜ほの見ゆる頃	
+zkt-akishinogetsusei-0722				〓〓郭公忍び／＼に來鳴くなり卯の花月夜ほの見ゆる頃	
 zkt-akishinogetsusei-0723				一今こむと賴めやはせし時鳥ふけぬる夜はを何恨む覽	
 zkt-akishinogetsusei-0724				〓たちばなの花ちる里の夕暮にわすれそめぬる春の昭	
 zkt-akishinogetsusei-0725				三五五月雨に雲間待出でゝもる月は軒の点蒲に全る也鳬	
@@ -41,7 +41,7 @@ zkt-akishinogetsusei-0740				Mこ萩咲く山のゆふかげ雨すぎて名残�
 zkt-akishinogetsusei-0741				が藻に住まぬ野原の蟲も我からと長き夜すがら露に鳴也	
 zkt-akishinogetsusei-0742				cmとこ世出でし旅の衣や初雁のつばさに懸る峰の白雲	
 zkt-akishinogetsusei-0743				〓秋の田の稻葉の露の玉ゆらも假寢さびしき山陰の庵	
-zkt-akishinogetsusei-0744				山山のあけのそぼ舟ほの〓〓と〓出る沖は霧罩て島	
+zkt-akishinogetsusei-0744				山山のあけのそぼ舟ほの／″＼と〓出る沖は霧罩て島	
 zkt-akishinogetsusei-0745				大大風風がきてわたる久方の月の都に玉や散るらむ	
 zkt-akishinogetsusei-0746				史科の山のたかねに月さえて競の雪は千里にぞしく	
 zkt-akishinogetsusei-0747				辛崎やにほてる沖に雲きえて月の氷に秋かぜぞ吹く	

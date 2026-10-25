@@ -12,7 +12,7 @@ zkt-akishinogetsusei-0511				x面影に紅葉のあきの龍田山ながるゝ�
 zkt-akishinogetsusei-0512				の薫るなり芳野の瀧の雲の波其の水上を花のみをにて	
 zkt-akishinogetsusei-0513				〓見るまゝに花も霞もなかりけり春を送るは嶺の春風	
 zkt-akishinogetsusei-0514				春やいま相坂こえて歸るらむ木綿附鳥の一聲ぞする	
-zkt-akishinogetsusei-0515		夏十首		山の端も霞の衣なれ〓〓て一夜の風に立ち渡るなり	
+zkt-akishinogetsusei-0515		夏十首		山の端も霞の衣なれ／＼て一夜の風に立ち渡るなり	
 zkt-akishinogetsusei-0516				夏の夜も關はあやなし橘をながめぬ空に風薫るなり	
 zkt-akishinogetsusei-0517				〓ののををおのが月夜と思ひけむ聲も曇りぬ郭公かな	
 zkt-akishinogetsusei-0518				雨はるゝ軒の雫に影見えて萬蒲にすがる夏の夜の月	

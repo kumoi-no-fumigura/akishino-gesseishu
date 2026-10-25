@@ -2,12 +2,12 @@ zkt-akishinogetsusei-1201				山里はひとり音する松風をながめやる
 zkt-akishinogetsusei-1202		座主無動寺に侍りけるに遣しける		〓君が住む山の奥をも見つるかな長き夜頃の夢の通路	
 zkt-akishinogetsusei-1203				世のうきをよそに聞くなる山の奥に猶鹿なかば同秋風	
 zkt-akishinogetsusei-1204				2年年にしわが立つ柚の杉村に幾秋風の君をとふらむ	
-zkt-akishinogetsusei-1205				「哀いかに志賀の秋霧ほの〓〓と浦ごく舟の跡眺む覽	
+zkt-akishinogetsusei-1205				「哀いかに志賀の秋霧ほの／″＼と浦ごく舟の跡眺む覽	
 zkt-akishinogetsusei-1206				ニ傳へくる跡はつきせじ岩が根の動く〓となき寺の印は	
 zkt-akishinogetsusei-1207		返し座		ふふ見ても我が思をも思ひしる忍ぶ日頃の夢の通路	
 zkt-akishinogetsusei-1208				鹿は鳴けど世の憂事をよミに聞く山の奥にはあらぬ秋風	
 zkt-akishinogetsusei-1209				風ならで君がとふこそ好しけれ我立つ柚の杉の印に	
-zkt-akishinogetsusei-1210				辛辛ややの朝霧はの〓〓と島なき卅の跡をしぞ思ふ	
+zkt-akishinogetsusei-1210				辛辛ややの朝霧はの／＼と島なき卅の跡をしぞ思ふ	
 zkt-akishinogetsusei-1211				一岩がねや君が繰りの君なくば動かぬ寺も跡無らまし	
 zkt-akishinogetsusei-1212		九月九日作文しける時中宮大夫詩を送るべき由かねていへりけるを其の日になりて賜はせざりければ後朝に遺しける		白菊の眞垣寂しく見えし哉君が言葉の花をよそにて	
 zkt-akishinogetsusei-1213		返し中宮大夫		か白ぎくの花もてやつす言の葉は中々なりや君が籬に	

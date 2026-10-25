@@ -9,7 +9,7 @@ zkt-akishinogetsusei-0158				お媛捨の山は心のうちなれや賴めぬ夜
 zkt-akishinogetsusei-0159				や消え難き下の思はなき物を富士も淺間も煙たてども	
 zkt-akishinogetsusei-0160		寄川戀		so昔思ふすみだ川原に鳥も居ば我も昔の〓と問はでやは	
 zkt-akishinogetsusei-0161				わいかにせむ身を宇治川の網代木に心をよする人の有かは	
-zkt-akishinogetsusei-0162				〓廣瀨川袖つくばかり沒きこそ絕え〓〓結ぶ契也けれ	
+zkt-akishinogetsusei-0162				〓廣瀨川袖つくばかり沒きこそ絕え／″＼結ぶ契也けれ	
 zkt-akishinogetsusei-0163				一石ばしる水やはうとき貴船川玉ちるばかり物思ふ頃	
 zkt-akishinogetsusei-0164				一飛鳥川瀨となる末もある物を袖には淵の朽果つる迄	
 zkt-akishinogetsusei-0165		寄松戀		一友と見よ鳴尾に立てる一つ松夜々我も偖過ぐる身ぞ一	
@@ -29,7 +29,7 @@ zkt-akishinogetsusei-0178				冬冬の朝衞士の煙を立つる屋のあたり
 zkt-akishinogetsusei-0179				ヒ春春秋も葉替ぬ竹は昔より常磐なるべき君が御影に	
 zkt-akishinogetsusei-0180		神社五首		〓御裳灌のひろき流に照す日の普き影は四方の海まで	
 zkt-akishinogetsusei-0181				右石〓水すむも濁るも世中の人の心をくむにぞ有ける	
-zkt-akishinogetsusei-0182				。我我〓〓る〓の末を知れとてや袂にとほき賀茂の川風	
+zkt-akishinogetsusei-0182				。我我／＼る〓の末を知れとてや袂にとほき賀茂の川風	
 zkt-akishinogetsusei-0183				一契あれや春日の嶺の松にしも懸り初めける北の藤波	
 zkt-akishinogetsusei-0184				一一佳吉の岸に生ひける松よりも猶おく深き秋風のこゑ	
 zkt-akishinogetsusei-0185		佛寺五首		長き夜に朝日まつまの心こそたかのゝ奧に有明の月	

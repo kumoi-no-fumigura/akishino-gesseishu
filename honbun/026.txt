@@ -1,6 +1,6 @@
 zkt-akishinogetsusei-1251				加霜凍る眞菅が下に閉ぢてけりそがの河原の水の白波	
 zkt-akishinogetsusei-1252				〓幾度か寢覺しつらむ袖の露凍れるよはの明し難さに	
-zkt-akishinogetsusei-1253				一掩ふべき袖こそなけれ世中の貧き民の寒きよな〓〓	
+zkt-akishinogetsusei-1253				一掩ふべき袖こそなけれ世中の貧き民の寒きよな／＼	
 zkt-akishinogetsusei-1254				〓さゆる夜の槇の板屋の獨寢に心くだけて彼降るなり	
 zkt-akishinogetsusei-1255				吉野川瀧の水上こほるらし今朝よわりゆく岩波の聲	
 zkt-akishinogetsusei-1256				明方の浪間の月やさえぬらむそれより凍る廣澤の池	
@@ -26,7 +26,7 @@ zkt-akishinogetsusei-1275		家の選歌合に、冬述懷		世に住めば早く
 zkt-akishinogetsusei-1276		院於春日御社歌合三首の內、落葉を		、鹿のたつ森の木蔭の唐錦ふきしく風は神のまに〓〓〓	
 zkt-akishinogetsusei-1277		北野の宮の歌合、時雨		ね村雲に後れ先だつ夜はの月知らず時雨の幾廻りとも人	
 zkt-akishinogetsusei-1278		祝部女御入內の月次の御屏風の歌第一帖小朝拜列立所		立初むる雲居の春は諸人の袖を連ぬる庭に見えけり	
-zkt-akishinogetsusei-1279		野邊の小松原に子日する所		一春日野の小松に雪を引添へてかつ〓〓千世の花咲に見	
+zkt-akishinogetsusei-1279		野邊の小松原に子日する所		一春日野の小松に雪を引添へてかつ／″＼千世の花咲に見	
 zkt-akishinogetsusei-1280				詠めやる遠里をのは仄かにて霞にのこる松の風かな	
 zkt-akishinogetsusei-1281		第二期花竹の間に爲ある所、人の家もあり		一春の日の長閑にかすむ梢よりうちとけそむる爲の聲	
 zkt-akishinogetsusei-1282		春日祭社頭儀		幾春の今日のまつりを三笠山みねの朝日の末も遙に	

@@ -7,7 +7,7 @@ zkt-akishinogetsusei-0006				ふかづらきの嶺の白雲かをるなり高間
 zkt-akishinogetsusei-0007				比良の山は近江の海の近ければ浪と花との見ゆるなる〓九	
 zkt-akishinogetsusei-0008				更に又麓の浪もかをるなり花の香おろす志賀の山風	
 zkt-akishinogetsusei-0009				☆秋秋はまだ鹿のね〓げじ高砂のをのへの程に櫻一むら	
-zkt-akishinogetsusei-0010				明け渡る外山の梢ほの〓〓と霞ぞかをる宇治の春風	
+zkt-akishinogetsusei-0010				明け渡る外山の梢ほの／″＼と霞ぞかをる宇治の春風	
 zkt-akishinogetsusei-0011				世の中よさくらに咲ける花なくば春と云ふ頃も遮莫	
 zkt-akishinogetsusei-0012				九九重の花の盛になりぬれば雲ぞ雲居のしるし也けるa·	
 zkt-akishinogetsusei-0013				立ちよれば御階の櫻盛也幾代の春のみゆきなるらむ0	
@@ -21,7 +21,7 @@ zkt-akishinogetsusei-0020				何となく春の心に誘はれぬ今日白川の
 zkt-akishinogetsusei-0021				〓〓〓日日又去年乗せし山に來て契知らるゝ花のかげ哉2	
 zkt-akishinogetsusei-0022				我が厭ふ春の山守思知れ折らずば風の殘すべきかは2	
 zkt-akishinogetsusei-0023				〇七かすみゆく宿の梢ぞ哀なるまだ見ぬ山の花の通ひぢ	
-zkt-akishinogetsusei-0024				一はる〓〓と我が住む方は霞にて宿かる花を拂ふ山風	
+zkt-akishinogetsusei-0024				一はる／″＼と我が住む方は霞にて宿かる花を拂ふ山風	
 zkt-akishinogetsusei-0025				〓あはれなる花の木蔭の旅寢かな嶺の霞の衣かさねて	
 zkt-akishinogetsusei-0026				村村のの校校に馴るゝ氣近さに花に宿かる程ぞ知らるゝ	
 zkt-akishinogetsusei-0027				〓待侘ぬ更に人をや尋ねまし花故とてぞ來つる山路を	
@@ -43,7 +43,7 @@ zkt-akishinogetsusei-0042				山山のたにゝ櫻をさそひきてなほ岩た
 zkt-akishinogetsusei-0043				一風よりも過ぐる日數のつらき哉いつかは散し春の初花	
 zkt-akishinogetsusei-0044				明方の深山のはるの風さびて心くだけと散る櫻かな	
 zkt-akishinogetsusei-0045				花ちれば頓て人めも枯れはつる深山の里の春の幕哉	
-zkt-akishinogetsusei-0046				庭に散る花は雨にぞしをれける梢に風を恨み〓〓て	
+zkt-akishinogetsusei-0046				庭に散る花は雨にぞしをれける梢に風を恨み／＼て	
 zkt-akishinogetsusei-0047				ちち花を苗代水に誘ひ來て山田のかはづ聲薫るなり	
 zkt-akishinogetsusei-0048				猶ちらじ深山がくれの遲櫻またあくがれむ春の幕方	
 zkt-akishinogetsusei-0049				高砂の足上の花に春くれて殘りし松の榮えゆくかな	

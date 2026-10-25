@@ -24,7 +24,7 @@ zkt-akishinogetsusei-1023		廣橋を		xo風薫る軒の立花年ふりてしの�
 zkt-akishinogetsusei-1024		院の選歌合の十首の中、雨後郭公		一五月雨を厭ふとなしに郭公人に待たれて月を待ける	
 zkt-akishinogetsusei-1025		松下晩涼		一蟬の羽に置く夕露の木がくれて秋を宿せる庭の松風	
 zkt-akishinogetsusei-1026		院にて人丸の影供ありしに、海邊夏月		一夏の夜を明石のせとの浪の上に月吹き返す磯の松風	
-zkt-akishinogetsusei-1027		同じ御合の次での當座の御會に、竹風夜凉		一竹竹の起臥し風にそなれきて夜な〓〓秋と驚かす也	
+zkt-akishinogetsusei-1027		同じ御合の次での當座の御會に、竹風夜凉		一竹竹の起臥し風にそなれきて夜な／＼秋と驚かす也	
 zkt-akishinogetsusei-1028		山家五月雨		ル軒近きまきの梢に居る雲の重なるまゝに五月雨の空	
 zkt-akishinogetsusei-1029		院の十首の歌合に、六蒲を		一今日といへば袖も枕も萬蒲草かけてぞ結ぶ長き契を	
 zkt-akishinogetsusei-1030		郭公		〓をちかへり軒端にきなけ郭公はな橘に雨そゝぐなり	

@@ -27,7 +27,7 @@ zkt-akishinogetsusei-0876				〓五月山雨にあめそふ夕風に雲よりし
 zkt-akishinogetsusei-0877				〓長閑に袖のあやめを片敷きて枕も夢も結ぶともなし	
 zkt-akishinogetsusei-0878				戦飼舟下す戶無湖の水馴樟さしも程なく明るよは哉	
 zkt-akishinogetsusei-0879				〓ね〓てね〓てこゝには夏も嵐山木隱れてこそ秋は有けれ.	
-zkt-akishinogetsusei-0880				益とぶ野澤にしげる蘆の根の夜な〓〓下に通ふ秋風	
+zkt-akishinogetsusei-0880				益とぶ野澤にしげる蘆の根の夜な／＼下に通ふ秋風	
 zkt-akishinogetsusei-0881				郭公なくねも稀になる儘にやゝ影すゞし山の端の月	
 zkt-akishinogetsusei-0882				床夏の花も玉ゐる夕幕を知らでや鹿の秋を待つらむ	
 zkt-akishinogetsusei-0883		秋		入れを秋と思ひ入りても詠めつる雲の旗手の夕暮の空	

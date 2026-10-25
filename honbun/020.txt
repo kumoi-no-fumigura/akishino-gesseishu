@@ -10,7 +10,7 @@ zkt-akishinogetsusei-0959		寄舟戀		波高き蟲明の瀨戶に行く船のよ
 zkt-akishinogetsusei-0960		寄琴態		加懸侘びてなくねも通ふ翠の音に凍れる水の下結つゝ	
 zkt-akishinogetsusei-0961		寄衣戀		我我は大和にはあらぬ唐藍の八しほの衣深く染てき	
 zkt-akishinogetsusei-0962		春立つ日雪の降りければ		N吉野山なほしら雪のふる里は去年とやいはむ春の唱	
-zkt-akishinogetsusei-0963		春のはじめに		加年くれし雲居の雪げ晴初めて絕え〓〓靑き東雲の空	
+zkt-akishinogetsusei-0963		春のはじめに		加年くれし雲居の雪げ晴初めて絕え／″＼靑き東雲の空	
 zkt-akishinogetsusei-0964				of動きなき山の岩根は答へねど春をぞ〓ぐる雪の下水	
 zkt-akishinogetsusei-0965				〓此頃は谷の杉むら雪きえて霞も知らぬ春のやまかせ	
 zkt-akishinogetsusei-0966				ニ千千までけしきにこむる霞にも獨春なきこしの白山	

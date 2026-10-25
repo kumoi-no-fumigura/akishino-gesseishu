@@ -21,7 +21,7 @@ zkt-akishinogetsusei-1170				な物思ふ我かはあやな秋の月尋ねて袖
 zkt-akishinogetsusei-1171				ば身やはうき空やはつらき秋の月いかに眺て袖濡す覽〓	
 zkt-akishinogetsusei-1172				一本今年とて秋やは變る月影にならはぬ程の心そひぬる	
 zkt-akishinogetsusei-1173				が見る月は山より山に移り來ぬ寢ぬ夜のはての曉の空	
-zkt-akishinogetsusei-1174		いかなりける時にか		〓思出でゝ泣く〓〓月に等ずば待てと契し中や絕なむ	
+zkt-akishinogetsusei-1174		いかなりける時にか		〓思出でゝ泣く／＼月に等ずば待てと契し中や絕なむ	
 zkt-akishinogetsusei-1175		月の歌よみける中に		一春は猶心あてにぞ春は見し雲もまがはぬ三吉野の月	
 zkt-akishinogetsusei-1176				泡雪を春の光に見しよりも雲間の月の庭のむらぎえ	
 zkt-akishinogetsusei-1177				ミ六それも猶心のはてはありぬべし月見ぬ秋の鹽竈の浦	
@@ -30,7 +30,7 @@ zkt-akishinogetsusei-1179				手に汲みし由井の水にすまれ共あかで
 zkt-akishinogetsusei-1180				へへけけな今年も春を三吉野の今更科に秋ふくる迄	
 zkt-akishinogetsusei-1181		一二三を何の上にすゑて秋の歌よみける		一むらの昔の薄思ひ出でゝしげき野分の秋の夕ぐれ	
 zkt-akishinogetsusei-1182				二もとの杉の權は初時雨ふる川のべに色もかはらず	
-zkt-akishinogetsusei-1183				三日月の有明の空に變る迄槇の戶さゝぬ秋のよな〓〓	
+zkt-akishinogetsusei-1183				三日月の有明の空に變る迄槇の戶さゝぬ秋のよな／＼	
 zkt-akishinogetsusei-1184				ct四の海風靜かなる波の上に曇なき世の月を見るかな	
 zkt-akishinogetsusei-1185				一五五山照射に洩れしさを鹿の秋は思に身をしをる覽	
 zkt-akishinogetsusei-1186				三六月の空に厭ひし空蟬の今は秋なる音をや鳴くらむ	

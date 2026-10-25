@@ -10,12 +10,12 @@ zkt-akishinogetsusei-0209				4番春花花きき月月もも殘りける心の�
 zkt-akishinogetsusei-0210		地儀十首		ハ吉野山空しく峯に跡とぢて憂世を聞かぬ風の音かな	
 zkt-akishinogetsusei-0211				ね高砂の浦の松をも隔て來て友こそなけれ八重の汐風	
 zkt-akishinogetsusei-0212				白波の跡をばよそに思はせて潤ぎ離れ行く志賀の曙	
-zkt-akishinogetsusei-0213				〓大井川朝げの煙はる〓〓とくだす筏の遠ざかり行く	
+zkt-akishinogetsusei-0213				〓大井川朝げの煙はる／″＼とくだす筏の遠ざかり行く	
 zkt-akishinogetsusei-0214				舊にける昆陽の池水み錆ゐて蘆間も月の影ぞ乏しき	
 zkt-akishinogetsusei-0215				踏馴れし伏見のを田の畦傳ひ苗代水にとだえしに鳬	
 zkt-akishinogetsusei-0216				〃哀いかに旅行袖の成ぬらむ木の下わくる宮城野の原	
 zkt-akishinogetsusei-0217				秋は皆千々に物思ふ頃ぞかし信太の森の雫のみかは	
-zkt-akishinogetsusei-0218				分分くらす木付の桃たえ〓〓に行末ふかき嶺の白雲	
+zkt-akishinogetsusei-0218				分分くらす木付の桃たえ／＼に行末ふかき嶺の白雲	
 zkt-akishinogetsusei-0219				足柄の關路こえ行くしのゝめに一むら霞む浮島が原	
 zkt-akishinogetsusei-0220		居所十首		百敷や玉のうてなに照る月の光をえたる秋のみや人	
 zkt-akishinogetsusei-0221				ル六天の下樂しき御代は煙立つ民の竈のけしきなりけり	

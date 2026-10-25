@@ -17,7 +17,7 @@ zkt-akishinogetsusei-1466				淵も瀨もひまなくかはる飛鳥川人の心
 zkt-akishinogetsusei-1467				kmはらはでや軒ばの草に任せまし古きを忍ぶ心茂りて	
 zkt-akishinogetsusei-1468				〓染置きし憂世の色を捨てやらで猶花思ふ三吉野の山	
 zkt-akishinogetsusei-1469				「蓄むより散るべき色の物なれや風に花は宿る也けり0	
-zkt-akishinogetsusei-1470				シをり〓〓の心にそめて年も經ぬ秋每の月春ごとの花	
+zkt-akishinogetsusei-1470				シをり／＼の心にそめて年も經ぬ秋每の月春ごとの花	
 zkt-akishinogetsusei-1471				長き夜の更行く月を眺めても近づく間を知人ぞなき	
 zkt-akishinogetsusei-1472				~照すらむ月口の光曇らずば空を賴みて世をや過まし	
 zkt-akishinogetsusei-1473		皇太后宮大夫入道が許へせうそこして侍りし返事にかくいひ遣したりける		秋の時すてゝし谷の埋木を嬉しくもとふ松の風かな	
@@ -35,7 +35,7 @@ zkt-akishinogetsusei-1484		艶歌		〓忘れなむ中々またじ待つとても
 zkt-akishinogetsusei-1485		旅		夢にだに逢夜稀なる都人ねられぬ月に遠ざかりつゝ	
 zkt-akishinogetsusei-1486		瀧水を詠める		天の川ながれや案にかよふらむ白雲おつる瀧の水上	
 zkt-akishinogetsusei-1487		和羽林次將大原之作		有有ののまつ山の麓にてうき世の間は思ひ知りにき	
-zkt-akishinogetsusei-1488		舍利講の次で、思を		○さま〓〓の人の思の末やいかに同じ煙の空に霞める	
+zkt-akishinogetsusei-1488		舍利講の次で、思を		○さま／″＼の人の思の末やいかに同じ煙の空に霞める	
 zkt-akishinogetsusei-1489		八月十五夜前座主の許より		。やよや月去年又今や一昨年も今宵の空は掻曇りしを	
 zkt-akishinogetsusei-1490				coいかなれば晴行く空の月を見て我心のみ雲かゝる覧	
 zkt-akishinogetsusei-1491		返し		o.三年まで營りし月も晴れぬれば猶光そふ空を待つ哉	

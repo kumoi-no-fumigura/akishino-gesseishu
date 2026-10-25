@@ -44,7 +44,7 @@ zkt-akishinogetsusei-0343				→風さむみ今日も奚の古〓は吉野の山
 zkt-akishinogetsusei-0344		野行幸		一片川の波も昔に立ち返りみゆきたえせぬ嵯峨の山陰	
 zkt-akishinogetsusei-0345		冬朝		〓雲深き案の朝げのいかならむ槇の戶しらむ雪の光に	
 zkt-akishinogetsusei-0346		寒松		〓〓水水るる谷の戶ぼそも閉ぢはてゝ氷を叩く嶺の松風	
-zkt-akishinogetsusei-0347		椎柴		山里の寂しさおもふ煙ゆゑたえ〓〓立てる嶺の椎柴	
+zkt-akishinogetsusei-0347		椎柴		山里の寂しさおもふ煙ゆゑたえ／＼立てる嶺の椎柴	
 zkt-akishinogetsusei-0348				さゆる夜に爲の会を重ねきて袖の氷を拂ひかねつゝ	
 zkt-akishinogetsusei-0349		佛名		い一とせの儚き夢は覺めぬらむ三世の佛の鐘の響きに	
 zkt-akishinogetsusei-0350		初戀		知らざりし我戀草や茂る覽昨日はかゝる袖の露かは	
