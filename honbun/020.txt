@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0951		幕秋曉月		〓〓はは末末野にならすはし鷹の戀しかるべき有明の月	
-zkt-akishinogetsusei-0952		寄雲戀		一移移ゆゆく人の心は白雲のたえてつれなき契なりけり	
-zkt-akishinogetsusei-0953		寄風戀		が行き通ふ風のつてにも別ぬれば吹來ぬ宵は戀しき物を	
-zkt-akishinogetsusei-0954		寄雨戀		〓忘られて我が身時雨の古〓にいはいや物を軒の玉水	
-zkt-akishinogetsusei-0955		寄草戀		一休らひに賴めて出でし跡しあれば猶待物を庭の蓬生	
-zkt-akishinogetsusei-0956		寄木戀		ニ誰誰の心木葉に枯に劔待とし聞かば世々もへぬべし	
-zkt-akishinogetsusei-0957		寄島戀		深深江に思ふ心はみがくれて通ふばかりの鳰の下路	
-zkt-akishinogetsusei-0958		寄鼠戀		智秋はてゝ深山烈く吹く嵐あらじ今はのなげの言の葉	
-zkt-akishinogetsusei-0959		寄舟戀		波高き蟲明の瀨戶に行く船のよるべ知せよ沖の湖風	
-zkt-akishinogetsusei-0960		寄琴態		加懸侘びてなくねも通ふ翠の音に凍れる水の下結つゝ	
-zkt-akishinogetsusei-0961		寄衣戀		我我は大和にはあらぬ唐藍の八しほの衣深く染てき	
-zkt-akishinogetsusei-0962		春立つ日雪の降りければ		N吉野山なほしら雪のふる里は去年とやいはむ春の唱	
-zkt-akishinogetsusei-0963		春のはじめに		加年くれし雲居の雪げ晴初めて絕え／″＼靑き東雲の空	
-zkt-akishinogetsusei-0964				of動きなき山の岩根は答へねど春をぞ〓ぐる雪の下水	
-zkt-akishinogetsusei-0965				〓此頃は谷の杉むら雪きえて霞も知らぬ春のやまかせ	
-zkt-akishinogetsusei-0966				ニ千千までけしきにこむる霞にも獨春なきこしの白山	
-zkt-akishinogetsusei-0967		爲		誓はのこり花も匂はぬ山里にひとり春なる爲のこゑ	
-zkt-akishinogetsusei-0968		殘雪		〓坂坂の杉の木蔭に宿かりて關路にとまる去年の白雪	
-zkt-akishinogetsusei-0969		春の歌よみける中に		11春やとき軒ばの梅に雪さえて今日迄花の枝に殘れる	
-zkt-akishinogetsusei-0970		院の十首の歌合、若草		な春風の吹にし日よりみ吉野の雪まの草ぞ色增り行く	
-zkt-akishinogetsusei-0971		同じ歌合に落花を		は可惜夜の詠めし花に風吹けば月を殘して晴るゝ白雲	
-zkt-akishinogetsusei-0972		院の選歌合の十首の中、霞隔遠樹		ハ〓詠めこし沖つ波まの濱楸ひさしく見せぬはる霞かな	
-zkt-akishinogetsusei-0973		同じ歌合に霧中花		お今日もまた櫻に宿をかり衣著つゝなれ行く春の山風	
-zkt-akishinogetsusei-0974		同じ御會に、松間爲		〓〓折折の松を春風吹くからにまづ打ち解くる爲のこゑ	
-zkt-akishinogetsusei-0975		同じ御會に、朝若菜		一郡人けふの爲にとしめし野に朝露拂ひ若菜をぞ摘む	
-zkt-akishinogetsusei-0976		同じ御會の三首、春風不分處		押なべて民の草葉も打廉き君が御代には春風ぞ吹く	
-zkt-akishinogetsusei-0977		梅花薫晚袖		折袖の露の詫言に影見れば有明の月も梅の香ぞする	
-zkt-akishinogetsusei-0978		晩霞隔 春山		重ぬべき霞の袖もたゞ一重いかにやどらむ山の夕蔭	
-zkt-akishinogetsusei-0979				今口だにも庭を盛とみつる花消すば有とも雪かとも見よ	
-zkt-akishinogetsusei-0980		御返し		誘はれぬ人の爲とや殘りけむ明日より先の花の白書	
-zkt-akishinogetsusei-0981		大原に罷りて花見侍りけるに日の暮れにければ		花にあかぬ名残を思ふ春の日の心も知らぬ鐘の音哉	
-zkt-akishinogetsusei-0982		家の歌合に曉霞を		ハ岩戸めけし神代も今の心地して仄に霞む天のかぐ山	
-zkt-akishinogetsusei-0983		池岸梅花		〓〓の〓の〓の〓の〓の咲きしより紅くゝるさゝ波ぞ立つ	
-zkt-akishinogetsusei-0984		朝花		〓。〓風に〓立つ雲の晴れぬれば花をぞ花と三吉野の山	
-zkt-akishinogetsusei-0985		山花		一都には霞のよそにながむらむ今日見る米の花の白雲	
-zkt-akishinogetsusei-0986		春の歌とて		程程なな枯ののをを焼しより春の若草萠え變るなり	
-zkt-akishinogetsusei-0987				〓おおるる月月夜に窓をあけて衣手さむき春風ぞ吹く	
-zkt-akishinogetsusei-0988				「霜きえて打出づる波やこたふらむ霞める山の曉の鐘	
-zkt-akishinogetsusei-0989				〓ぬぬ夜の程なき夢と知られぬる春の櫻に殘る灯火	
-zkt-akishinogetsusei-0990		歸服		眺むれば霞める空一浮浮と一つになりぬ歸る雁がね	
-zkt-akishinogetsusei-0991		春の歌よみける中に		ヒ紫の庭も長閑にかすむ口の光ともなふうぐひすの聲	
-zkt-akishinogetsusei-0992				〓わかず眺めし秋の月よりも深山の花の人しをる覽	
-zkt-akishinogetsusei-0993				えああののののだだ鹽鹽〓あれや磁山櫻かざす海士人	
-zkt-akishinogetsusei-0994				〓ふるきあとぞ霞みはてぬる高圓の尾上の宮の春の曙	
-zkt-akishinogetsusei-0995		初瀬山春		ははせせ花花に浮世や殘るらむ庵哀なる春の木のもと	
-zkt-akishinogetsusei-0996		內裏の直應に侍りける頃大乘院座主無動寺より申しおくれりける		一部には彌生のそらの花盛しるや深山はまだ雪のちる	
-zkt-akishinogetsusei-0997		返し		知らざりつ今日九重の花を見て猶白雪の深き山とは	
-zkt-akishinogetsusei-0998		同じ頃又山より		見せばやな志賀の唐崎驚なる長柄の山の春の景色を	
-zkt-akishinogetsusei-0999		返し		我思ふ心や行て霞むらむ志賀のあたりの春の景色は	
-zkt-akishinogetsusei-1000		花盛に大内におはしましける頃公衡卿の許より女房の中へ		風の音は長閑けれ共日數へて花や雲居の雪とふる也	
+zkt-akishinogetsusei-0951	951	幕秋曉月		〓〓はは末末野にならすはし鷹の戀しかるべき有明の月	
+zkt-akishinogetsusei-0952	952	寄雲戀		一移移ゆゆく人の心は白雲のたえてつれなき契なりけり	
+zkt-akishinogetsusei-0953	953	寄風戀		が行き通ふ風のつてにも別ぬれば吹來ぬ宵は戀しき物を	
+zkt-akishinogetsusei-0954	954	寄雨戀		〓忘られて我が身時雨の古〓にいはいや物を軒の玉水	
+zkt-akishinogetsusei-0955	955	寄草戀		一休らひに賴めて出でし跡しあれば猶待物を庭の蓬生	
+zkt-akishinogetsusei-0956	956	寄木戀		ニ誰誰の心木葉に枯に劔待とし聞かば世々もへぬべし	
+zkt-akishinogetsusei-0957	957	寄島戀		深深江に思ふ心はみがくれて通ふばかりの鳰の下路	
+zkt-akishinogetsusei-0958	958	寄鼠戀		智秋はてゝ深山烈く吹く嵐あらじ今はのなげの言の葉	
+zkt-akishinogetsusei-0959	959	寄舟戀		波高き蟲明の瀨戶に行く船のよるべ知せよ沖の湖風	
+zkt-akishinogetsusei-0960	960	寄琴態		加懸侘びてなくねも通ふ翠の音に凍れる水の下結つゝ	
+zkt-akishinogetsusei-0961	961	寄衣戀		我我は大和にはあらぬ唐藍の八しほの衣深く染てき	
+zkt-akishinogetsusei-0962	962	春立つ日雪の降りければ		N吉野山なほしら雪のふる里は去年とやいはむ春の唱	
+zkt-akishinogetsusei-0963	963	春のはじめに		加年くれし雲居の雪げ晴初めて絕え／″＼靑き東雲の空	
+zkt-akishinogetsusei-0964	964			of動きなき山の岩根は答へねど春をぞ〓ぐる雪の下水	
+zkt-akishinogetsusei-0965	965			〓此頃は谷の杉むら雪きえて霞も知らぬ春のやまかせ	
+zkt-akishinogetsusei-0966	966			ニ千千までけしきにこむる霞にも獨春なきこしの白山	
+zkt-akishinogetsusei-0967	967	爲		誓はのこり花も匂はぬ山里にひとり春なる爲のこゑ	
+zkt-akishinogetsusei-0968	968	殘雪		〓坂坂の杉の木蔭に宿かりて關路にとまる去年の白雪	
+zkt-akishinogetsusei-0969	969	春の歌よみける中に		11春やとき軒ばの梅に雪さえて今日迄花の枝に殘れる	
+zkt-akishinogetsusei-0970	970	院の十首の歌合、若草		な春風の吹にし日よりみ吉野の雪まの草ぞ色增り行く	
+zkt-akishinogetsusei-0971	971	同じ歌合に落花を		は可惜夜の詠めし花に風吹けば月を殘して晴るゝ白雲	
+zkt-akishinogetsusei-0972	972	院の選歌合の十首の中、霞隔遠樹		ハ〓詠めこし沖つ波まの濱楸ひさしく見せぬはる霞かな	
+zkt-akishinogetsusei-0973	973	同じ歌合に霧中花		お今日もまた櫻に宿をかり衣著つゝなれ行く春の山風	
+zkt-akishinogetsusei-0974	974	同じ御會に、松間爲		〓〓折折の松を春風吹くからにまづ打ち解くる爲のこゑ	
+zkt-akishinogetsusei-0975	975	同じ御會に、朝若菜		一郡人けふの爲にとしめし野に朝露拂ひ若菜をぞ摘む	
+zkt-akishinogetsusei-0976	976	同じ御會の三首、春風不分處		押なべて民の草葉も打廉き君が御代には春風ぞ吹く	
+zkt-akishinogetsusei-0977	977	梅花薫晚袖		折袖の露の詫言に影見れば有明の月も梅の香ぞする	
+zkt-akishinogetsusei-0978	978	晩霞隔 春山		重ぬべき霞の袖もたゞ一重いかにやどらむ山の夕蔭	
+zkt-akishinogetsusei-0979	979			今口だにも庭を盛とみつる花消すば有とも雪かとも見よ	
+zkt-akishinogetsusei-0980	980	御返し		誘はれぬ人の爲とや殘りけむ明日より先の花の白書	
+zkt-akishinogetsusei-0981	981	大原に罷りて花見侍りけるに日の暮れにければ		花にあかぬ名残を思ふ春の日の心も知らぬ鐘の音哉	
+zkt-akishinogetsusei-0982	982	家の歌合に曉霞を		ハ岩戸めけし神代も今の心地して仄に霞む天のかぐ山	
+zkt-akishinogetsusei-0983	983	池岸梅花		〓〓の〓の〓の〓の〓の咲きしより紅くゝるさゝ波ぞ立つ	
+zkt-akishinogetsusei-0984	984	朝花		〓。〓風に〓立つ雲の晴れぬれば花をぞ花と三吉野の山	
+zkt-akishinogetsusei-0985	985	山花		一都には霞のよそにながむらむ今日見る米の花の白雲	
+zkt-akishinogetsusei-0986	986	春の歌とて		程程なな枯ののをを焼しより春の若草萠え變るなり	
+zkt-akishinogetsusei-0987	987			〓おおるる月月夜に窓をあけて衣手さむき春風ぞ吹く	
+zkt-akishinogetsusei-0988	988			「霜きえて打出づる波やこたふらむ霞める山の曉の鐘	
+zkt-akishinogetsusei-0989	989			〓ぬぬ夜の程なき夢と知られぬる春の櫻に殘る灯火	
+zkt-akishinogetsusei-0990	990	歸服		眺むれば霞める空一浮浮と一つになりぬ歸る雁がね	
+zkt-akishinogetsusei-0991	991	春の歌よみける中に		ヒ紫の庭も長閑にかすむ口の光ともなふうぐひすの聲	
+zkt-akishinogetsusei-0992	992			〓わかず眺めし秋の月よりも深山の花の人しをる覽	
+zkt-akishinogetsusei-0993	993			えああののののだだ鹽鹽〓あれや磁山櫻かざす海士人	
+zkt-akishinogetsusei-0994	994			〓ふるきあとぞ霞みはてぬる高圓の尾上の宮の春の曙	
+zkt-akishinogetsusei-0995	995	初瀬山春		ははせせ花花に浮世や殘るらむ庵哀なる春の木のもと	
+zkt-akishinogetsusei-0996	996	內裏の直應に侍りける頃大乘院座主無動寺より申しおくれりける		一部には彌生のそらの花盛しるや深山はまだ雪のちる	
+zkt-akishinogetsusei-0997	997	返し		知らざりつ今日九重の花を見て猶白雪の深き山とは	
+zkt-akishinogetsusei-0998	998	同じ頃又山より		見せばやな志賀の唐崎驚なる長柄の山の春の景色を	
+zkt-akishinogetsusei-0999	999	返し		我思ふ心や行て霞むらむ志賀のあたりの春の景色は	
+zkt-akishinogetsusei-1000	1000	花盛に大内におはしましける頃公衡卿の許より女房の中へ		風の音は長閑けれ共日數へて花や雲居の雪とふる也	

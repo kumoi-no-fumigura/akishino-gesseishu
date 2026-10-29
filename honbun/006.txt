@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0251				かほとゝぎす心を染むる一聲は袂の露に殘るなりけり	
-zkt-akishinogetsusei-0252				co秋の夜の月に待出づる初腫の霞みて過ぐる春の古〓	
-zkt-akishinogetsusei-0253				〓秋なればと計り見まし我宿の眞垣の野邊は鶉伏す迄	
-zkt-akishinogetsusei-0254				。一緒野には今こそすらし小鷹狩山の繁みに雀かたよる	
-zkt-akishinogetsusei-0255				。oを集ふる心よいかに燕かへる野中の秋のゆふぐれ	
-zkt-akishinogetsusei-0256				o.風寒し友なし千鳥こよひなけ我も磯寢に衣かたしく	
-zkt-akishinogetsusei-0257				40鴨居る汀の風にゆられきて〓の浮巢は旅寢してけり	
-zkt-akishinogetsusei-0258				加明けぬなり山田の澤にふす鴫の羽おと催す友の一聲	
-zkt-akishinogetsusei-0259				c〓朝な／＼雪のみ山に鳴く鳥の聲に驚く人のなきかな	
-zkt-akishinogetsusei-0260		獸部十首		No山がつの裾野に放つ春駒はひらきてけりな草の下道0	
-zkt-akishinogetsusei-0261				ねた〓へ來る松の嵐や弛むらむ足上に歸るさを鹿の聲0	
-zkt-akishinogetsusei-0262				○夜の雨の打も寢られぬ奧山に心しらるゝ猿のみ叫び	
-zkt-akishinogetsusei-0263				主知らぬ岡べの里を來て問へば答ぬ先に犬ぞ谷むる	
-zkt-akishinogetsusei-0264				一古〓の軒のひはだに草あれてあはれ狐のふし所かな	
-zkt-akishinogetsusei-0265				〓あら熊の棲みける谷を隣にて都に違き柴のいほかな	
-zkt-akishinogetsusei-0266				道のべに過ぎける牛の跡みれば心の罪は類ひあり免	
-zkt-akishinogetsusei-0267				驚かぬ伏猪の床の眠哉さらでも夢に過ぐる此の世を	
-zkt-akishinogetsusei-0268				一世中に虎狼はなにならず人の口こそなほまさりけれ	
-zkt-akishinogetsusei-0269				後世に彌陀のりさうを冠らすばあな淺ましの月の鼠や	
-zkt-akishinogetsusei-0270		蟲十首		〓我宿の春の花圓見る度に飛びかふ蝶の人なれにけり	
-zkt-akishinogetsusei-0271				嵐風けば池の洋かたよれど下に蛙の音を絕えぬかな	
-zkt-akishinogetsusei-0272				°夏夏夜夜枕を渡る蚊の聲の僅にだにもい社寢られね	
-zkt-akishinogetsusei-0273				=大方の草葉のつゆに風過ぎて益ばかりの影ぞ殘れる	
-zkt-akishinogetsusei-0274				一皆人は蟬の羽衣ぬぎすてゝ秋は今なる日ぐらしの聲	
-zkt-akishinogetsusei-0275				王露そむる野べの錦の色々を機織る蟲のしたり顏なる	
-zkt-akishinogetsusei-0276				びひりりてて明明思ふ夕間にまた松蟲の聲もありけり	
-zkt-akishinogetsusei-0277				五二秋たけぬ衣手寒しきり／＼す今いく夜かは床近き聲	
-zkt-akishinogetsusei-0278				た軒端より籬の草にかたかけて風を限のさゝがにの糸	
-zkt-akishinogetsusei-0279				二古〓の板間にかゝる義〓の漏りける雨を知せ顏なる	
-zkt-akishinogetsusei-0280		神祇十首		之君を祈る時しもあれや神風の身に浸渡る伊勢の濱荻	
-zkt-akishinogetsusei-0281				一月月すす秋秋の最中の石〓水こよひぞ神の光なりける	
-zkt-akishinogetsusei-0282				ca昨日かも絶ぬ御誕を御手洗に雲居の使けふや立添ふ	
-zkt-akishinogetsusei-0283				*一稻荷山敬の杉むら風ふりて神さびわたるしでの音哉	
-zkt-akishinogetsusei-0284				三浮世にも露懸るべき我身かは三笠の森の陰に隠れて	
-zkt-akishinogetsusei-0285				宮居せし年もつもりの浦さびて神代覺ゆる松の風哉	
-zkt-akishinogetsusei-0286				賴むべき口吉の影の普くは開路の末も照さゞらめや	
-zkt-akishinogetsusei-0287				神神のおまへのはまの濱風に波もうちそふ里神樂哉	
-zkt-akishinogetsusei-0288				ハ八雲たつ出雲八重垣今日迄も昔の跡は隔てざりけり	
-zkt-akishinogetsusei-0289				稀になる跡を尋ねし熊野山みし昔より賴みそめてき	
-zkt-akishinogetsusei-0290		釋〓十首地獄		メル燃燃火も閉る氷も消えずして幾代迷はぬ長き夜の間	
-zkt-akishinogetsusei-0291		俄鬼		加身を責る俄の心に堪愛ねて子を思ふ道ぞ忘果てぬる	
-zkt-akishinogetsusei-0292		畜生		cm水に住み雲居にかける心にも憂世の網は如何悲しき	
-zkt-akishinogetsusei-0293		修羅		一浪立ちし心のみちの末は又苦しき海の底に住むかな	
-zkt-akishinogetsusei-0294		人		一夢の世に月日傳く明暮て又は得難き身をいかにせむ	
-zkt-akishinogetsusei-0295		天		3五玉けけしあとには露を置きかへて色衰ふる天の羽衣	
-zkt-akishinogetsusei-0296		聲聞		一果もなく空しき道に消なまし鷲のみ山の法に逢ずば	
-zkt-akishinogetsusei-0297		緣覺		『奥山に獨りうき世は惜らにき常なき色を嵐に任せて	
-zkt-akishinogetsusei-0298		菩薩		か秋の月望は一夜の隔てにてかつ／″＼影ぞ殘る限なき	
-zkt-akishinogetsusei-0299		佛		七十日晴らりりははららをはつきて又上もなくすめる月哉	
-zkt-akishinogetsusei-0300		歌合百首元日宴		m新玉の年を雲居に迎ふとてけふ諸人に御酒賜ふなり	
+zkt-akishinogetsusei-0251	251			かほとゝぎす心を染むる一聲は袂の露に殘るなりけり	
+zkt-akishinogetsusei-0252	252			co秋の夜の月に待出づる初腫の霞みて過ぐる春の古〓	
+zkt-akishinogetsusei-0253	253			〓秋なればと計り見まし我宿の眞垣の野邊は鶉伏す迄	
+zkt-akishinogetsusei-0254	254			。一緒野には今こそすらし小鷹狩山の繁みに雀かたよる	
+zkt-akishinogetsusei-0255	255			。oを集ふる心よいかに燕かへる野中の秋のゆふぐれ	
+zkt-akishinogetsusei-0256	256			o.風寒し友なし千鳥こよひなけ我も磯寢に衣かたしく	
+zkt-akishinogetsusei-0257	257			40鴨居る汀の風にゆられきて〓の浮巢は旅寢してけり	
+zkt-akishinogetsusei-0258	258			加明けぬなり山田の澤にふす鴫の羽おと催す友の一聲	
+zkt-akishinogetsusei-0259	259			c〓朝な／＼雪のみ山に鳴く鳥の聲に驚く人のなきかな	
+zkt-akishinogetsusei-0260	260	獸部十首		No山がつの裾野に放つ春駒はひらきてけりな草の下道0	
+zkt-akishinogetsusei-0261	261			ねた〓へ來る松の嵐や弛むらむ足上に歸るさを鹿の聲0	
+zkt-akishinogetsusei-0262	262			○夜の雨の打も寢られぬ奧山に心しらるゝ猿のみ叫び	
+zkt-akishinogetsusei-0263	263			主知らぬ岡べの里を來て問へば答ぬ先に犬ぞ谷むる	
+zkt-akishinogetsusei-0264	264			一古〓の軒のひはだに草あれてあはれ狐のふし所かな	
+zkt-akishinogetsusei-0265	265			〓あら熊の棲みける谷を隣にて都に違き柴のいほかな	
+zkt-akishinogetsusei-0266	266			道のべに過ぎける牛の跡みれば心の罪は類ひあり免	
+zkt-akishinogetsusei-0267	267			驚かぬ伏猪の床の眠哉さらでも夢に過ぐる此の世を	
+zkt-akishinogetsusei-0268	268			一世中に虎狼はなにならず人の口こそなほまさりけれ	
+zkt-akishinogetsusei-0269	269			後世に彌陀のりさうを冠らすばあな淺ましの月の鼠や	
+zkt-akishinogetsusei-0270	270	蟲十首		〓我宿の春の花圓見る度に飛びかふ蝶の人なれにけり	
+zkt-akishinogetsusei-0271	271			嵐風けば池の洋かたよれど下に蛙の音を絕えぬかな	
+zkt-akishinogetsusei-0272	272			°夏夏夜夜枕を渡る蚊の聲の僅にだにもい社寢られね	
+zkt-akishinogetsusei-0273	273			=大方の草葉のつゆに風過ぎて益ばかりの影ぞ殘れる	
+zkt-akishinogetsusei-0274	274			一皆人は蟬の羽衣ぬぎすてゝ秋は今なる日ぐらしの聲	
+zkt-akishinogetsusei-0275	275			王露そむる野べの錦の色々を機織る蟲のしたり顏なる	
+zkt-akishinogetsusei-0276	276			びひりりてて明明思ふ夕間にまた松蟲の聲もありけり	
+zkt-akishinogetsusei-0277	277			五二秋たけぬ衣手寒しきり／＼す今いく夜かは床近き聲	
+zkt-akishinogetsusei-0278	278			た軒端より籬の草にかたかけて風を限のさゝがにの糸	
+zkt-akishinogetsusei-0279	279			二古〓の板間にかゝる義〓の漏りける雨を知せ顏なる	
+zkt-akishinogetsusei-0280	280	神祇十首		之君を祈る時しもあれや神風の身に浸渡る伊勢の濱荻	
+zkt-akishinogetsusei-0281	281			一月月すす秋秋の最中の石〓水こよひぞ神の光なりける	
+zkt-akishinogetsusei-0282	282			ca昨日かも絶ぬ御誕を御手洗に雲居の使けふや立添ふ	
+zkt-akishinogetsusei-0283	283			*一稻荷山敬の杉むら風ふりて神さびわたるしでの音哉	
+zkt-akishinogetsusei-0284	284			三浮世にも露懸るべき我身かは三笠の森の陰に隠れて	
+zkt-akishinogetsusei-0285	285			宮居せし年もつもりの浦さびて神代覺ゆる松の風哉	
+zkt-akishinogetsusei-0286	286			賴むべき口吉の影の普くは開路の末も照さゞらめや	
+zkt-akishinogetsusei-0287	287			神神のおまへのはまの濱風に波もうちそふ里神樂哉	
+zkt-akishinogetsusei-0288	288			ハ八雲たつ出雲八重垣今日迄も昔の跡は隔てざりけり	
+zkt-akishinogetsusei-0289	289			稀になる跡を尋ねし熊野山みし昔より賴みそめてき	
+zkt-akishinogetsusei-0290	290	釋〓十首地獄		メル燃燃火も閉る氷も消えずして幾代迷はぬ長き夜の間	
+zkt-akishinogetsusei-0291	291	俄鬼		加身を責る俄の心に堪愛ねて子を思ふ道ぞ忘果てぬる	
+zkt-akishinogetsusei-0292	292	畜生		cm水に住み雲居にかける心にも憂世の網は如何悲しき	
+zkt-akishinogetsusei-0293	293	修羅		一浪立ちし心のみちの末は又苦しき海の底に住むかな	
+zkt-akishinogetsusei-0294	294	人		一夢の世に月日傳く明暮て又は得難き身をいかにせむ	
+zkt-akishinogetsusei-0295	295	天		3五玉けけしあとには露を置きかへて色衰ふる天の羽衣	
+zkt-akishinogetsusei-0296	296	聲聞		一果もなく空しき道に消なまし鷲のみ山の法に逢ずば	
+zkt-akishinogetsusei-0297	297	緣覺		『奥山に獨りうき世は惜らにき常なき色を嵐に任せて	
+zkt-akishinogetsusei-0298	298	菩薩		か秋の月望は一夜の隔てにてかつ／″＼影ぞ殘る限なき	
+zkt-akishinogetsusei-0299	299	佛		七十日晴らりりははららをはつきて又上もなくすめる月哉	
+zkt-akishinogetsusei-0300	300	歌合百首元日宴		m新玉の年を雲居に迎ふとてけふ諸人に御酒賜ふなり	

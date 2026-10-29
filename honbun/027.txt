@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-1301		田の中に人の家ある所		ニ山田もる下賤が庵に音づれて稻葉にやどる秋の夕風	
-zkt-akishinogetsusei-1302		部花樣山の中に菊さかりに開きたる邊に仙人有る所		m君が代に匂ふ山路の白菊は幾度露のぬれてほすらむ	
-zkt-akishinogetsusei-1303		山野井に人の家に紅葉盛りにしたる所、人々これを翫ぶ		秋霧の晴行く儘に色みえて風も木葉をそむる也けり	
-zkt-akishinogetsusei-1304		海邊に霧たちたる所		れほの／″＼と明石の浦を見渡せば霧の絕間に沖つ白波	
-zkt-akishinogetsusei-1305		第十帖海邊に千鳥ある所、海士人の鹽屋有り		友千鳥沖の小島にうつるなり岸の松風夜寒なるらし	
-zkt-akishinogetsusei-1306		網代に人集りたる所、落葉あり		〓紅葉ばを都の人の心迄日をへてよする潮々の網代木	
-zkt-akishinogetsusei-1307		江澤の邊寒藍茂りたる所、鶴もあり		〓難波潟あしは枯葉になりにけり霜を重ぬる鶴の毛衣	
-zkt-akishinogetsusei-1308		第十一帖五節參入所		ごさよ更けて豊の明のもろ人の少女むかふる雲の通路	
-zkt-akishinogetsusei-1309		賀茂臨時祭上社社頭儀式		一御手洗の川邊にさよは更に見立舞ふ袖に霜互ゆる迄	
-zkt-akishinogetsusei-1310		野邊に鷹狩したる所		一今日暮ぬ明日も狩來む交野原枯野の下に雉子鳴く也	
-zkt-akishinogetsusei-1311		第十二帖内侍所御神樂		三雲の上に神も心やはれぬらむ月さゆる夜の赤星の聲	
-zkt-akishinogetsusei-1312		山野の竹樹などに雪ふり積みたむ所、人家あり		ニめめやる心の道も辿りけり千里の外の雪のあけぼの	
-zkt-akishinogetsusei-1313		歲暮に下人等山より松などきりていづる所		一千世經べき松さへ山を出に見春を營む賤に引かれて	
-zkt-akishinogetsusei-1314				〓夏草の風にみだるゝ夕暮は秋のみ深き大あらきの森	
-zkt-akishinogetsusei-1315		冬池上氷		に池水にさゆる光をたよりにて氷は月の結ぶなりけり	
-zkt-akishinogetsusei-1316		院にて入道釋阿に九十賀給はせける屏風の歌に春帖霞		〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓へて幾日ほすらむ天のかぐ山	
-zkt-akishinogetsusei-1317		若草		加三吉野は草のはつかに淺綠高嶺に深雪今朝や消らむ	
-zkt-akishinogetsusei-1318		花		〓c老らくの今日こむ道は殘さなむ散かひ坐る花の白雪	
-zkt-akishinogetsusei-1319		夏帖郭公		翳しをる人や賴めし郭公三輪の檜原に來つゝ鳴く也	
-zkt-akishinogetsusei-1320		五月雨		三を山田に引注繩の打はへて朽ちやしぬらむ梅雨の頃	
-zkt-akishinogetsusei-1321		納凉		紀紀の國や吹上の濱他による浪 の寄邊凉しき磯枕かな	
-zkt-akishinogetsusei-1322		秋帖秋野		さを應の入野の秋の下露に誰つま籠めて草結ぶらむ	
-zkt-akishinogetsusei-1323		月		正此此は秋つしま人ときを得て君が光の月を見るかな	
-zkt-akishinogetsusei-1324		紅葉		〓山越ゆる雁の翅に霜おきて四方の梢は色づきにけり	
-zkt-akishinogetsusei-1325		冬帖千鳥		〓濱千鳥跡ふみつけよいもが紐ゆふは河原の忘形見に	
-zkt-akishinogetsusei-1326		氷		初瀬女の白木綿花はおちもこす氷にせける山川の水	
-zkt-akishinogetsusei-1327		雪		ねふりにける友とやこれを眺む覽雪積りにし越の白山	
-zkt-akishinogetsusei-1328		今上の一品宮生れさせたまひての七夜人々盃とりて詠みける		cc光光ふ雲居の月をみかさ山千代の始は今年のみかは	
-zkt-akishinogetsusei-1329		中宮の初度の御會に、月契秋久		一萬萬の月をば秋の光にて絶えぬ契はくもゐにぞ見る	
-zkt-akishinogetsusei-1330		庭梅久芳n六		二種袖に軒端の梅の香をとめよ花は幾代も春ぞ匂はむ	
-zkt-akishinogetsusei-1331		渡新所之後初度之會に、松延齢友		千代までと契る心や通ふらむ松に答ふる風の音づれ	
-zkt-akishinogetsusei-1332		大臣の後の初度の會に、松不改色		春くれば今一しほの綠こそ變らぬ松の變るなりけれ	
-zkt-akishinogetsusei-1333				金なき千代の光は春日山松より出づる朝日なりけり	
-zkt-akishinogetsusei-1334		祝の歌とて詠みける		其其猶千代の限の有ければ松だに知らぬ君が御代哉	
-zkt-akishinogetsusei-1335				架や度置けど變らぬ松も猶君が御代にや生ひ替るべき	
-zkt-akishinogetsusei-1336				深山より松の葉分けて出る月千代に變らぬ光也けり	
-zkt-akishinogetsusei-1337				が千代やちよ年波こゆる末の松朽ち變る共君は常磐に	
-zkt-akishinogetsusei-1338				〓自ら治まれる世や聞ゆらむはかなくすさむ山人の歌	
-zkt-akishinogetsusei-1339				ニ神風や御裳濱川の流こぞ月日と共にすむべかりけれ	
-zkt-akishinogetsusei-1340		院於鳥羽殿初度の御會に、池上松風		傅へこし深き流の池水になほ千代までと松風ぞ吹く	
-zkt-akishinogetsusei-1341		院の選歌合に、寄神祇祝		교토君が代のしるしとこれを宮川の岸の杉村色も變らず	
-zkt-akishinogetsusei-1342		院の十番の歌合、神祇		明神風や御裳液川にちぎりおきし流の末ぞ北の藤なみ	
-zkt-akishinogetsusei-1343		同じ庭の松		10度庭石石石石石の成代に生添ふ松の種ぞ籠れる	
-zkt-akishinogetsusei-1344		院の影供に、松邊千鳥		な高砂の松を友とし鳴く千鳥君が八千代の聲や添らむ	
-zkt-akishinogetsusei-1345		家の歌合に、春祝		〓春日山都の南しかぞ思ふ北の藤なみはるに逢へとは	
-zkt-akishinogetsusei-1346		院の御會に、初春祝		〓春と云へば八重たつ霞重ねても幾萬代を空にこむ覽	
-zkt-akishinogetsusei-1347		和歌所おかれて初度の御會に、松月夜深		ね松風に今日より秋を契り置て月に住べき和歌の浦人	
-zkt-akishinogetsusei-1348		城南寺にて祈雨御會に、社頭祝		〓ののも神の惠にうるふらし都の南みやゐせしより	
-zkt-akishinogetsusei-1349		京極殿の初度の御會に、松有春色		一押なべて木芽も春の淺綠松にぞ千代の色は見えける	
-zkt-akishinogetsusei-1350		高陽院の初度の御會に戀の歌よみけるに		〓水ゐる志賀の浦吹く春風の打解けてだに人を戀ばや	
+zkt-akishinogetsusei-1301	1301	田の中に人の家ある所		ニ山田もる下賤が庵に音づれて稻葉にやどる秋の夕風	
+zkt-akishinogetsusei-1302	1302	部花樣山の中に菊さかりに開きたる邊に仙人有る所		m君が代に匂ふ山路の白菊は幾度露のぬれてほすらむ	
+zkt-akishinogetsusei-1303	1303	山野井に人の家に紅葉盛りにしたる所、人々これを翫ぶ		秋霧の晴行く儘に色みえて風も木葉をそむる也けり	
+zkt-akishinogetsusei-1304	1304	海邊に霧たちたる所		れほの／″＼と明石の浦を見渡せば霧の絕間に沖つ白波	
+zkt-akishinogetsusei-1305	1305	第十帖海邊に千鳥ある所、海士人の鹽屋有り		友千鳥沖の小島にうつるなり岸の松風夜寒なるらし	
+zkt-akishinogetsusei-1306	1306	網代に人集りたる所、落葉あり		〓紅葉ばを都の人の心迄日をへてよする潮々の網代木	
+zkt-akishinogetsusei-1307	1307	江澤の邊寒藍茂りたる所、鶴もあり		〓難波潟あしは枯葉になりにけり霜を重ぬる鶴の毛衣	
+zkt-akishinogetsusei-1308	1308	第十一帖五節參入所		ごさよ更けて豊の明のもろ人の少女むかふる雲の通路	
+zkt-akishinogetsusei-1309	1309	賀茂臨時祭上社社頭儀式		一御手洗の川邊にさよは更に見立舞ふ袖に霜互ゆる迄	
+zkt-akishinogetsusei-1310	1310	野邊に鷹狩したる所		一今日暮ぬ明日も狩來む交野原枯野の下に雉子鳴く也	
+zkt-akishinogetsusei-1311	1311	第十二帖内侍所御神樂		三雲の上に神も心やはれぬらむ月さゆる夜の赤星の聲	
+zkt-akishinogetsusei-1312	1312	山野の竹樹などに雪ふり積みたむ所、人家あり		ニめめやる心の道も辿りけり千里の外の雪のあけぼの	
+zkt-akishinogetsusei-1313	1313	歲暮に下人等山より松などきりていづる所		一千世經べき松さへ山を出に見春を營む賤に引かれて	
+zkt-akishinogetsusei-1314	1314			〓夏草の風にみだるゝ夕暮は秋のみ深き大あらきの森	
+zkt-akishinogetsusei-1315	1315	冬池上氷		に池水にさゆる光をたよりにて氷は月の結ぶなりけり	
+zkt-akishinogetsusei-1316	1316	院にて入道釋阿に九十賀給はせける屏風の歌に春帖霞		〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓へて幾日ほすらむ天のかぐ山	
+zkt-akishinogetsusei-1317	1317	若草		加三吉野は草のはつかに淺綠高嶺に深雪今朝や消らむ	
+zkt-akishinogetsusei-1318	1318	花		〓c老らくの今日こむ道は殘さなむ散かひ坐る花の白雪	
+zkt-akishinogetsusei-1319	1319	夏帖郭公		翳しをる人や賴めし郭公三輪の檜原に來つゝ鳴く也	
+zkt-akishinogetsusei-1320	1320	五月雨		三を山田に引注繩の打はへて朽ちやしぬらむ梅雨の頃	
+zkt-akishinogetsusei-1321	1321	納凉		紀紀の國や吹上の濱他による浪 の寄邊凉しき磯枕かな	
+zkt-akishinogetsusei-1322	1322	秋帖秋野		さを應の入野の秋の下露に誰つま籠めて草結ぶらむ	
+zkt-akishinogetsusei-1323	1323	月		正此此は秋つしま人ときを得て君が光の月を見るかな	
+zkt-akishinogetsusei-1324	1324	紅葉		〓山越ゆる雁の翅に霜おきて四方の梢は色づきにけり	
+zkt-akishinogetsusei-1325	1325	冬帖千鳥		〓濱千鳥跡ふみつけよいもが紐ゆふは河原の忘形見に	
+zkt-akishinogetsusei-1326	1326	氷		初瀬女の白木綿花はおちもこす氷にせける山川の水	
+zkt-akishinogetsusei-1327	1327	雪		ねふりにける友とやこれを眺む覽雪積りにし越の白山	
+zkt-akishinogetsusei-1328	1328	今上の一品宮生れさせたまひての七夜人々盃とりて詠みける		cc光光ふ雲居の月をみかさ山千代の始は今年のみかは	
+zkt-akishinogetsusei-1329	1329	中宮の初度の御會に、月契秋久		一萬萬の月をば秋の光にて絶えぬ契はくもゐにぞ見る	
+zkt-akishinogetsusei-1330	1330	庭梅久芳n六		二種袖に軒端の梅の香をとめよ花は幾代も春ぞ匂はむ	
+zkt-akishinogetsusei-1331	1331	渡新所之後初度之會に、松延齢友		千代までと契る心や通ふらむ松に答ふる風の音づれ	
+zkt-akishinogetsusei-1332	1332	大臣の後の初度の會に、松不改色		春くれば今一しほの綠こそ變らぬ松の變るなりけれ	
+zkt-akishinogetsusei-1333	1333			金なき千代の光は春日山松より出づる朝日なりけり	
+zkt-akishinogetsusei-1334	1334	祝の歌とて詠みける		其其猶千代の限の有ければ松だに知らぬ君が御代哉	
+zkt-akishinogetsusei-1335	1335			架や度置けど變らぬ松も猶君が御代にや生ひ替るべき	
+zkt-akishinogetsusei-1336	1336			深山より松の葉分けて出る月千代に變らぬ光也けり	
+zkt-akishinogetsusei-1337	1337			が千代やちよ年波こゆる末の松朽ち變る共君は常磐に	
+zkt-akishinogetsusei-1338	1338			〓自ら治まれる世や聞ゆらむはかなくすさむ山人の歌	
+zkt-akishinogetsusei-1339	1339			ニ神風や御裳濱川の流こぞ月日と共にすむべかりけれ	
+zkt-akishinogetsusei-1340	1340	院於鳥羽殿初度の御會に、池上松風		傅へこし深き流の池水になほ千代までと松風ぞ吹く	
+zkt-akishinogetsusei-1341	1341	院の選歌合に、寄神祇祝		교토君が代のしるしとこれを宮川の岸の杉村色も變らず	
+zkt-akishinogetsusei-1342	1342	院の十番の歌合、神祇		明神風や御裳液川にちぎりおきし流の末ぞ北の藤なみ	
+zkt-akishinogetsusei-1343	1343	同じ庭の松		10度庭石石石石石の成代に生添ふ松の種ぞ籠れる	
+zkt-akishinogetsusei-1344	1344	院の影供に、松邊千鳥		な高砂の松を友とし鳴く千鳥君が八千代の聲や添らむ	
+zkt-akishinogetsusei-1345	1345	家の歌合に、春祝		〓春日山都の南しかぞ思ふ北の藤なみはるに逢へとは	
+zkt-akishinogetsusei-1346	1346	院の御會に、初春祝		〓春と云へば八重たつ霞重ねても幾萬代を空にこむ覽	
+zkt-akishinogetsusei-1347	1347	和歌所おかれて初度の御會に、松月夜深		ね松風に今日より秋を契り置て月に住べき和歌の浦人	
+zkt-akishinogetsusei-1348	1348	城南寺にて祈雨御會に、社頭祝		〓ののも神の惠にうるふらし都の南みやゐせしより	
+zkt-akishinogetsusei-1349	1349	京極殿の初度の御會に、松有春色		一押なべて木芽も春の淺綠松にぞ千代の色は見えける	
+zkt-akishinogetsusei-1350	1350	高陽院の初度の御會に戀の歌よみけるに		〓水ゐる志賀の浦吹く春風の打解けてだに人を戀ばや	

@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-1401		北野の宮の歌合、忍戀		ニもらしわび氷り細へる谷川の汲人なしに行惱みつゝ	
-zkt-akishinogetsusei-1402		旅の歌よみける中に		〓役淀むせヾの岩間の波の音に幾夜馴たる浮寢なる覽	
-zkt-akishinogetsusei-1403				一てててくくくのの幾重になると誰に問はまし	
-zkt-akishinogetsusei-1404				草結ぶ野原の露の深き哉雖があかしけるよはの枕ぞ	
-zkt-akishinogetsusei-1405				一手手くくののめて舟路にまよふ淀の川岸	
-zkt-akishinogetsusei-1406				水水をを麓の入江霧はれて山路秋なる雲のかけはし	
-zkt-akishinogetsusei-1407				-茂りあふ爲も楓も跡ぞなきうつの山邊は道細くして	
-zkt-akishinogetsusei-1408				一明方になるや白露數そひぬかりの庵の葦のすだれに	
-zkt-akishinogetsusei-1409				一友なくて草葉に宿る秋の野に益ばかりやよはの燈火	
-zkt-akishinogetsusei-1410				〓有明のつきせざりける詠かないく浦傳ひ心すましつ	
-zkt-akishinogetsusei-1411				一ててくくくくくんとも知らぬ泊りの夢の通路	
-zkt-akishinogetsusei-1412				ニあふ人もなき夢路より言づけて現悲しきうつの山越	
-zkt-akishinogetsusei-1413				取にけり一夜宿かす里の螢の今朝の別も袖麥れつゝ	
-zkt-akishinogetsusei-1414				加昨日けふ野にも山にも結びおく草の枕やつゆの古〓	
-zkt-akishinogetsusei-1415				に國かはる堺幾度越えすぎて多くの民に面別れぬらむ	
-zkt-akishinogetsusei-1416				〓浪枕一夜ばかりに馴れそめて別もやらぬ須磨の浦人	
-zkt-akishinogetsusei-1417		物へまかりけるに天の川原といふ所を過ぎ侍るとて		にききく天の河原に尋ねきて跡なき水を詠むばかりぞ	
-zkt-akishinogetsusei-1418		公卿勅使に伊勢へくだりける道にて		○相坂の山越えはてゝ眺むれば霞につゞく志賀の浦波	
-zkt-akishinogetsusei-1419				「遙なる三上の嶽をめにかけて幾潮渡りぬやすの川浪	
-zkt-akishinogetsusei-1420		海路眺望		〓忘るなよ今はの月をかたみにて浪に別るゝ沖の遠舟	
-zkt-akishinogetsusei-1421		海路秋		行く舟の跡の白波きえ盡きてうす霧のこる須磨の唱	
-zkt-akishinogetsusei-1422		家の選歌合に、秋旅		F松松やや風寒き磯寢かな海士の刈藻をひじき物にて	
-zkt-akishinogetsusei-1423		院の宇治の御會の五首、秋旅		橋姬の我をば待たぬさ筵によその旅寢の袖の秋かぜ	
-zkt-akishinogetsusei-1424		院より八幡若宮にて歌合有し六首の中器中戀を		お古〓を命あらばと松浦潟かへる人をし夕なみのそら5	
-zkt-akishinogetsusei-1425		院の影供の次でに當座、月前旅を		に忘れじと契りて出でし面影は見ゆらむ物を古〓の月	
-zkt-akishinogetsusei-1426		院にて當座に旅の心を		本部人そのことづてはとだえして雲ふみつたふ山の梯	
-zkt-akishinogetsusei-1427		雜部五行を詠める、木		加年へたる檜原の柚の久しきにたつきの音の仄なる哉	
-zkt-akishinogetsusei-1428				〓思ふべし新の上に燃ゆる火は世の理を明すなりはり	
-zkt-akishinogetsusei-1429				一押なべて天下なる物は皆土を本とて有りとこそ聞け	
-zkt-akishinogetsusei-1430				ニこむ世まで永き寶となるものは佛と磨く金なりけり	
-zkt-akishinogetsusei-1431				"〓くすむ水の心の空しきにさればと宿る月の影かな	
-zkt-akishinogetsusei-1432				月も日もまづ出初むる方なれば朝夕人の打眺めつゝ	
-zkt-akishinogetsusei-1433				mm秋風も入日の空もかねの音も哀は西に限るなりけり	
-zkt-akishinogetsusei-1434				x玉玉づさを待つらむ里の秋風に遙にむかふはつ雁の聲	
-zkt-akishinogetsusei-1435				其其方しも冬の景色の烈しとや閉たる戶をも叩く風哉	
-zkt-akishinogetsusei-1436		中		〓よよ都都めめるるたゞ我が國のもなか也けり	
-zkt-akishinogetsusei-1437		靑		ない波あらふ岩根の苦の色までも松の木蔭を寫す也けり	
-zkt-akishinogetsusei-1438		黄		co秋秋日日光の前に咲く菊の枯野の色にまがひぬる哉	
-zkt-akishinogetsusei-1439		赤		ユ赤ねさす峯の入日の影そへて千入そめたる岩躑躅哉	
-zkt-akishinogetsusei-1440		白		一緒うつむ賀茂の川原に鳴く千鳥永に宿る月や寒けき	
-zkt-akishinogetsusei-1441		黑		三雲ふかき深山のさとの夕間に時もとむる鴉鳴くなり	
-zkt-akishinogetsusei-1442		曉觀佛		横雲の消えにし空におもふかな悟はれにし月の光を	
-zkt-akishinogetsusei-1443		夕陽經		112人入のの鐘の音こそ類ふなれ是とて法の聲ならぬかは	
-zkt-akishinogetsusei-1444		夜等僧		ねふけぬれば露と共にや宿らまし岩屋の洞の苦の筵に	
-zkt-akishinogetsusei-1445		曉		な惜しきかな入方近き曉のまだ開深き此の世と思へば	
-zkt-akishinogetsusei-1446		山家の心を		〓〓獨さは深山の春に暮せとや今日まで人のとはぬ櫻を	
-zkt-akishinogetsusei-1447				山かかげや軒端の苔の下朽ちてかはらの上の松ぞ傾く	
-zkt-akishinogetsusei-1448				〓山里に枯れにし草は春の夢一夜に秋の風ぞおどろく	
-zkt-akishinogetsusei-1449				一月見ばといひしばかりの人はこず蓬が上に露滋き庭	
-zkt-akishinogetsusei-1450				世のうさのねをや絕えなむ山川の嬉しく水の誘ふ萍	
+zkt-akishinogetsusei-1401	1401	北野の宮の歌合、忍戀		ニもらしわび氷り細へる谷川の汲人なしに行惱みつゝ	
+zkt-akishinogetsusei-1402	1402	旅の歌よみける中に		〓役淀むせヾの岩間の波の音に幾夜馴たる浮寢なる覽	
+zkt-akishinogetsusei-1403	1403			一てててくくくのの幾重になると誰に問はまし	
+zkt-akishinogetsusei-1404	1404			草結ぶ野原の露の深き哉雖があかしけるよはの枕ぞ	
+zkt-akishinogetsusei-1405	1405			一手手くくののめて舟路にまよふ淀の川岸	
+zkt-akishinogetsusei-1406	1406			水水をを麓の入江霧はれて山路秋なる雲のかけはし	
+zkt-akishinogetsusei-1407	1407			-茂りあふ爲も楓も跡ぞなきうつの山邊は道細くして	
+zkt-akishinogetsusei-1408	1408			一明方になるや白露數そひぬかりの庵の葦のすだれに	
+zkt-akishinogetsusei-1409	1409			一友なくて草葉に宿る秋の野に益ばかりやよはの燈火	
+zkt-akishinogetsusei-1410	1410			〓有明のつきせざりける詠かないく浦傳ひ心すましつ	
+zkt-akishinogetsusei-1411	1411			一ててくくくくくんとも知らぬ泊りの夢の通路	
+zkt-akishinogetsusei-1412	1412			ニあふ人もなき夢路より言づけて現悲しきうつの山越	
+zkt-akishinogetsusei-1413	1413			取にけり一夜宿かす里の螢の今朝の別も袖麥れつゝ	
+zkt-akishinogetsusei-1414	1414			加昨日けふ野にも山にも結びおく草の枕やつゆの古〓	
+zkt-akishinogetsusei-1415	1415			に國かはる堺幾度越えすぎて多くの民に面別れぬらむ	
+zkt-akishinogetsusei-1416	1416			〓浪枕一夜ばかりに馴れそめて別もやらぬ須磨の浦人	
+zkt-akishinogetsusei-1417	1417	物へまかりけるに天の川原といふ所を過ぎ侍るとて		にききく天の河原に尋ねきて跡なき水を詠むばかりぞ	
+zkt-akishinogetsusei-1418	1418	公卿勅使に伊勢へくだりける道にて		○相坂の山越えはてゝ眺むれば霞につゞく志賀の浦波	
+zkt-akishinogetsusei-1419	1419			「遙なる三上の嶽をめにかけて幾潮渡りぬやすの川浪	
+zkt-akishinogetsusei-1420	1420	海路眺望		〓忘るなよ今はの月をかたみにて浪に別るゝ沖の遠舟	
+zkt-akishinogetsusei-1421	1421	海路秋		行く舟の跡の白波きえ盡きてうす霧のこる須磨の唱	
+zkt-akishinogetsusei-1422	1422	家の選歌合に、秋旅		F松松やや風寒き磯寢かな海士の刈藻をひじき物にて	
+zkt-akishinogetsusei-1423	1423	院の宇治の御會の五首、秋旅		橋姬の我をば待たぬさ筵によその旅寢の袖の秋かぜ	
+zkt-akishinogetsusei-1424	1424	院より八幡若宮にて歌合有し六首の中器中戀を		お古〓を命あらばと松浦潟かへる人をし夕なみのそら5	
+zkt-akishinogetsusei-1425	1425	院の影供の次でに當座、月前旅を		に忘れじと契りて出でし面影は見ゆらむ物を古〓の月	
+zkt-akishinogetsusei-1426	1426	院にて當座に旅の心を		本部人そのことづてはとだえして雲ふみつたふ山の梯	
+zkt-akishinogetsusei-1427	1427	雜部五行を詠める、木		加年へたる檜原の柚の久しきにたつきの音の仄なる哉	
+zkt-akishinogetsusei-1428	1428			〓思ふべし新の上に燃ゆる火は世の理を明すなりはり	
+zkt-akishinogetsusei-1429	1429			一押なべて天下なる物は皆土を本とて有りとこそ聞け	
+zkt-akishinogetsusei-1430	1430			ニこむ世まで永き寶となるものは佛と磨く金なりけり	
+zkt-akishinogetsusei-1431	1431			"〓くすむ水の心の空しきにさればと宿る月の影かな	
+zkt-akishinogetsusei-1432	1432			月も日もまづ出初むる方なれば朝夕人の打眺めつゝ	
+zkt-akishinogetsusei-1433	1433			mm秋風も入日の空もかねの音も哀は西に限るなりけり	
+zkt-akishinogetsusei-1434	1434			x玉玉づさを待つらむ里の秋風に遙にむかふはつ雁の聲	
+zkt-akishinogetsusei-1435	1435			其其方しも冬の景色の烈しとや閉たる戶をも叩く風哉	
+zkt-akishinogetsusei-1436	1436	中		〓よよ都都めめるるたゞ我が國のもなか也けり	
+zkt-akishinogetsusei-1437	1437	靑		ない波あらふ岩根の苦の色までも松の木蔭を寫す也けり	
+zkt-akishinogetsusei-1438	1438	黄		co秋秋日日光の前に咲く菊の枯野の色にまがひぬる哉	
+zkt-akishinogetsusei-1439	1439	赤		ユ赤ねさす峯の入日の影そへて千入そめたる岩躑躅哉	
+zkt-akishinogetsusei-1440	1440	白		一緒うつむ賀茂の川原に鳴く千鳥永に宿る月や寒けき	
+zkt-akishinogetsusei-1441	1441	黑		三雲ふかき深山のさとの夕間に時もとむる鴉鳴くなり	
+zkt-akishinogetsusei-1442	1442	曉觀佛		横雲の消えにし空におもふかな悟はれにし月の光を	
+zkt-akishinogetsusei-1443	1443	夕陽經		112人入のの鐘の音こそ類ふなれ是とて法の聲ならぬかは	
+zkt-akishinogetsusei-1444	1444	夜等僧		ねふけぬれば露と共にや宿らまし岩屋の洞の苦の筵に	
+zkt-akishinogetsusei-1445	1445	曉		な惜しきかな入方近き曉のまだ開深き此の世と思へば	
+zkt-akishinogetsusei-1446	1446	山家の心を		〓〓獨さは深山の春に暮せとや今日まで人のとはぬ櫻を	
+zkt-akishinogetsusei-1447	1447			山かかげや軒端の苔の下朽ちてかはらの上の松ぞ傾く	
+zkt-akishinogetsusei-1448	1448			〓山里に枯れにし草は春の夢一夜に秋の風ぞおどろく	
+zkt-akishinogetsusei-1449	1449			一月見ばといひしばかりの人はこず蓬が上に露滋き庭	
+zkt-akishinogetsusei-1450	1450			世のうさのねをや絕えなむ山川の嬉しく水の誘ふ萍	

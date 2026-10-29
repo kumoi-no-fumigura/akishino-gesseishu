@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-1051				夏は猶くれもおそくや思ふらむ柚山川をおろす筏士	
-zkt-akishinogetsusei-1052		雨後夏月		ハタ夕の風に別れて行く雲におくれて昇る山の端の月	
-zkt-akishinogetsusei-1053		船中夏月		加夏の夜をやがて明石の楫枕波に傾ぶく月をしぞ思ふ	
-zkt-akishinogetsusei-1054		夏月		ce夏の夜は雲のいづくに宿る共わが面影に月は殘さむ	
-zkt-akishinogetsusei-1055				一月影に凉み明せる夏の夜はたゞ一時の秋ぞありける	
-zkt-akishinogetsusei-1056		蚊遺火		ニすするなる難波わたりの煙哉蘆火焚屋に蚊火立つる頃	
-zkt-akishinogetsusei-1057		袋		5風そよぐのの蔭蔭の夕凉み凉しくもゆる螢なりけり	
-zkt-akishinogetsusei-1058				戀ひわたる宵の盛もかげ消えぬ軒ばに白き月の初に	
-zkt-akishinogetsusei-1059				x0番に立てゝ告の計ぞ螢こそ秋は近しと色にみせけれ	
-zkt-akishinogetsusei-1060		螢火秋近		知ゆく養兼て雲路や思ふらむ腫鳴きぬべき風の景色に	
-zkt-akishinogetsusei-1061		院にて影供に、草野秋近		宮城野の露をよすがに立つ鹿は己鳴かでや花を待らむ	
-zkt-akishinogetsusei-1062		水路夏月		A高高舟棹も取敢ず明くる夜にさきだつ月の跡の白波	
-zkt-akishinogetsusei-1063		雨後聞蟬		加村雨の跡こそ見えね山の蟬なけども未だ紅葉せぬ頃	
-zkt-akishinogetsusei-1064		影供の次でに、夏月を當座		二大大は霞も霧もたなびきて木蔭ばかりに曇る月かな	
-zkt-akishinogetsusei-1065				一此〓は富士の白雪消えそめて獨や月の峯にすむらむ	
-zkt-akishinogetsusei-1066				三下草に露置きそへて秋の來るけしきの森に蝸ぞ鳴く	
-zkt-akishinogetsusei-1067				エくる方は西と聞け共今日の日の出るより社秋は立けれ	
-zkt-akishinogetsusei-1068		水邊立秋		松蔭や夏なき年の〓水にもげに秋風は今日ぞ立ける	
-zkt-akishinogetsusei-1069		秋の始に		〓淺茅原秋風立ちぬ是ぞこの眺めなれにし小野の古〓	
-zkt-akishinogetsusei-1070				起れのみ岩に碎くる波の音に我もありとや磯の松風	
-zkt-akishinogetsusei-1071				第一の下に道あり迚や秋はこし菲の庭に月のみぞすむ	
-zkt-akishinogetsusei-1072				一九色變る露のみ袖に散りやせむ峯の秋風木の葉靑くて	
-zkt-akishinogetsusei-1073				〓梢ふく風の響きに秋はあれどまだ色わかぬ嶺の椎柴	
-zkt-akishinogetsusei-1074		院の選歌合の十首の內山家秋月を		○時時ももあれ古〓人は音もせで深山の月に秋風ぞ吹く	
-zkt-akishinogetsusei-1075		湖上曉霧		〓志賀の浦の漣白む霧の内にほの／″＼出づる沖の友舟	
-zkt-akishinogetsusei-1076		院の八月十五夜の選歌合に十首の歌に月多秋友		一月ならで誰かは知む君が代に秋の今宵の幾廻りとも	
-zkt-akishinogetsusei-1077		月前松風		秋の夜の光も聲も一つにて月のかつらに松風ぞ吹く	
-zkt-akishinogetsusei-1078		月下接衣		里は荒て月やあらぬと恨みても誰淺芽生に衣打らむ	
-zkt-akishinogetsusei-1079		海邊秋月		ヌ六立返り煙な立てそ須磨の類の潮くむ袖に月ぞ宿れる	
-zkt-akishinogetsusei-1080		湖上月明		が逢坂の山越えはてゝ眺むれば鳰てる月は千里也けり	
-zkt-akishinogetsusei-1081		古寺殘月		鏡の音に初湖の檜原尋來て分くる木の間に有明の月	
-zkt-akishinogetsusei-1082		深山曉月		深からぬ外山の庵の寢覺だに嘸な樹間の月は寂しき	
-zkt-akishinogetsusei-1083		野月露原		〓秋の野の篠に露置すゞの庵はすとろに月も濡るゝ顏なる	
-zkt-akishinogetsusei-1084		田家見月		∞〓秋の雲しくとは見れど稻筵伏見の里は月のみぞすむ	
-zkt-akishinogetsusei-1085		河月似氷		一是もまた神代は知らず龍田川月の氷に水くゝるなり	
-zkt-akishinogetsusei-1086		同じ夜の當座の御會に、月前雁		一雁がねも雲の衣を厭ひけり己が羽風にすめる夜の月	
-zkt-akishinogetsusei-1087		院の十首の歌合に、浦月		〓月かげや波をむすばぬうす氷敷洋の浦によする卅人	
-zkt-akishinogetsusei-1088		山嵐		〓ししれれ方の木葉は色づきて深山の嵐秋を吹く也	
-zkt-akishinogetsusei-1089				秋の來て幾口もあらぬ萩原や曉つゆの袖に馴れぬる	
-zkt-akishinogetsusei-1090		關路秋風		九人人まま不不の關屋の板廂あれにし後はたゞ秋の風	
-zkt-akishinogetsusei-1091		聞旅月鹿(廣月間象熊)定女本式時代こ·には舞之イ		忘れずよかりねに月を宮城野の枕に近きさを鹿の聲	
-zkt-akishinogetsusei-1092		故〓蟲		〓高圓の尾上の宮の秋はきを誰きて見よと松蟲のこゑ	
-zkt-akishinogetsusei-1093		院の影供の歌合に、江月聞雁		花を重ね玉えにおるゝ雁の聲華間の月に立空やなき	
-zkt-akishinogetsusei-1094		夜風似雨ジ		宮城野の木のした風のはらふ夜は音も年も村雨の空	
-zkt-akishinogetsusei-1095		同じ夜の當座の御會に、山家持衣		〓古〓を夢にだに見む山賤の夜はのさ衣打も寢なゝむ	
-zkt-akishinogetsusei-1096		同じ影供に、月前秋風		行行り月と松とに吹く風はれての雲に露ぞこぼるゝ	
-zkt-akishinogetsusei-1097		水路秋月		五人方の天の川より歸るらしくだすうき木を送る月影	
-zkt-akishinogetsusei-1098		關路曉霧		■八忘るなよ霧の迷に一夜ねて關こぎ出づる須磨の友卅	
-zkt-akishinogetsusei-1099		院にて八月十五夜の當座御會に秋月の和歌五百		人嵐ふき村雲迷ふ夕より出でやらぬ月も見る心地する	
-zkt-akishinogetsusei-1100				問捨てゝぬる夜も一よ有なまし庵の松風月に吹ずば	
+zkt-akishinogetsusei-1051	1051			夏は猶くれもおそくや思ふらむ柚山川をおろす筏士	
+zkt-akishinogetsusei-1052	1052	雨後夏月		ハタ夕の風に別れて行く雲におくれて昇る山の端の月	
+zkt-akishinogetsusei-1053	1053	船中夏月		加夏の夜をやがて明石の楫枕波に傾ぶく月をしぞ思ふ	
+zkt-akishinogetsusei-1054	1054	夏月		ce夏の夜は雲のいづくに宿る共わが面影に月は殘さむ	
+zkt-akishinogetsusei-1055	1055			一月影に凉み明せる夏の夜はたゞ一時の秋ぞありける	
+zkt-akishinogetsusei-1056	1056	蚊遺火		ニすするなる難波わたりの煙哉蘆火焚屋に蚊火立つる頃	
+zkt-akishinogetsusei-1057	1057	袋		5風そよぐのの蔭蔭の夕凉み凉しくもゆる螢なりけり	
+zkt-akishinogetsusei-1058	1058			戀ひわたる宵の盛もかげ消えぬ軒ばに白き月の初に	
+zkt-akishinogetsusei-1059	1059			x0番に立てゝ告の計ぞ螢こそ秋は近しと色にみせけれ	
+zkt-akishinogetsusei-1060	1060	螢火秋近		知ゆく養兼て雲路や思ふらむ腫鳴きぬべき風の景色に	
+zkt-akishinogetsusei-1061	1061	院にて影供に、草野秋近		宮城野の露をよすがに立つ鹿は己鳴かでや花を待らむ	
+zkt-akishinogetsusei-1062	1062	水路夏月		A高高舟棹も取敢ず明くる夜にさきだつ月の跡の白波	
+zkt-akishinogetsusei-1063	1063	雨後聞蟬		加村雨の跡こそ見えね山の蟬なけども未だ紅葉せぬ頃	
+zkt-akishinogetsusei-1064	1064	影供の次でに、夏月を當座		二大大は霞も霧もたなびきて木蔭ばかりに曇る月かな	
+zkt-akishinogetsusei-1065	1065			一此〓は富士の白雪消えそめて獨や月の峯にすむらむ	
+zkt-akishinogetsusei-1066	1066			三下草に露置きそへて秋の來るけしきの森に蝸ぞ鳴く	
+zkt-akishinogetsusei-1067	1067			エくる方は西と聞け共今日の日の出るより社秋は立けれ	
+zkt-akishinogetsusei-1068	1068	水邊立秋		松蔭や夏なき年の〓水にもげに秋風は今日ぞ立ける	
+zkt-akishinogetsusei-1069	1069	秋の始に		〓淺茅原秋風立ちぬ是ぞこの眺めなれにし小野の古〓	
+zkt-akishinogetsusei-1070	1070			起れのみ岩に碎くる波の音に我もありとや磯の松風	
+zkt-akishinogetsusei-1071	1071			第一の下に道あり迚や秋はこし菲の庭に月のみぞすむ	
+zkt-akishinogetsusei-1072	1072			一九色變る露のみ袖に散りやせむ峯の秋風木の葉靑くて	
+zkt-akishinogetsusei-1073	1073			〓梢ふく風の響きに秋はあれどまだ色わかぬ嶺の椎柴	
+zkt-akishinogetsusei-1074	1074	院の選歌合の十首の內山家秋月を		○時時ももあれ古〓人は音もせで深山の月に秋風ぞ吹く	
+zkt-akishinogetsusei-1075	1075	湖上曉霧		〓志賀の浦の漣白む霧の内にほの／″＼出づる沖の友舟	
+zkt-akishinogetsusei-1076	1076	院の八月十五夜の選歌合に十首の歌に月多秋友		一月ならで誰かは知む君が代に秋の今宵の幾廻りとも	
+zkt-akishinogetsusei-1077	1077	月前松風		秋の夜の光も聲も一つにて月のかつらに松風ぞ吹く	
+zkt-akishinogetsusei-1078	1078	月下接衣		里は荒て月やあらぬと恨みても誰淺芽生に衣打らむ	
+zkt-akishinogetsusei-1079	1079	海邊秋月		ヌ六立返り煙な立てそ須磨の類の潮くむ袖に月ぞ宿れる	
+zkt-akishinogetsusei-1080	1080	湖上月明		が逢坂の山越えはてゝ眺むれば鳰てる月は千里也けり	
+zkt-akishinogetsusei-1081	1081	古寺殘月		鏡の音に初湖の檜原尋來て分くる木の間に有明の月	
+zkt-akishinogetsusei-1082	1082	深山曉月		深からぬ外山の庵の寢覺だに嘸な樹間の月は寂しき	
+zkt-akishinogetsusei-1083	1083	野月露原		〓秋の野の篠に露置すゞの庵はすとろに月も濡るゝ顏なる	
+zkt-akishinogetsusei-1084	1084	田家見月		∞〓秋の雲しくとは見れど稻筵伏見の里は月のみぞすむ	
+zkt-akishinogetsusei-1085	1085	河月似氷		一是もまた神代は知らず龍田川月の氷に水くゝるなり	
+zkt-akishinogetsusei-1086	1086	同じ夜の當座の御會に、月前雁		一雁がねも雲の衣を厭ひけり己が羽風にすめる夜の月	
+zkt-akishinogetsusei-1087	1087	院の十首の歌合に、浦月		〓月かげや波をむすばぬうす氷敷洋の浦によする卅人	
+zkt-akishinogetsusei-1088	1088	山嵐		〓ししれれ方の木葉は色づきて深山の嵐秋を吹く也	
+zkt-akishinogetsusei-1089	1089			秋の來て幾口もあらぬ萩原や曉つゆの袖に馴れぬる	
+zkt-akishinogetsusei-1090	1090	關路秋風		九人人まま不不の關屋の板廂あれにし後はたゞ秋の風	
+zkt-akishinogetsusei-1091	1091	聞旅月鹿(廣月間象熊)定女本式時代こ·には舞之イ		忘れずよかりねに月を宮城野の枕に近きさを鹿の聲	
+zkt-akishinogetsusei-1092	1092	故〓蟲		〓高圓の尾上の宮の秋はきを誰きて見よと松蟲のこゑ	
+zkt-akishinogetsusei-1093	1093	院の影供の歌合に、江月聞雁		花を重ね玉えにおるゝ雁の聲華間の月に立空やなき	
+zkt-akishinogetsusei-1094	1094	夜風似雨ジ		宮城野の木のした風のはらふ夜は音も年も村雨の空	
+zkt-akishinogetsusei-1095	1095	同じ夜の當座の御會に、山家持衣		〓古〓を夢にだに見む山賤の夜はのさ衣打も寢なゝむ	
+zkt-akishinogetsusei-1096	1096	同じ影供に、月前秋風		行行り月と松とに吹く風はれての雲に露ぞこぼるゝ	
+zkt-akishinogetsusei-1097	1097	水路秋月		五人方の天の川より歸るらしくだすうき木を送る月影	
+zkt-akishinogetsusei-1098	1098	關路曉霧		■八忘るなよ霧の迷に一夜ねて關こぎ出づる須磨の友卅	
+zkt-akishinogetsusei-1099	1099	院にて八月十五夜の當座御會に秋月の和歌五百		人嵐ふき村雲迷ふ夕より出でやらぬ月も見る心地する	
+zkt-akishinogetsusei-1100	1100			問捨てゝぬる夜も一よ有なまし庵の松風月に吹ずば	

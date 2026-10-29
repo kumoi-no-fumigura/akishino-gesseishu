@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0451				か足引の山の半のかけてだに習はぬ袖に立濡らしつゝ	
-zkt-akishinogetsusei-0452				0初時雨ふる深山べの下紅葉したに心の色かはりぬる〓	
-zkt-akishinogetsusei-0453				。深き江に今日たてそむる溶標涙にくちむ印だにせよ〓	
-zkt-akishinogetsusei-0454				〓〓難波人仄にあし火たき初めて恨に堪へぬ煙たてつる	
-zkt-akishinogetsusei-0455		忍戀		〓0忍ぶるにまけぬる人や思ふらむ打忘れては欺く氣色を	
-zkt-akishinogetsusei-0456				0人人ははいいゞ云てか詠めまし君が邊りの夕暮の空	
-zkt-akishinogetsusei-0457				10人めみぬ岩の中にも分入りて思ふ程にや袖紋らまし	
-zkt-akishinogetsusei-0458				ね思衆ね庭の小萩を折敷きて色なる露を袖にまがへむ	
-zkt-akishinogetsusei-0459				お後もうし忍ぶに堪ぬ身とならむ其煙をも雲に霞めよ	
-zkt-akishinogetsusei-0460		何事實脚		X。夢か猶たゞ思ひ寢に見しことの床も枕も面變りせで	
-zkt-akishinogetsusei-0461				ね。吳竹の葉末の霜のおき明し幾夜過して臥初めぬらむ	
-zkt-akishinogetsusei-0462				。有明も暫しやすらへ今こむの人まち得たる長月の末	
-zkt-akishinogetsusei-0463				消えはてぬ後の契を重ねずば今夜ばかりや袖の移香	
-zkt-akishinogetsusei-0464				一絞りこし袖もやほさむ白露の奥手の稻はかりね計に	
-zkt-akishinogetsusei-0465		後朝戀		又もこむ秋をたのむの雁だにも鳴きてぞ歸る春の曙馬	
-zkt-akishinogetsusei-0466				暮を待つ空もくもらじ橫雲の立別れぬる今朝の嵐に	
-zkt-akishinogetsusei-0467				一休ひに笹分くる朝の袖の露ゆふ附鳥のとはヾ答へむ	
-zkt-akishinogetsusei-0468				立ちちでゝ心と消ゆる曙に霧のまよひの月ぞ友なる	
-zkt-akishinogetsusei-0469				一今はとて淚の海の楫をたえ沖をわづらふ今朝の舟人	
-zkt-akishinogetsusei-0470		過不合戀		ヘ忘るなよとばかりいひて別れにし其曉や限なるらむ	
-zkt-akishinogetsusei-0471				ルととぬぬ床のさ筵露おきて契らぬ月は今も夜がれず	
-zkt-akishinogetsusei-0472				c鳥島玉の夜の契は絶にしを夢路にかゝる命なりけり	
-zkt-akishinogetsusei-0473				一見し人の歸らぬ宿はあともなし唯朝夕の葛のうら風	
-zkt-akishinogetsusei-0474				三うつろひし心のはなに春くれて人も梢に秋風ぞ吹く	
-zkt-akishinogetsusei-0475		祝		三四方の海久しくすめる春に逢て蓬が島の宿も思はじ	
-zkt-akishinogetsusei-0476				に古〓に千世へて歸る蘆鶴や變らぬ君が御代に逢らむ	
-zkt-akishinogetsusei-0477				一代々の春秋の宮人をりかざせ雲居の庭にはぎの盛を	
-zkt-akishinogetsusei-0478				た松風を竹の籬に隔てゝも千年に千世のつゞく宿かな	
-zkt-akishinogetsusei-0479				七末までと八十氏人は祈りけりふるき流の絕えぬ川波	
-zkt-akishinogetsusei-0480		旅		出しより荒れまく思ふ故〓に圍もる月を誰と見らむ	
-zkt-akishinogetsusei-0481				加三島江に一夜かりしく亂蘆の露もや今朝は思置く覧	
-zkt-akishinogetsusei-0482				。浦傅ふ袖に吹きこす湖風のなれてとまらぬ波枕かな	
-zkt-akishinogetsusei-0483				あけがたのさ夜の中山路おちて枕の西に月を見る哉	
-zkt-akishinogetsusei-0484				三宮城野の木の下草に宿かりて鹿鳴く床に秋風ぞふく	
-zkt-akishinogetsusei-0485		述懷		世世ははだだだはてぬといふ事や偶々人の賊なるらむ	
-zkt-akishinogetsusei-0486				誰誰皆皆てだに見よ忘草世に故〓はげにぞ住み憂き	
-zkt-akishinogetsusei-0487				理れぬ後の名さへやとめざらむ做事無て此世暮なば	
-zkt-akishinogetsusei-0488				短浮世かなひとり岩屋の奧に住む苔の袂も猶養るなり	
-zkt-akishinogetsusei-0489				いいか計り覺めて思はゞうかりなむ夢の迷に猶迷ぬる	
-zkt-akishinogetsusei-0490		神祇		乍鈴鹿川八十瀨白波分け過て神路の山の春を見しかな	
-zkt-akishinogetsusei-0491				た濁る世もなほすめとてや石〓水流に月の光とむらむ	
-zkt-akishinogetsusei-0492				cmかも山の麓の柴にうす綠こゝろの色も神さびにけり	
-zkt-akishinogetsusei-0493				一春日山森のした道ふみ分けて幾度なれぬさを鹿の聲	
-zkt-akishinogetsusei-0494				ニもしほ草儚くすさむ和歌の浦に哀をかけよ住吉の神	
-zkt-akishinogetsusei-0495		釋〓五波羅密檀波羅密		一恨むなよ月と花とを眺めても惜む心を思ひ捨てゝき	
-zkt-akishinogetsusei-0496		戶羅波纖密		此法はうけて保てる玉なれば長き夜照す寶なりけり	
-zkt-akishinogetsusei-0497		歸提波羅密		胸の火も淚の露も今は唯もらさで下に思ひけちつゝ	
-zkt-akishinogetsusei-0498		毘梨耶波羅密		加朝夕に三世の佛につかふれば心をあらふ山川のみづ	
-zkt-akishinogetsusei-0499		神波羅密		や心をばこゝろの底に納めおきて座も動かぬ床の上哉	
-zkt-akishinogetsusei-0500		南海漁夫百首春十五首		ハ四方の海風も長閑に成ぬなり波の幾重に春の立らむ	
+zkt-akishinogetsusei-0451	451			か足引の山の半のかけてだに習はぬ袖に立濡らしつゝ	
+zkt-akishinogetsusei-0452	452			0初時雨ふる深山べの下紅葉したに心の色かはりぬる〓	
+zkt-akishinogetsusei-0453	453			。深き江に今日たてそむる溶標涙にくちむ印だにせよ〓	
+zkt-akishinogetsusei-0454	454			〓〓難波人仄にあし火たき初めて恨に堪へぬ煙たてつる	
+zkt-akishinogetsusei-0455	455	忍戀		〓0忍ぶるにまけぬる人や思ふらむ打忘れては欺く氣色を	
+zkt-akishinogetsusei-0456	456			0人人ははいいゞ云てか詠めまし君が邊りの夕暮の空	
+zkt-akishinogetsusei-0457	457			10人めみぬ岩の中にも分入りて思ふ程にや袖紋らまし	
+zkt-akishinogetsusei-0458	458			ね思衆ね庭の小萩を折敷きて色なる露を袖にまがへむ	
+zkt-akishinogetsusei-0459	459			お後もうし忍ぶに堪ぬ身とならむ其煙をも雲に霞めよ	
+zkt-akishinogetsusei-0460	460	何事實脚		X。夢か猶たゞ思ひ寢に見しことの床も枕も面變りせで	
+zkt-akishinogetsusei-0461	461			ね。吳竹の葉末の霜のおき明し幾夜過して臥初めぬらむ	
+zkt-akishinogetsusei-0462	462			。有明も暫しやすらへ今こむの人まち得たる長月の末	
+zkt-akishinogetsusei-0463	463			消えはてぬ後の契を重ねずば今夜ばかりや袖の移香	
+zkt-akishinogetsusei-0464	464			一絞りこし袖もやほさむ白露の奥手の稻はかりね計に	
+zkt-akishinogetsusei-0465	465	後朝戀		又もこむ秋をたのむの雁だにも鳴きてぞ歸る春の曙馬	
+zkt-akishinogetsusei-0466	466			暮を待つ空もくもらじ橫雲の立別れぬる今朝の嵐に	
+zkt-akishinogetsusei-0467	467			一休ひに笹分くる朝の袖の露ゆふ附鳥のとはヾ答へむ	
+zkt-akishinogetsusei-0468	468			立ちちでゝ心と消ゆる曙に霧のまよひの月ぞ友なる	
+zkt-akishinogetsusei-0469	469			一今はとて淚の海の楫をたえ沖をわづらふ今朝の舟人	
+zkt-akishinogetsusei-0470	470	過不合戀		ヘ忘るなよとばかりいひて別れにし其曉や限なるらむ	
+zkt-akishinogetsusei-0471	471			ルととぬぬ床のさ筵露おきて契らぬ月は今も夜がれず	
+zkt-akishinogetsusei-0472	472			c鳥島玉の夜の契は絶にしを夢路にかゝる命なりけり	
+zkt-akishinogetsusei-0473	473			一見し人の歸らぬ宿はあともなし唯朝夕の葛のうら風	
+zkt-akishinogetsusei-0474	474			三うつろひし心のはなに春くれて人も梢に秋風ぞ吹く	
+zkt-akishinogetsusei-0475	475	祝		三四方の海久しくすめる春に逢て蓬が島の宿も思はじ	
+zkt-akishinogetsusei-0476	476			に古〓に千世へて歸る蘆鶴や變らぬ君が御代に逢らむ	
+zkt-akishinogetsusei-0477	477			一代々の春秋の宮人をりかざせ雲居の庭にはぎの盛を	
+zkt-akishinogetsusei-0478	478			た松風を竹の籬に隔てゝも千年に千世のつゞく宿かな	
+zkt-akishinogetsusei-0479	479			七末までと八十氏人は祈りけりふるき流の絕えぬ川波	
+zkt-akishinogetsusei-0480	480	旅		出しより荒れまく思ふ故〓に圍もる月を誰と見らむ	
+zkt-akishinogetsusei-0481	481			加三島江に一夜かりしく亂蘆の露もや今朝は思置く覧	
+zkt-akishinogetsusei-0482	482			。浦傅ふ袖に吹きこす湖風のなれてとまらぬ波枕かな	
+zkt-akishinogetsusei-0483	483			あけがたのさ夜の中山路おちて枕の西に月を見る哉	
+zkt-akishinogetsusei-0484	484			三宮城野の木の下草に宿かりて鹿鳴く床に秋風ぞふく	
+zkt-akishinogetsusei-0485	485	述懷		世世ははだだだはてぬといふ事や偶々人の賊なるらむ	
+zkt-akishinogetsusei-0486	486			誰誰皆皆てだに見よ忘草世に故〓はげにぞ住み憂き	
+zkt-akishinogetsusei-0487	487			理れぬ後の名さへやとめざらむ做事無て此世暮なば	
+zkt-akishinogetsusei-0488	488			短浮世かなひとり岩屋の奧に住む苔の袂も猶養るなり	
+zkt-akishinogetsusei-0489	489			いいか計り覺めて思はゞうかりなむ夢の迷に猶迷ぬる	
+zkt-akishinogetsusei-0490	490	神祇		乍鈴鹿川八十瀨白波分け過て神路の山の春を見しかな	
+zkt-akishinogetsusei-0491	491			た濁る世もなほすめとてや石〓水流に月の光とむらむ	
+zkt-akishinogetsusei-0492	492			cmかも山の麓の柴にうす綠こゝろの色も神さびにけり	
+zkt-akishinogetsusei-0493	493			一春日山森のした道ふみ分けて幾度なれぬさを鹿の聲	
+zkt-akishinogetsusei-0494	494			ニもしほ草儚くすさむ和歌の浦に哀をかけよ住吉の神	
+zkt-akishinogetsusei-0495	495	釋〓五波羅密檀波羅密		一恨むなよ月と花とを眺めても惜む心を思ひ捨てゝき	
+zkt-akishinogetsusei-0496	496	戶羅波纖密		此法はうけて保てる玉なれば長き夜照す寶なりけり	
+zkt-akishinogetsusei-0497	497	歸提波羅密		胸の火も淚の露も今は唯もらさで下に思ひけちつゝ	
+zkt-akishinogetsusei-0498	498	毘梨耶波羅密		加朝夕に三世の佛につかふれば心をあらふ山川のみづ	
+zkt-akishinogetsusei-0499	499	神波羅密		や心をばこゝろの底に納めおきて座も動かぬ床の上哉	
+zkt-akishinogetsusei-0500	500	南海漁夫百首春十五首		ハ四方の海風も長閑に成ぬなり波の幾重に春の立らむ	

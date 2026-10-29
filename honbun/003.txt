@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0101				加おぼろなる空に哀をかさぬれば霞も月の光なりけり	
-zkt-akishinogetsusei-0102				cu山ののとともの岡のほどなきを遙に見する朝霞かな	
-zkt-akishinogetsusei-0103				ユみ吉野のおくに住むなる山人の春の衣は霞なりけり	
-zkt-akishinogetsusei-0104				三濱鹽焼く浦の煙と見る程にやがてかすめる須磨の曙	
-zkt-akishinogetsusei-0105		梅五首		さればこそ宿の梅がえ春立て思し〓とぞ人の待たるゝ	
-zkt-akishinogetsusei-0106				〓爲のこゑのにほひとなる物はおのが時の梅の春かぜ	
-zkt-akishinogetsusei-0107				我宿は梅にゆづりて立出でむ花の主は人や問ふとて	
-zkt-akishinogetsusei-0108				〓此頭は梅をばおのが匂ひにて通ひてしるき春の山風	
-zkt-akishinogetsusei-0109				〓好ちかき梅の梢に風すぎて匂ひにさむる春の夜の夢	
-zkt-akishinogetsusei-0110		歸雁五首		〓春春いへばいつしか北に歸雁越路の冬を送る也けり	
-zkt-akishinogetsusei-0111				〓雨はれて風に隨ふ雲間より我もありとや歸る雁がね	
-zkt-akishinogetsusei-0112				〓〓今〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓く雁を心に送る春のあけぼの	
-zkt-akishinogetsusei-0113				〓朝ぼらけ人の涙も落ちぬべし時しも歸る雁がねの空	
-zkt-akishinogetsusei-0114				怠るなよたのむの澤を立つ雁も稻葉の風の秋の夕暮	
-zkt-akishinogetsusei-0115		照射五首		足足の山の雫に立濡れぬ鹿まちあかす夏の夜すがら	
-zkt-akishinogetsusei-0116				ハ〓照射するは山茂山里遠み火串もつきぬ明けぬ此夜は	
-zkt-akishinogetsusei-0117				〓射〓に射ぬる跡の賤のめは獨や今宵めを合すらむ	
-zkt-akishinogetsusei-0118				が後世を此世に見るぞ哀なる己が火串を待つに附ても	
-zkt-akishinogetsusei-0119				秋の野に妻とふ鹿を聞せばや照射する身は情なく共	
-zkt-akishinogetsusei-0120		納凉五首		ハ日をさふる松より西の朝凉爰には幕ぞ待れざりける	
-zkt-akishinogetsusei-0121				臭山に夏をば遠くはなれ來て秋の水すむ谷の聲かな	
-zkt-akishinogetsusei-0122				ct一重なる蟬の羽衣厭ふまでまだき秋ある夏の夜の月	
-zkt-akishinogetsusei-0123				一古〓の板井の〓水年をへて夏のみ人のすみかなる哉	
-zkt-akishinogetsusei-0124				ニ。影深き外面のならの夕涼み一木がもとに秋風ぞ吹く	
-zkt-akishinogetsusei-0125		蔡エドキ		北麓が宿に深き哀を知りぬらむ千里は同じ霧の內にて	
-zkt-akishinogetsusei-0126				跡たえてもとより深き山里の霧にしづめる秋の夕暮	
-zkt-akishinogetsusei-0127				秋秋のきり冬の煙となりにけりまだ炭やかぬ大原の里	
-zkt-akishinogetsusei-0128				〓音づれし木の葉散りぬるはては又霧の籬を佛ふ山風	
-zkt-akishinogetsusei-0129				霧深き明石の沖に漕行くを島隠れぬと誰ながむらむ	
-zkt-akishinogetsusei-0130		搐衣五首		普より白き衣をうつなれど聲には色のありける物を	
-zkt-akishinogetsusei-0131				山〓の谷のすみかに日は暮れて雲の底より衣うつ也	
-zkt-akishinogetsusei-0132				〓衣うつ折しもつらき鏡の音の紛るゝ方とならぬ物故	
-zkt-akishinogetsusei-0133				〓夜もすがら月にしてうつ唐衣空まですめる槌の音哉	
-zkt-akishinogetsusei-0134				秘の音はみねの嵐にひヾき來て松の梢も衣うつなり	
-zkt-akishinogetsusei-0135		風雲青師		五野か山か道に遠き鹿の音を秋の寢覺に聞き明しつゝ	
-zkt-akishinogetsusei-0136				露深き籬の野べをかき分けて我に宿かるさを鹿の聲	
-zkt-akishinogetsusei-0137				紅葉ふく嵐につけて聞ゆなり林の奥のさを鹿のこゑ	
-zkt-akishinogetsusei-0138				、稻葉吹く門田の風に埋もれて仄に鹿の聲たぐふなり	
-zkt-akishinogetsusei-0139				秋の夜はをのゝ篠原風さえて月影わたるさを鹿の聲	
-zkt-akishinogetsusei-0140		時雨五首		片山に入日の影はさしながらしぐる共なき冬の夕幕	
-zkt-akishinogetsusei-0141				物物もも寢覺の床のむら時雨袖より外もかくや雫は	
-zkt-akishinogetsusei-0142				程もなく過つる時雨いかにして月に宿賃名殘とむ覽	
-zkt-akishinogetsusei-0143				一過ぎ來ぬる嵐にたぐふ村時雨竹のさ枝に聲は殘りて	
-zkt-akishinogetsusei-0144				二昨日けふ都の時雨風さむしこれや越路のはつ雪の空	
-zkt-akishinogetsusei-0145				志賀のうら梢にかよふ松風は氷に殘るさやなみの聲	
-zkt-akishinogetsusei-0146				大井川せヾの岩波音たえて井せきの水に風凍るなり	
-zkt-akishinogetsusei-0147				けけさ見れば池には氷隨もなし偖水鳥の夜枯しけるを	
-zkt-akishinogetsusei-0148				山山きき水のみなかみ凍るらし〓瀧川の音のともしき	
-zkt-akishinogetsusei-0149				難波がた入江のあしは霜がれて氷にたゆる舟の通路	
-zkt-akishinogetsusei-0150		寄雲戀		知知ぬぬの雲を遙に等ねつゝ昔は人にあひける物を	
+zkt-akishinogetsusei-0101	101			加おぼろなる空に哀をかさぬれば霞も月の光なりけり	
+zkt-akishinogetsusei-0102	102			cu山ののとともの岡のほどなきを遙に見する朝霞かな	
+zkt-akishinogetsusei-0103	103			ユみ吉野のおくに住むなる山人の春の衣は霞なりけり	
+zkt-akishinogetsusei-0104	104			三濱鹽焼く浦の煙と見る程にやがてかすめる須磨の曙	
+zkt-akishinogetsusei-0105	105	梅五首		さればこそ宿の梅がえ春立て思し〓とぞ人の待たるゝ	
+zkt-akishinogetsusei-0106	106			〓爲のこゑのにほひとなる物はおのが時の梅の春かぜ	
+zkt-akishinogetsusei-0107	107			我宿は梅にゆづりて立出でむ花の主は人や問ふとて	
+zkt-akishinogetsusei-0108	108			〓此頭は梅をばおのが匂ひにて通ひてしるき春の山風	
+zkt-akishinogetsusei-0109	109			〓好ちかき梅の梢に風すぎて匂ひにさむる春の夜の夢	
+zkt-akishinogetsusei-0110	110	歸雁五首		〓春春いへばいつしか北に歸雁越路の冬を送る也けり	
+zkt-akishinogetsusei-0111	111			〓雨はれて風に隨ふ雲間より我もありとや歸る雁がね	
+zkt-akishinogetsusei-0112	112			〓〓今〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓く雁を心に送る春のあけぼの	
+zkt-akishinogetsusei-0113	113			〓朝ぼらけ人の涙も落ちぬべし時しも歸る雁がねの空	
+zkt-akishinogetsusei-0114	114			怠るなよたのむの澤を立つ雁も稻葉の風の秋の夕暮	
+zkt-akishinogetsusei-0115	115	照射五首		足足の山の雫に立濡れぬ鹿まちあかす夏の夜すがら	
+zkt-akishinogetsusei-0116	116			ハ〓照射するは山茂山里遠み火串もつきぬ明けぬ此夜は	
+zkt-akishinogetsusei-0117	117			〓射〓に射ぬる跡の賤のめは獨や今宵めを合すらむ	
+zkt-akishinogetsusei-0118	118			が後世を此世に見るぞ哀なる己が火串を待つに附ても	
+zkt-akishinogetsusei-0119	119			秋の野に妻とふ鹿を聞せばや照射する身は情なく共	
+zkt-akishinogetsusei-0120	120	納凉五首		ハ日をさふる松より西の朝凉爰には幕ぞ待れざりける	
+zkt-akishinogetsusei-0121	121			臭山に夏をば遠くはなれ來て秋の水すむ谷の聲かな	
+zkt-akishinogetsusei-0122	122			ct一重なる蟬の羽衣厭ふまでまだき秋ある夏の夜の月	
+zkt-akishinogetsusei-0123	123			一古〓の板井の〓水年をへて夏のみ人のすみかなる哉	
+zkt-akishinogetsusei-0124	124			ニ。影深き外面のならの夕涼み一木がもとに秋風ぞ吹く	
+zkt-akishinogetsusei-0125	125	蔡エドキ		北麓が宿に深き哀を知りぬらむ千里は同じ霧の內にて	
+zkt-akishinogetsusei-0126	126			跡たえてもとより深き山里の霧にしづめる秋の夕暮	
+zkt-akishinogetsusei-0127	127			秋秋のきり冬の煙となりにけりまだ炭やかぬ大原の里	
+zkt-akishinogetsusei-0128	128			〓音づれし木の葉散りぬるはては又霧の籬を佛ふ山風	
+zkt-akishinogetsusei-0129	129			霧深き明石の沖に漕行くを島隠れぬと誰ながむらむ	
+zkt-akishinogetsusei-0130	130	搐衣五首		普より白き衣をうつなれど聲には色のありける物を	
+zkt-akishinogetsusei-0131	131			山〓の谷のすみかに日は暮れて雲の底より衣うつ也	
+zkt-akishinogetsusei-0132	132			〓衣うつ折しもつらき鏡の音の紛るゝ方とならぬ物故	
+zkt-akishinogetsusei-0133	133			〓夜もすがら月にしてうつ唐衣空まですめる槌の音哉	
+zkt-akishinogetsusei-0134	134			秘の音はみねの嵐にひヾき來て松の梢も衣うつなり	
+zkt-akishinogetsusei-0135	135	風雲青師		五野か山か道に遠き鹿の音を秋の寢覺に聞き明しつゝ	
+zkt-akishinogetsusei-0136	136			露深き籬の野べをかき分けて我に宿かるさを鹿の聲	
+zkt-akishinogetsusei-0137	137			紅葉ふく嵐につけて聞ゆなり林の奥のさを鹿のこゑ	
+zkt-akishinogetsusei-0138	138			、稻葉吹く門田の風に埋もれて仄に鹿の聲たぐふなり	
+zkt-akishinogetsusei-0139	139			秋の夜はをのゝ篠原風さえて月影わたるさを鹿の聲	
+zkt-akishinogetsusei-0140	140	時雨五首		片山に入日の影はさしながらしぐる共なき冬の夕幕	
+zkt-akishinogetsusei-0141	141			物物もも寢覺の床のむら時雨袖より外もかくや雫は	
+zkt-akishinogetsusei-0142	142			程もなく過つる時雨いかにして月に宿賃名殘とむ覽	
+zkt-akishinogetsusei-0143	143			一過ぎ來ぬる嵐にたぐふ村時雨竹のさ枝に聲は殘りて	
+zkt-akishinogetsusei-0144	144			二昨日けふ都の時雨風さむしこれや越路のはつ雪の空	
+zkt-akishinogetsusei-0145	145			志賀のうら梢にかよふ松風は氷に殘るさやなみの聲	
+zkt-akishinogetsusei-0146	146			大井川せヾの岩波音たえて井せきの水に風凍るなり	
+zkt-akishinogetsusei-0147	147			けけさ見れば池には氷隨もなし偖水鳥の夜枯しけるを	
+zkt-akishinogetsusei-0148	148			山山きき水のみなかみ凍るらし〓瀧川の音のともしき	
+zkt-akishinogetsusei-0149	149			難波がた入江のあしは霜がれて氷にたゆる舟の通路	
+zkt-akishinogetsusei-0150	150	寄雲戀		知知ぬぬの雲を遙に等ねつゝ昔は人にあひける物を	

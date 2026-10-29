@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0051				か大方に身にしむ風も秋の夜は月故とのみ成にける哉	
-zkt-akishinogetsusei-0052				o春夏の空に哀を殘しける月を秋にてこよひ見るかな	
-zkt-akishinogetsusei-0053				。さらぬだに更くるは惜き秋夜の月より西に殘る白雲	
-zkt-akishinogetsusei-0054				。鹿も侘び蟲も恨むる所とて露けきのべに月ぞ宿かる	
-zkt-akishinogetsusei-0055				。0月影の殘る草なき野原かな葛のうらまで見する秋風	
-zkt-akishinogetsusei-0056				〓。照る月に哀を添へて鳴雁の落つる淚はよその袖まで	
-zkt-akishinogetsusei-0057				。里とよむ音も靜になりはてゝさ夜更け方にすめる月影	
-zkt-akishinogetsusei-0058				お雲きゆる千里の外に空さえて月よりうづむ秋の白雪	
-zkt-akishinogetsusei-0059				ci消見潟遙に沖の空はれて浪より月のさえのぼるかな	
-zkt-akishinogetsusei-0060				ゝ潮風の與謝のうら松おとさえて月影よする沖つ白波	
-zkt-akishinogetsusei-0061				ねい良にかある海士のなかるらむ月影霞む鹽竈の浦	
-zkt-akishinogetsusei-0062				°なるみがた荒磯浪の普はして沖の岩こす月の影かな	
-zkt-akishinogetsusei-0063				むしあけの瀨戶の湖干の明方に浪の月影遠ざかる也	
-zkt-akishinogetsusei-0064				一思ひやる心にかすむ海山も一つになせる月の影かな	
-zkt-akishinogetsusei-0065				〓廣澤の池におほくの年ふりてなほ月のこる曉のそら	
-zkt-akishinogetsusei-0066				猿澤の玉藻の水に月さえて池に昔のかげぞうつれる	
-zkt-akishinogetsusei-0067				一我が宿は姨捨由に住みかへつ都の跡を月やもるらむ	
-zkt-akishinogetsusei-0068				〓更科の月やは我をさそひ來し誰がする〓とぞ宿の哀は	
-zkt-akishinogetsusei-0069				一月宿る野路の旅寢の笹枕いつ忘るべき夜はの氣色ぞ	
-zkt-akishinogetsusei-0070				ヘ今宵誰すヾの篠屋に夢さめて吉野の月に袖潘すらむ	
-zkt-akishinogetsusei-0071				篠深き野中の庵に宿かりて露まどろまずみつる月說	
-zkt-akishinogetsusei-0072				coああらしや門田の稻葉ふく風に月影ちらす露の白玉	
-zkt-akishinogetsusei-0073				一月だにも慰めがたき秋の夜の心も知らぬ松の風かな	
-zkt-akishinogetsusei-0074				一寂しさや思ひよわると月見れば心の底ぞ秋深くなる	
-zkt-akishinogetsusei-0075				一奥山に浮世離れて住む人の心しらるゝ夜はの月かな	
-zkt-akishinogetsusei-0076				ニ獨ぬる圓の板間に風ふれてさむしろ照す秋の夜の月	
-zkt-akishinogetsusei-0077				一誰きなむ今宵の月は見るやとて蓬が下の道を分つゝ	
-zkt-akishinogetsusei-0078				照る月も見る人からの哀哉我身一つの今宵ならねど	
-zkt-akishinogetsusei-0079				によもの海波も一つにすむ月の影傾ぶかぬ君が御代哉	
-zkt-akishinogetsusei-0080				ハ雲の上遙に照す月影を秋のみやにて見るぞうれしき	
-zkt-akishinogetsusei-0081				た獨寢の夜塞になれる月見れば時しもあれや衣うつ聲	
-zkt-akishinogetsusei-0082				○濁濁世世も尙すむ影ぞ賴もしき流たえせぬ御裳液の月	
-zkt-akishinogetsusei-0083				一朝日さす春日の嶺の空はれて其名殘なる秋の夜の月	
-zkt-akishinogetsusei-0084				「さらしなを心のうちに尋ぬれば都の月も哀添ひけり	
-zkt-akishinogetsusei-0085				三待つ人も覺えぬ物を槇の戶に嵐や叩く月を見よとて	
-zkt-akishinogetsusei-0086				秋ぞかし今宵ばかりの寢覺かは心つくすな有明の月	
-zkt-akishinogetsusei-0087				浮世とはいつもさ社は思へ共心のたけを月に知ぬる	
-zkt-akishinogetsusei-0088				かかき營る心は厭ふな夜半の月なにゆゑ落る秋の涙ぞ	
-zkt-akishinogetsusei-0089				中々に月の限なき秋の夜はながめに浮ぶ五月雨の空	
-zkt-akishinogetsusei-0090				ハ〓厭身身の後の今宵と待れけり又こむ秋は月も眺めじ	
-zkt-akishinogetsusei-0091				浮世厭ふ心の開のしるべかな我が思ふ方に有明の月	
-zkt-akishinogetsusei-0092				c横横の嵐にまよふ山の端に影定まらぬしのゝめの月	
-zkt-akishinogetsusei-0093				一紅葉ばの故るに晴行く住ひ哉月疎かりし深山隠れも	
-zkt-akishinogetsusei-0094				谷ふかき葎が下の埋水それにも月のひまもとめけり	
-zkt-akishinogetsusei-0095				最〓のしぐれて過ぐる梢より嵐にはるゝ山の端の月	
-zkt-akishinogetsusei-0096				さよ深き嵐の音に山さびて木の間の月の影の寒けさ	
-zkt-akishinogetsusei-0097				有明になりゆく月を詠めても秋の名殘を打數へつゝ	
-zkt-akishinogetsusei-0098				〓月月月有有のの明の月の明方を誰まつ人のながめ侘ぶらむ	
-zkt-akishinogetsusei-0099				秋の色のはては枯野と成ぬれど月は霜こそ光也けれ	
-zkt-akishinogetsusei-0100		二夜百首霞五首		xひひきかへて四方の梢も霞むなり今日より春の曙の空	
+zkt-akishinogetsusei-0051	51			か大方に身にしむ風も秋の夜は月故とのみ成にける哉	
+zkt-akishinogetsusei-0052	52			o春夏の空に哀を殘しける月を秋にてこよひ見るかな	
+zkt-akishinogetsusei-0053	53			。さらぬだに更くるは惜き秋夜の月より西に殘る白雲	
+zkt-akishinogetsusei-0054	54			。鹿も侘び蟲も恨むる所とて露けきのべに月ぞ宿かる	
+zkt-akishinogetsusei-0055	55			。0月影の殘る草なき野原かな葛のうらまで見する秋風	
+zkt-akishinogetsusei-0056	56			〓。照る月に哀を添へて鳴雁の落つる淚はよその袖まで	
+zkt-akishinogetsusei-0057	57			。里とよむ音も靜になりはてゝさ夜更け方にすめる月影	
+zkt-akishinogetsusei-0058	58			お雲きゆる千里の外に空さえて月よりうづむ秋の白雪	
+zkt-akishinogetsusei-0059	59			ci消見潟遙に沖の空はれて浪より月のさえのぼるかな	
+zkt-akishinogetsusei-0060	60			ゝ潮風の與謝のうら松おとさえて月影よする沖つ白波	
+zkt-akishinogetsusei-0061	61			ねい良にかある海士のなかるらむ月影霞む鹽竈の浦	
+zkt-akishinogetsusei-0062	62			°なるみがた荒磯浪の普はして沖の岩こす月の影かな	
+zkt-akishinogetsusei-0063	63			むしあけの瀨戶の湖干の明方に浪の月影遠ざかる也	
+zkt-akishinogetsusei-0064	64			一思ひやる心にかすむ海山も一つになせる月の影かな	
+zkt-akishinogetsusei-0065	65			〓廣澤の池におほくの年ふりてなほ月のこる曉のそら	
+zkt-akishinogetsusei-0066	66			猿澤の玉藻の水に月さえて池に昔のかげぞうつれる	
+zkt-akishinogetsusei-0067	67			一我が宿は姨捨由に住みかへつ都の跡を月やもるらむ	
+zkt-akishinogetsusei-0068	68			〓更科の月やは我をさそひ來し誰がする〓とぞ宿の哀は	
+zkt-akishinogetsusei-0069	69			一月宿る野路の旅寢の笹枕いつ忘るべき夜はの氣色ぞ	
+zkt-akishinogetsusei-0070	70			ヘ今宵誰すヾの篠屋に夢さめて吉野の月に袖潘すらむ	
+zkt-akishinogetsusei-0071	71			篠深き野中の庵に宿かりて露まどろまずみつる月說	
+zkt-akishinogetsusei-0072	72			coああらしや門田の稻葉ふく風に月影ちらす露の白玉	
+zkt-akishinogetsusei-0073	73			一月だにも慰めがたき秋の夜の心も知らぬ松の風かな	
+zkt-akishinogetsusei-0074	74			一寂しさや思ひよわると月見れば心の底ぞ秋深くなる	
+zkt-akishinogetsusei-0075	75			一奥山に浮世離れて住む人の心しらるゝ夜はの月かな	
+zkt-akishinogetsusei-0076	76			ニ獨ぬる圓の板間に風ふれてさむしろ照す秋の夜の月	
+zkt-akishinogetsusei-0077	77			一誰きなむ今宵の月は見るやとて蓬が下の道を分つゝ	
+zkt-akishinogetsusei-0078	78			照る月も見る人からの哀哉我身一つの今宵ならねど	
+zkt-akishinogetsusei-0079	79			によもの海波も一つにすむ月の影傾ぶかぬ君が御代哉	
+zkt-akishinogetsusei-0080	80			ハ雲の上遙に照す月影を秋のみやにて見るぞうれしき	
+zkt-akishinogetsusei-0081	81			た獨寢の夜塞になれる月見れば時しもあれや衣うつ聲	
+zkt-akishinogetsusei-0082	82			○濁濁世世も尙すむ影ぞ賴もしき流たえせぬ御裳液の月	
+zkt-akishinogetsusei-0083	83			一朝日さす春日の嶺の空はれて其名殘なる秋の夜の月	
+zkt-akishinogetsusei-0084	84			「さらしなを心のうちに尋ぬれば都の月も哀添ひけり	
+zkt-akishinogetsusei-0085	85			三待つ人も覺えぬ物を槇の戶に嵐や叩く月を見よとて	
+zkt-akishinogetsusei-0086	86			秋ぞかし今宵ばかりの寢覺かは心つくすな有明の月	
+zkt-akishinogetsusei-0087	87			浮世とはいつもさ社は思へ共心のたけを月に知ぬる	
+zkt-akishinogetsusei-0088	88			かかき營る心は厭ふな夜半の月なにゆゑ落る秋の涙ぞ	
+zkt-akishinogetsusei-0089	89			中々に月の限なき秋の夜はながめに浮ぶ五月雨の空	
+zkt-akishinogetsusei-0090	90			ハ〓厭身身の後の今宵と待れけり又こむ秋は月も眺めじ	
+zkt-akishinogetsusei-0091	91			浮世厭ふ心の開のしるべかな我が思ふ方に有明の月	
+zkt-akishinogetsusei-0092	92			c横横の嵐にまよふ山の端に影定まらぬしのゝめの月	
+zkt-akishinogetsusei-0093	93			一紅葉ばの故るに晴行く住ひ哉月疎かりし深山隠れも	
+zkt-akishinogetsusei-0094	94			谷ふかき葎が下の埋水それにも月のひまもとめけり	
+zkt-akishinogetsusei-0095	95			最〓のしぐれて過ぐる梢より嵐にはるゝ山の端の月	
+zkt-akishinogetsusei-0096	96			さよ深き嵐の音に山さびて木の間の月の影の寒けさ	
+zkt-akishinogetsusei-0097	97			有明になりゆく月を詠めても秋の名殘を打數へつゝ	
+zkt-akishinogetsusei-0098	98			〓月月月有有のの明の月の明方を誰まつ人のながめ侘ぶらむ	
+zkt-akishinogetsusei-0099	99			秋の色のはては枯野と成ぬれど月は霜こそ光也けれ	
+zkt-akishinogetsusei-0100	100	二夜百首霞五首		xひひきかへて四方の梢も霞むなり今日より春の曙の空	

@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0801				加落ちたぎつ岩間打出づる泊湖川初春風や氷とくらむ	
-zkt-akishinogetsusei-0802				マト吉吉山雪ちる里もしかすがに槇の葉白き春風ぞ吹く	
-zkt-akishinogetsusei-0803				一時しもあれ春の七日の初子日若葉摘野に松をひく哉	
-zkt-akishinogetsusei-0804				エーののねね〓〓〓〓〓きを打拂ふにも梅の香ぞする	
-zkt-akishinogetsusei-0805				妻戀る雉子なく野の下蕨したに燃えても春を知る哉	
-zkt-akishinogetsusei-0806				〓野も山も同じ綠に染めてけり霞より降るこのめ春雨	
-zkt-akishinogetsusei-0807				〓わたの原雲にかりがね波に舟かすみてかへる春の曙	
-zkt-akishinogetsusei-0808				が津の國の難波の春の朝ぼらけ霞も波も果を知らばや	
-zkt-akishinogetsusei-0809				更科やをばすて山の薄電かすめる月に秋ぞのこれる	
-zkt-akishinogetsusei-0810				バ山櫻いまか咲くらむ陽炎のもゆる春べに降れる自雲	
-zkt-akishinogetsusei-0811				な誰誰今今日待つとはなくで山陰や花の雫に立ぞ濡ぬる	
-zkt-akishinogetsusei-0812				〓〓風風は花と松とに咲替て散るも散ぬも身にしまずやは	
-zkt-akishinogetsusei-0813				〓葦〓の下の氷はとけにしを上毛に花の雪ぞ降りしく	
-zkt-akishinogetsusei-0814				櫻花うつろはむとや山の端の薄紅に今朝はかすめる	
-zkt-akishinogetsusei-0815				夏	
-zkt-akishinogetsusei-0816				秋	
-zkt-akishinogetsusei-0817				co答ふべき荻の葉風も霜枯れて誰にとはまし秋の別路	
-zkt-akishinogetsusei-0818		冬		co風の音も早晩寒き棋の戶に今朝より馴るゝ埋火の本	
-zkt-akishinogetsusei-0819				_0篠原や忍びに秋の置きし露凍りなはてそ忘れ形見に	
-zkt-akishinogetsusei-0820				n0夕暮の一むら雲の山廻りしぐれはつれば軒ばもる月	
-zkt-akishinogetsusei-0821				お箱埋む刈田の木葉踏みしだき群居る雁も秋を戀らし	
-zkt-akishinogetsusei-0822				い難波潟ひかりを月の滿つ潮に革べの千鳥浦傳ふなり	
-zkt-akishinogetsusei-0823				xの霜の上に己が翅をかたしきて友なき爲のさ夜深き聲	
-zkt-akishinogetsusei-0824				お網代もる宇治の里人如何計いざよふ波に月を見る覽	
-zkt-akishinogetsusei-0825				。朝日さす氷のうへのうす煙まだ晴れやらぬ淀の川岸	
-zkt-akishinogetsusei-0826				一御室山峯の檜原のつれなきをしをる嵐に霰降るなり	
-zkt-akishinogetsusei-0827				一山里はいくへか雪の積るらむ軒端にかゝる松の下折	
-zkt-akishinogetsusei-0828				一〓吹く空に亂るゝ雪の夜に氷ぞむすぶ夢はむすばず	
-zkt-akishinogetsusei-0829				鶏の海や釣するあまの衣手に雪の花ちる志賀の山風	
-zkt-akishinogetsusei-0830				1雲はるゝ雪のひかりや白妙の衣ほすてふ天のかぐ山	
-zkt-akishinogetsusei-0831				〓くくすすす絕えぬ汀のこほり峯の白雪	
-zkt-akishinogetsusei-0832				一月よめば早くも年の行く水に數かきとむる柵ぞなき	
-zkt-akishinogetsusei-0833		祝		へぬれてほす玉串のはの露霜に天照る光幾世へぬらむ	
-zkt-akishinogetsusei-0834				か君が代に法の流をせきとめて昔の波や立ち返るらむ	
-zkt-akishinogetsusei-0835				c久かたの空の限もなき世かなみつの座のすまむ限は	
-zkt-akishinogetsusei-0836				一ゐる塵の山を幾重に重ねてもげに我國は動なき世を	
-zkt-akishinogetsusei-0837				二人の世を何定めなく思けむ君が千年のありける物を	
-zkt-akishinogetsusei-0838		戀		モ知せばや戀を駿河の田子の浦恨に浪の立ぬ日はなし	
-zkt-akishinogetsusei-0839				にうち忍びいはせの山も谷隠れ水の心をくむ人ぞなき	
-zkt-akishinogetsusei-0840				我〓はまだ知る人も白すげのまのゝ萩原露もらす哉	
-zkt-akishinogetsusei-0841				七荒磯の波寄せかくる岩根松云ねどねには願れぬべし	
-zkt-akishinogetsusei-0842				によそながらかけてぞ思ふ玉かづら葛城山の峯の白雲	
-zkt-akishinogetsusei-0843				ル下萠の名にやは立てむ難波なる蘆火焚屋に燻る煙を	
-zkt-akishinogetsusei-0844				加木隱れの身は空蝉の唐衣ころもへにけり忍び／＼に	
-zkt-akishinogetsusei-0845				2行き通ふ夢の中にも紛るやと打ちぬる程の心体めよ	
-zkt-akishinogetsusei-0846				「繰返し賴めても猶あふ事の片糸をやは玉の〓にせむ	
-zkt-akishinogetsusei-0847				〓暮しつる日はすがの根の菅枕交しても猶盡ねよは哉	
-zkt-akishinogetsusei-0848				身にそへし其仰も消えなゝむ夢なりけりと忘る計に	
-zkt-akishinogetsusei-0849				〓りりむむ限はいつと知らね共月な隔てそよその浮雲	
-zkt-akishinogetsusei-0850				我淚もとめて袖に宿れ月さりとて人の影は見えねど	
+zkt-akishinogetsusei-0801	801			加落ちたぎつ岩間打出づる泊湖川初春風や氷とくらむ	
+zkt-akishinogetsusei-0802	802			マト吉吉山雪ちる里もしかすがに槇の葉白き春風ぞ吹く	
+zkt-akishinogetsusei-0803	803			一時しもあれ春の七日の初子日若葉摘野に松をひく哉	
+zkt-akishinogetsusei-0804	804			エーののねね〓〓〓〓〓きを打拂ふにも梅の香ぞする	
+zkt-akishinogetsusei-0805	805			妻戀る雉子なく野の下蕨したに燃えても春を知る哉	
+zkt-akishinogetsusei-0806	806			〓野も山も同じ綠に染めてけり霞より降るこのめ春雨	
+zkt-akishinogetsusei-0807	807			〓わたの原雲にかりがね波に舟かすみてかへる春の曙	
+zkt-akishinogetsusei-0808	808			が津の國の難波の春の朝ぼらけ霞も波も果を知らばや	
+zkt-akishinogetsusei-0809	809			更科やをばすて山の薄電かすめる月に秋ぞのこれる	
+zkt-akishinogetsusei-0810	810			バ山櫻いまか咲くらむ陽炎のもゆる春べに降れる自雲	
+zkt-akishinogetsusei-0811	811			な誰誰今今日待つとはなくで山陰や花の雫に立ぞ濡ぬる	
+zkt-akishinogetsusei-0812	812			〓〓風風は花と松とに咲替て散るも散ぬも身にしまずやは	
+zkt-akishinogetsusei-0813	813			〓葦〓の下の氷はとけにしを上毛に花の雪ぞ降りしく	
+zkt-akishinogetsusei-0814	814			櫻花うつろはむとや山の端の薄紅に今朝はかすめる	
+zkt-akishinogetsusei-0815	815			夏	
+zkt-akishinogetsusei-0816	816			秋	
+zkt-akishinogetsusei-0817	817			co答ふべき荻の葉風も霜枯れて誰にとはまし秋の別路	
+zkt-akishinogetsusei-0818	818	冬		co風の音も早晩寒き棋の戶に今朝より馴るゝ埋火の本	
+zkt-akishinogetsusei-0819	819			_0篠原や忍びに秋の置きし露凍りなはてそ忘れ形見に	
+zkt-akishinogetsusei-0820	820			n0夕暮の一むら雲の山廻りしぐれはつれば軒ばもる月	
+zkt-akishinogetsusei-0821	821			お箱埋む刈田の木葉踏みしだき群居る雁も秋を戀らし	
+zkt-akishinogetsusei-0822	822			い難波潟ひかりを月の滿つ潮に革べの千鳥浦傳ふなり	
+zkt-akishinogetsusei-0823	823			xの霜の上に己が翅をかたしきて友なき爲のさ夜深き聲	
+zkt-akishinogetsusei-0824	824			お網代もる宇治の里人如何計いざよふ波に月を見る覽	
+zkt-akishinogetsusei-0825	825			。朝日さす氷のうへのうす煙まだ晴れやらぬ淀の川岸	
+zkt-akishinogetsusei-0826	826			一御室山峯の檜原のつれなきをしをる嵐に霰降るなり	
+zkt-akishinogetsusei-0827	827			一山里はいくへか雪の積るらむ軒端にかゝる松の下折	
+zkt-akishinogetsusei-0828	828			一〓吹く空に亂るゝ雪の夜に氷ぞむすぶ夢はむすばず	
+zkt-akishinogetsusei-0829	829			鶏の海や釣するあまの衣手に雪の花ちる志賀の山風	
+zkt-akishinogetsusei-0830	830			1雲はるゝ雪のひかりや白妙の衣ほすてふ天のかぐ山	
+zkt-akishinogetsusei-0831	831			〓くくすすす絕えぬ汀のこほり峯の白雪	
+zkt-akishinogetsusei-0832	832			一月よめば早くも年の行く水に數かきとむる柵ぞなき	
+zkt-akishinogetsusei-0833	833	祝		へぬれてほす玉串のはの露霜に天照る光幾世へぬらむ	
+zkt-akishinogetsusei-0834	834			か君が代に法の流をせきとめて昔の波や立ち返るらむ	
+zkt-akishinogetsusei-0835	835			c久かたの空の限もなき世かなみつの座のすまむ限は	
+zkt-akishinogetsusei-0836	836			一ゐる塵の山を幾重に重ねてもげに我國は動なき世を	
+zkt-akishinogetsusei-0837	837			二人の世を何定めなく思けむ君が千年のありける物を	
+zkt-akishinogetsusei-0838	838	戀		モ知せばや戀を駿河の田子の浦恨に浪の立ぬ日はなし	
+zkt-akishinogetsusei-0839	839			にうち忍びいはせの山も谷隠れ水の心をくむ人ぞなき	
+zkt-akishinogetsusei-0840	840			我〓はまだ知る人も白すげのまのゝ萩原露もらす哉	
+zkt-akishinogetsusei-0841	841			七荒磯の波寄せかくる岩根松云ねどねには願れぬべし	
+zkt-akishinogetsusei-0842	842			によそながらかけてぞ思ふ玉かづら葛城山の峯の白雲	
+zkt-akishinogetsusei-0843	843			ル下萠の名にやは立てむ難波なる蘆火焚屋に燻る煙を	
+zkt-akishinogetsusei-0844	844			加木隱れの身は空蝉の唐衣ころもへにけり忍び／＼に	
+zkt-akishinogetsusei-0845	845			2行き通ふ夢の中にも紛るやと打ちぬる程の心体めよ	
+zkt-akishinogetsusei-0846	846			「繰返し賴めても猶あふ事の片糸をやは玉の〓にせむ	
+zkt-akishinogetsusei-0847	847			〓暮しつる日はすがの根の菅枕交しても猶盡ねよは哉	
+zkt-akishinogetsusei-0848	848			身にそへし其仰も消えなゝむ夢なりけりと忘る計に	
+zkt-akishinogetsusei-0849	849			〓りりむむ限はいつと知らね共月な隔てそよその浮雲	
+zkt-akishinogetsusei-0850	850			我淚もとめて袖に宿れ月さりとて人の影は見えねど	

@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0301		餘寒		加空は消霞みもやらす風さえて雪げに曇る春の夜の月	
-zkt-akishinogetsusei-0302		春水		20本木間間より口影や春を洩すらむ松の岩根の水の白波	
-zkt-akishinogetsusei-0303		若草		ニ害きゆる枯野の下の淺綠こぞの草葉や根に返るらむ	
-zkt-akishinogetsusei-0304		賭弓		一今日はわれ君のみ前にとる文のさして片寄る梓弓哉	
-zkt-akishinogetsusei-0305		野遊		都人宿を置のよそに見て昨日もけふも野邊に暮しつ	
-zkt-akishinogetsusei-0306		雉		〓武威野に雉子も妻や籠るらむ今日の煙の下になく也	
-zkt-akishinogetsusei-0307				1片岡の霞も深き木隱れに朝日待つまの雲雀なくなり	
-zkt-akishinogetsusei-0308		遊絲		加面影に千里をかけて見するかな春の光に遊ぶ絲ゆふ	
-zkt-akishinogetsusei-0309		春曙		見ぬ世世で思ひ殘さぬ詠より昔に霞む春のあけぼの	
-zkt-akishinogetsusei-0310		遲日		ハ秋ならば月待つ事の憂からまし櫻にくらす春の山里	
-zkt-akishinogetsusei-0311		志賀山越		ねが遠やたままだ見ぬ敬は霞にて猶花おもふ志賀の山越	
-zkt-akishinogetsusei-0312		三月三日		〓〓故る花を今日のまと居の光にて波間にめぐる春の盡	
-zkt-akishinogetsusei-0313		蛙		一雨そゝぐ池の浮草風こえて波とつゆとに蛙なくなり	
-zkt-akishinogetsusei-0314		殘春		〓吉野由花のふるさと跡たえて空しき枝に春風ぞ吹く	
-zkt-akishinogetsusei-0315		新樹		花は散ぬいかに云てか人待む月だにもらぬ庭の梢に	
-zkt-akishinogetsusei-0316		夏草		夏草のもとも拂はぬ古〓に露より上を風かよふなり	
-zkt-akishinogetsusei-0317		賀茂祭		雲居より立てる使に葵草幾とせかけつ賀茂の川なみ	
-zkt-akishinogetsusei-0318		鵜河		が大井川なほ山陰に鵜飼舟厭ひかねたる夜半の月かな	
-zkt-akishinogetsusei-0319		夏夜		せうたゝねの夢よりさきに明けぬなり山郭公一聲の空	
-zkt-akishinogetsusei-0320		夏衣		かかさねても涼しかりけり夏衣うすき袂にやどる月影	
-zkt-akishinogetsusei-0321		扇		手にならす夏の扇と思へども唯秋風のすみか也けり	
-zkt-akishinogetsusei-0322		夕顏		○片片の垣根の日影ほの見えて露にぞうつる花の夕顏	
-zkt-akishinogetsusei-0323		晩立		一入日さす外山の雲ははれにけり嵐にすぐる夕立の空	
-zkt-akishinogetsusei-0324		蟬		ニ鳴く蟬のはにおく露に秋かけて木蔭涼しき夕暮の聲	
-zkt-akishinogetsusei-0325		殘暑		北うちよする波より秋の龍田川さても忘れぬ柳蔭かな	
-zkt-akishinogetsusei-0326		乞巧		生全の空の光となるものは雲居の庭に照すともし火	
-zkt-akishinogetsusei-0327		稻妻		ははななれたれ宿宿の轉寢に稻妻かよふ手枕の露	
-zkt-akishinogetsusei-0328		鶉		獨ぬる蘆のまろやの下露に床をならべて鶉鳴くなり	
-zkt-akishinogetsusei-0329		野分		〓昨日迄遂にとぢし柴の戶も野分にはるゝ岡のべの里	
-zkt-akishinogetsusei-0330		秋雨		xe降り幕す小萩が本の庭の雨を今宵は〓の上にきく哉	
-zkt-akishinogetsusei-0331		秋夕		〓物思はでかゝる露やは袖におく詠めて見な秋の夕暮	
-zkt-akishinogetsusei-0332		秋田		山山遠き門田のすゑは霧はれて穂なみに沈む有明の月	
-zkt-akishinogetsusei-0333		鳴		〓波よする澤の蘆邊をふしわびて風に立つ也賜の羽搔	
-zkt-akishinogetsusei-0334		廣澤池眺望		心には見ぬ昔こそうかびけれ月にながむる廣澤の池	
-zkt-akishinogetsusei-0335		萬		ふうつの山こえし昔の跡ふりて篤の枯葉に秋風ぞ吹く	
-zkt-akishinogetsusei-0336		柞		柞はら雫も色やかはるらむ森の下ぐさ秋ふけにけり	
-zkt-akishinogetsusei-0337		九月九日		ハ雲の上に待來し今日の白菊は人の詞の花にぞ有ける	
-zkt-akishinogetsusei-0338		秋霜		希結ぶ秋の末葉の小篠原風には露のこぼれしものを	
-zkt-akishinogetsusei-0339		暮秋		龍田姫いまはの頃の秋風にしぐれを急ぐ人の袖かな	
-zkt-akishinogetsusei-0340		落葉		〓散果てむ木葉の色を殘しても色こそなけれ嶺の松風	
-zkt-akishinogetsusei-0341		殘菊		樣々の花をば菊に分けとめて垣根に知らぬ霜枯の頃	
-zkt-akishinogetsusei-0342		枯野		見し秋を何に殘さむ草の原一つに變る野邊の景色に	
-zkt-akishinogetsusei-0343				→風さむみ今日も奚の古〓は吉野の山の雪げなりけり	
-zkt-akishinogetsusei-0344		野行幸		一片川の波も昔に立ち返りみゆきたえせぬ嵯峨の山陰	
-zkt-akishinogetsusei-0345		冬朝		〓雲深き案の朝げのいかならむ槇の戶しらむ雪の光に	
-zkt-akishinogetsusei-0346		寒松		〓〓水水るる谷の戶ぼそも閉ぢはてゝ氷を叩く嶺の松風	
-zkt-akishinogetsusei-0347		椎柴		山里の寂しさおもふ煙ゆゑたえ／＼立てる嶺の椎柴	
-zkt-akishinogetsusei-0348				さゆる夜に爲の会を重ねきて袖の氷を拂ひかねつゝ	
-zkt-akishinogetsusei-0349		佛名		い一とせの儚き夢は覺めぬらむ三世の佛の鐘の響きに	
-zkt-akishinogetsusei-0350		初戀		知らざりし我戀草や茂る覽昨日はかゝる袖の露かは	
+zkt-akishinogetsusei-0301	301	餘寒		加空は消霞みもやらす風さえて雪げに曇る春の夜の月	
+zkt-akishinogetsusei-0302	302	春水		20本木間間より口影や春を洩すらむ松の岩根の水の白波	
+zkt-akishinogetsusei-0303	303	若草		ニ害きゆる枯野の下の淺綠こぞの草葉や根に返るらむ	
+zkt-akishinogetsusei-0304	304	賭弓		一今日はわれ君のみ前にとる文のさして片寄る梓弓哉	
+zkt-akishinogetsusei-0305	305	野遊		都人宿を置のよそに見て昨日もけふも野邊に暮しつ	
+zkt-akishinogetsusei-0306	306	雉		〓武威野に雉子も妻や籠るらむ今日の煙の下になく也	
+zkt-akishinogetsusei-0307	307			1片岡の霞も深き木隱れに朝日待つまの雲雀なくなり	
+zkt-akishinogetsusei-0308	308	遊絲		加面影に千里をかけて見するかな春の光に遊ぶ絲ゆふ	
+zkt-akishinogetsusei-0309	309	春曙		見ぬ世世で思ひ殘さぬ詠より昔に霞む春のあけぼの	
+zkt-akishinogetsusei-0310	310	遲日		ハ秋ならば月待つ事の憂からまし櫻にくらす春の山里	
+zkt-akishinogetsusei-0311	311	志賀山越		ねが遠やたままだ見ぬ敬は霞にて猶花おもふ志賀の山越	
+zkt-akishinogetsusei-0312	312	三月三日		〓〓故る花を今日のまと居の光にて波間にめぐる春の盡	
+zkt-akishinogetsusei-0313	313	蛙		一雨そゝぐ池の浮草風こえて波とつゆとに蛙なくなり	
+zkt-akishinogetsusei-0314	314	殘春		〓吉野由花のふるさと跡たえて空しき枝に春風ぞ吹く	
+zkt-akishinogetsusei-0315	315	新樹		花は散ぬいかに云てか人待む月だにもらぬ庭の梢に	
+zkt-akishinogetsusei-0316	316	夏草		夏草のもとも拂はぬ古〓に露より上を風かよふなり	
+zkt-akishinogetsusei-0317	317	賀茂祭		雲居より立てる使に葵草幾とせかけつ賀茂の川なみ	
+zkt-akishinogetsusei-0318	318	鵜河		が大井川なほ山陰に鵜飼舟厭ひかねたる夜半の月かな	
+zkt-akishinogetsusei-0319	319	夏夜		せうたゝねの夢よりさきに明けぬなり山郭公一聲の空	
+zkt-akishinogetsusei-0320	320	夏衣		かかさねても涼しかりけり夏衣うすき袂にやどる月影	
+zkt-akishinogetsusei-0321	321	扇		手にならす夏の扇と思へども唯秋風のすみか也けり	
+zkt-akishinogetsusei-0322	322	夕顏		○片片の垣根の日影ほの見えて露にぞうつる花の夕顏	
+zkt-akishinogetsusei-0323	323	晩立		一入日さす外山の雲ははれにけり嵐にすぐる夕立の空	
+zkt-akishinogetsusei-0324	324	蟬		ニ鳴く蟬のはにおく露に秋かけて木蔭涼しき夕暮の聲	
+zkt-akishinogetsusei-0325	325	殘暑		北うちよする波より秋の龍田川さても忘れぬ柳蔭かな	
+zkt-akishinogetsusei-0326	326	乞巧		生全の空の光となるものは雲居の庭に照すともし火	
+zkt-akishinogetsusei-0327	327	稻妻		ははななれたれ宿宿の轉寢に稻妻かよふ手枕の露	
+zkt-akishinogetsusei-0328	328	鶉		獨ぬる蘆のまろやの下露に床をならべて鶉鳴くなり	
+zkt-akishinogetsusei-0329	329	野分		〓昨日迄遂にとぢし柴の戶も野分にはるゝ岡のべの里	
+zkt-akishinogetsusei-0330	330	秋雨		xe降り幕す小萩が本の庭の雨を今宵は〓の上にきく哉	
+zkt-akishinogetsusei-0331	331	秋夕		〓物思はでかゝる露やは袖におく詠めて見な秋の夕暮	
+zkt-akishinogetsusei-0332	332	秋田		山山遠き門田のすゑは霧はれて穂なみに沈む有明の月	
+zkt-akishinogetsusei-0333	333	鳴		〓波よする澤の蘆邊をふしわびて風に立つ也賜の羽搔	
+zkt-akishinogetsusei-0334	334	廣澤池眺望		心には見ぬ昔こそうかびけれ月にながむる廣澤の池	
+zkt-akishinogetsusei-0335	335	萬		ふうつの山こえし昔の跡ふりて篤の枯葉に秋風ぞ吹く	
+zkt-akishinogetsusei-0336	336	柞		柞はら雫も色やかはるらむ森の下ぐさ秋ふけにけり	
+zkt-akishinogetsusei-0337	337	九月九日		ハ雲の上に待來し今日の白菊は人の詞の花にぞ有ける	
+zkt-akishinogetsusei-0338	338	秋霜		希結ぶ秋の末葉の小篠原風には露のこぼれしものを	
+zkt-akishinogetsusei-0339	339	暮秋		龍田姫いまはの頃の秋風にしぐれを急ぐ人の袖かな	
+zkt-akishinogetsusei-0340	340	落葉		〓散果てむ木葉の色を殘しても色こそなけれ嶺の松風	
+zkt-akishinogetsusei-0341	341	殘菊		樣々の花をば菊に分けとめて垣根に知らぬ霜枯の頃	
+zkt-akishinogetsusei-0342	342	枯野		見し秋を何に殘さむ草の原一つに變る野邊の景色に	
+zkt-akishinogetsusei-0343	343			→風さむみ今日も奚の古〓は吉野の山の雪げなりけり	
+zkt-akishinogetsusei-0344	344	野行幸		一片川の波も昔に立ち返りみゆきたえせぬ嵯峨の山陰	
+zkt-akishinogetsusei-0345	345	冬朝		〓雲深き案の朝げのいかならむ槇の戶しらむ雪の光に	
+zkt-akishinogetsusei-0346	346	寒松		〓〓水水るる谷の戶ぼそも閉ぢはてゝ氷を叩く嶺の松風	
+zkt-akishinogetsusei-0347	347	椎柴		山里の寂しさおもふ煙ゆゑたえ／＼立てる嶺の椎柴	
+zkt-akishinogetsusei-0348	348			さゆる夜に爲の会を重ねきて袖の氷を拂ひかねつゝ	
+zkt-akishinogetsusei-0349	349	佛名		い一とせの儚き夢は覺めぬらむ三世の佛の鐘の響きに	
+zkt-akishinogetsusei-0350	350	初戀		知らざりし我戀草や茂る覽昨日はかゝる袖の露かは	

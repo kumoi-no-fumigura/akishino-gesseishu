@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0351		忍戀		かももすすよよ居居る嶺の初時雨木の葉は下に色變る共	
-zkt-akishinogetsusei-0352		聞戀		00谷ふかみ遙に人をきくの露觸れぬ袂よ何しをるらむ	
-zkt-akishinogetsusei-0353		見戀		。忘れずよほの／″＼人を三島江の黃昏なりし葦の迷に	
-zkt-akishinogetsusei-0354		尋戀		50たどりつる道に今宵は更けにけり杉の梢に有明の月	
-zkt-akishinogetsusei-0355		祈戀		お夜夜われ波にしをれて貴船川袖に玉ちる物思ふらむ	
-zkt-akishinogetsusei-0356		契戀		〓いけらばと誓ふ其日も猶こずば邊りの雲を我と眺よ	
-zkt-akishinogetsusei-0357		待戀		。蓬生の末葉の露の消え返り猶此世にと待たむ物かは	
-zkt-akishinogetsusei-0358		逢戀		ね。衣衣かさぬる契くちずしていく夜の露を打拂ふらむ	
-zkt-akishinogetsusei-0359		別戀		〓〓忘れじの契をたのむ別かな空ゆく月の末をかぞへて	
-zkt-akishinogetsusei-0360		照應		xの袖胸の畑は誰も見よ君がうき名の立つぞ悲しき	
-zkt-akishinogetsusei-0361		稀患		。有し夜の袖の移香消果てヽ又あふ迄の形見だになし	
-zkt-akishinogetsusei-0362		絕戀		〓体らひに出にし人の通路を古き野原と今日は見る哉	
-zkt-akishinogetsusei-0363		惧戀		一波ぞよる偖もみるめは無物を恨馴れたる志賀の里人	
-zkt-akishinogetsusei-0364		舊戀		一末迄といひし計に淺芽原宿も我身も朽ちやはてなむ	
-zkt-akishinogetsusei-0365		曉戀		1月やそれほの見し人の面影を忍びかへせば有明の空	
-zkt-akishinogetsusei-0366		朝態		獨獨の袖の名残の朝じめり日影に消えぬ露も有けり	
-zkt-akishinogetsusei-0367		畫戀		一物思へば隙行く駒も忘られて幕す涙をまづ抑ふらむ	
-zkt-akishinogetsusei-0368		夕戀		大君もまた夕やわきて詠むらむ忘れず拂ふ〓の風かな	
-zkt-akishinogetsusei-0369		夜戀		見し人のねぐたれ髪の面影に涙かきやるさ夜の手枕	
-zkt-akishinogetsusei-0370		老戀		人君故に厭ふも悲し鐘の聲頓て我が世も更けにし物を	
-zkt-akishinogetsusei-0371		幼戀		か行末の深きえにとぞ契りつるまだ結ばれぬ淀の者菰	
-zkt-akishinogetsusei-0372		遠戀		〓戀しとは便につけて云やりき年は還りぬ人は歸らず	
-zkt-akishinogetsusei-0373		近戀		一苯垣の上吹きこゆる夕風に通ふもつらき〓の音かな	
-zkt-akishinogetsusei-0374		旅戀		一枕にもあとにも露の玉ちりて獨起き居るさ夜の中山	
-zkt-akishinogetsusei-0375		寄月戀		袖袖上になるゝも人の形見かは我と宿せる秋夜の月	
-zkt-akishinogetsusei-0376		寄雲懸		君君りりとうきぬる心迷ふらむ雲はいくへぞ空の通路	
-zkt-akishinogetsusei-0377		寄風戀		エいつも聞く物とや人の思ふらむこぬ夕暮の松風の聲	
-zkt-akishinogetsusei-0378		寄雨懸		た深き夜の軒の平を數へても猶あまりある袖の雨かな	
-zkt-akishinogetsusei-0379		寄煙戀		七忍びかね心の空に立つ煙見せばや不盡の嶺に紛へて	
-zkt-akishinogetsusei-0380		寄山戀		末ののまつ夜幾度すぎぬらむ山こす波を袖に任せて	
-zkt-akishinogetsusei-0381		寄海戀		た與謝の海の沖つ潮風浦に吹けまつ也鬼と人に聞せむ	
-zkt-akishinogetsusei-0382		寄川戀		〓〓野野川早き流をせく岩のつれなき中に身を碎くらむ	
-zkt-akishinogetsusei-0383		寄閣戀		一古〓にみし面影も宿りけり不破の關屋の板間もる月	
-zkt-akishinogetsusei-0384		寄橋戀		一戀渡るよはのさ筵波かけてかくや待けむ字治の橋姫	
-zkt-akishinogetsusei-0385		寄草戀		三人待ちし庭の淺芽生茂りあひて心にならす道芝の露	
-zkt-akishinogetsusei-0386		寄木戀		思思ね打ぬる宵も有なまし吹きだにすさめ庭の松風	
-zkt-akishinogetsusei-0387		寄鳥戀		1時時ももれれ飛飛ぶ鳥の一聲も思方よりきてや鳴く覽	
-zkt-akishinogetsusei-0388		寄獸戀		ね此ののの底をよそに見ば鹿なく野べの秋の夕ぐれ	
-zkt-akishinogetsusei-0389				〓つらからむ中社あらめ萩原や下松虫の聲をだにとへ	
-zkt-akishinogetsusei-0390		寄笛戀		メー笛竹の聲の限を盡しても狩うきふしや世々に殘らむ	
-zkt-akishinogetsusei-0391		寄琴戀		加お故も悲しき〓とのねは立てつ子を思鶴に通ふのみかは	
-zkt-akishinogetsusei-0392		寄繪戀		00増鏡うつしかへけむ姿故かげ絶えはてし契をぞ知る	
-zkt-akishinogetsusei-0393		寄衣戀		「打解けて誰に衣を重ぬらむまろが丸寢も夜深き物を	
-zkt-akishinogetsusei-0394		寄蓆戀		ニ人待つとあれゆく聞のさ蓆に拂はぬ塵をはらふ秋風	
-zkt-akishinogetsusei-0395		寄遊女戀		三誰となく寄せては返る波枕うきたる舟の跡も留めず	
-zkt-akishinogetsusei-0396		寄傀儡戀		門四一夜のみやどかる人の契とて露むすびおく草枕かな	
-zkt-akishinogetsusei-0397		寄海人戀		湖風の吹きこすあまの苦廂したに思のくゆる頃かな	
-zkt-akishinogetsusei-0398		寄樵夫戀		加戀路をば風やはさそふ朝夕に谷の柴舟行き蹄れども	
-zkt-akishinogetsusei-0399		寄商人戀		七年年かかき入江の秋の月みても別をしまぬ人や悲しき.	
-zkt-akishinogetsusei-0400		治承題百首立春		AM鐘のおとの春をつぐなる曙にまづうち拂ふ霜の狹筵	
+zkt-akishinogetsusei-0351	351	忍戀		かももすすよよ居居る嶺の初時雨木の葉は下に色變る共	
+zkt-akishinogetsusei-0352	352	聞戀		00谷ふかみ遙に人をきくの露觸れぬ袂よ何しをるらむ	
+zkt-akishinogetsusei-0353	353	見戀		。忘れずよほの／″＼人を三島江の黃昏なりし葦の迷に	
+zkt-akishinogetsusei-0354	354	尋戀		50たどりつる道に今宵は更けにけり杉の梢に有明の月	
+zkt-akishinogetsusei-0355	355	祈戀		お夜夜われ波にしをれて貴船川袖に玉ちる物思ふらむ	
+zkt-akishinogetsusei-0356	356	契戀		〓いけらばと誓ふ其日も猶こずば邊りの雲を我と眺よ	
+zkt-akishinogetsusei-0357	357	待戀		。蓬生の末葉の露の消え返り猶此世にと待たむ物かは	
+zkt-akishinogetsusei-0358	358	逢戀		ね。衣衣かさぬる契くちずしていく夜の露を打拂ふらむ	
+zkt-akishinogetsusei-0359	359	別戀		〓〓忘れじの契をたのむ別かな空ゆく月の末をかぞへて	
+zkt-akishinogetsusei-0360	360	照應		xの袖胸の畑は誰も見よ君がうき名の立つぞ悲しき	
+zkt-akishinogetsusei-0361	361	稀患		。有し夜の袖の移香消果てヽ又あふ迄の形見だになし	
+zkt-akishinogetsusei-0362	362	絕戀		〓体らひに出にし人の通路を古き野原と今日は見る哉	
+zkt-akishinogetsusei-0363	363	惧戀		一波ぞよる偖もみるめは無物を恨馴れたる志賀の里人	
+zkt-akishinogetsusei-0364	364	舊戀		一末迄といひし計に淺芽原宿も我身も朽ちやはてなむ	
+zkt-akishinogetsusei-0365	365	曉戀		1月やそれほの見し人の面影を忍びかへせば有明の空	
+zkt-akishinogetsusei-0366	366	朝態		獨獨の袖の名残の朝じめり日影に消えぬ露も有けり	
+zkt-akishinogetsusei-0367	367	畫戀		一物思へば隙行く駒も忘られて幕す涙をまづ抑ふらむ	
+zkt-akishinogetsusei-0368	368	夕戀		大君もまた夕やわきて詠むらむ忘れず拂ふ〓の風かな	
+zkt-akishinogetsusei-0369	369	夜戀		見し人のねぐたれ髪の面影に涙かきやるさ夜の手枕	
+zkt-akishinogetsusei-0370	370	老戀		人君故に厭ふも悲し鐘の聲頓て我が世も更けにし物を	
+zkt-akishinogetsusei-0371	371	幼戀		か行末の深きえにとぞ契りつるまだ結ばれぬ淀の者菰	
+zkt-akishinogetsusei-0372	372	遠戀		〓戀しとは便につけて云やりき年は還りぬ人は歸らず	
+zkt-akishinogetsusei-0373	373	近戀		一苯垣の上吹きこゆる夕風に通ふもつらき〓の音かな	
+zkt-akishinogetsusei-0374	374	旅戀		一枕にもあとにも露の玉ちりて獨起き居るさ夜の中山	
+zkt-akishinogetsusei-0375	375	寄月戀		袖袖上になるゝも人の形見かは我と宿せる秋夜の月	
+zkt-akishinogetsusei-0376	376	寄雲懸		君君りりとうきぬる心迷ふらむ雲はいくへぞ空の通路	
+zkt-akishinogetsusei-0377	377	寄風戀		エいつも聞く物とや人の思ふらむこぬ夕暮の松風の聲	
+zkt-akishinogetsusei-0378	378	寄雨懸		た深き夜の軒の平を數へても猶あまりある袖の雨かな	
+zkt-akishinogetsusei-0379	379	寄煙戀		七忍びかね心の空に立つ煙見せばや不盡の嶺に紛へて	
+zkt-akishinogetsusei-0380	380	寄山戀		末ののまつ夜幾度すぎぬらむ山こす波を袖に任せて	
+zkt-akishinogetsusei-0381	381	寄海戀		た與謝の海の沖つ潮風浦に吹けまつ也鬼と人に聞せむ	
+zkt-akishinogetsusei-0382	382	寄川戀		〓〓野野川早き流をせく岩のつれなき中に身を碎くらむ	
+zkt-akishinogetsusei-0383	383	寄閣戀		一古〓にみし面影も宿りけり不破の關屋の板間もる月	
+zkt-akishinogetsusei-0384	384	寄橋戀		一戀渡るよはのさ筵波かけてかくや待けむ字治の橋姫	
+zkt-akishinogetsusei-0385	385	寄草戀		三人待ちし庭の淺芽生茂りあひて心にならす道芝の露	
+zkt-akishinogetsusei-0386	386	寄木戀		思思ね打ぬる宵も有なまし吹きだにすさめ庭の松風	
+zkt-akishinogetsusei-0387	387	寄鳥戀		1時時ももれれ飛飛ぶ鳥の一聲も思方よりきてや鳴く覽	
+zkt-akishinogetsusei-0388	388	寄獸戀		ね此ののの底をよそに見ば鹿なく野べの秋の夕ぐれ	
+zkt-akishinogetsusei-0389	389			〓つらからむ中社あらめ萩原や下松虫の聲をだにとへ	
+zkt-akishinogetsusei-0390	390	寄笛戀		メー笛竹の聲の限を盡しても狩うきふしや世々に殘らむ	
+zkt-akishinogetsusei-0391	391	寄琴戀		加お故も悲しき〓とのねは立てつ子を思鶴に通ふのみかは	
+zkt-akishinogetsusei-0392	392	寄繪戀		00増鏡うつしかへけむ姿故かげ絶えはてし契をぞ知る	
+zkt-akishinogetsusei-0393	393	寄衣戀		「打解けて誰に衣を重ぬらむまろが丸寢も夜深き物を	
+zkt-akishinogetsusei-0394	394	寄蓆戀		ニ人待つとあれゆく聞のさ蓆に拂はぬ塵をはらふ秋風	
+zkt-akishinogetsusei-0395	395	寄遊女戀		三誰となく寄せては返る波枕うきたる舟の跡も留めず	
+zkt-akishinogetsusei-0396	396	寄傀儡戀		門四一夜のみやどかる人の契とて露むすびおく草枕かな	
+zkt-akishinogetsusei-0397	397	寄海人戀		湖風の吹きこすあまの苦廂したに思のくゆる頃かな	
+zkt-akishinogetsusei-0398	398	寄樵夫戀		加戀路をば風やはさそふ朝夕に谷の柴舟行き蹄れども	
+zkt-akishinogetsusei-0399	399	寄商人戀		七年年かかき入江の秋の月みても別をしまぬ人や悲しき.	
+zkt-akishinogetsusei-0400	400	治承題百首立春		AM鐘のおとの春をつぐなる曙にまづうち拂ふ霜の狹筵	

@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0751				かきり／＼す鳴くや霜夜のさ筵に衣片敷き獨かもねむ	
-zkt-akishinogetsusei-0752				∞。田田川ちらぬ紅葉のかげ見えて紅超ゆる瀨々の白波	
-zkt-akishinogetsusei-0753				。忘るなよ秋は稻葉の山の端に又こむころを松の下風	
-zkt-akishinogetsusei-0754				co今年みる我が元結の初霜一にに十十三の餘のふけぬる	
-zkt-akishinogetsusei-0755		冬		。明明の枕の上に冬はきて殘るともなき秋のともし火	
-zkt-akishinogetsusei-0756				。神鹿も分こぬ野べの古〓に本荒のこ萩枯まくも惜し	
-zkt-akishinogetsusei-0757				xo山下風に人やは庭を槽柴の暫しもふれば道もなき迄	
-zkt-akishinogetsusei-0758				わ村時雨すぐれば晴るゝ高嶺より嵐に出る冬の夜の月	
-zkt-akishinogetsusei-0759				、笹の葉は深山もさやに打そよぎ凍れる霜を吹く嵐哉	
-zkt-akishinogetsusei-0760				no風を痛み漂ふ池の洋もさそふ水なくつらゝゐにけり	
-zkt-akishinogetsusei-0761				加o野野川たきつ白波こほりゐて岩ねにおつる嶺の松風	
-zkt-akishinogetsusei-0762				〇明石潟須磨も一つに空さえて月に千鳥も浦傳ふなり	
-zkt-akishinogetsusei-0763				一片敷の袖の氷も結ぼゝれ解けて疑ぬ夜の夢ぞ短かき	
-zkt-akishinogetsusei-0764				一時雨より酸に變る槇の屋の音せぬ雪ぞ今朝は寂しき	
-zkt-akishinogetsusei-0765				一本枯につれなく殘る奥山のまきの梢も雪をれにけり	
-zkt-akishinogetsusei-0766				·誰を訪ひ誰を待たましと計に跡たえはつる雪の山里	
-zkt-akishinogetsusei-0767				〓花殘る頃にや分かむ白雪の降り紛へたる三吉野の山	
-zkt-akishinogetsusei-0768				かかくくすす嶺の吹雪に炭竈の煙の末ぞ結ぼゝれ行く	
-zkt-akishinogetsusei-0769				←一夜とや春を待つらむ年月は今口吳竹の雪の下をれ	
-zkt-akishinogetsusei-0770		戀		ヘ態をのみ須磨の要人藻潮垂れ干敢ぬ袖の果を知ばや	
-zkt-akishinogetsusei-0771				〓吉野川岩もる水の湧き返り色こそ見えね下騷きつゝ	
-zkt-akishinogetsusei-0772				〓伊勢島や湖干に拾ふ偶々も手にとる程の行方知せよ	
-zkt-akishinogetsusei-0773				一楫を絕え由良の湊による船の便も知らぬ沖つしほ風	
-zkt-akishinogetsusei-0774				〓せき返す袖に時雨や餘るらむ人も梢に秋ぞ見えぬる	
-zkt-akishinogetsusei-0775				ニ我かくて寢ぬ夜の果を詠む其誰かは知らむ有明の頃	
-zkt-akishinogetsusei-0776				しかすがに別こし人の袖のかの其かと計いつ殘り劍	
-zkt-akishinogetsusei-0777				E稀稀ここし頃だにつらき松風を幾夜ともなき寢覺にぞ聞	
-zkt-akishinogetsusei-0778				是は皆空しき〓とぞと計は契るにつけて思ひ知りにき	
-zkt-akishinogetsusei-0779				かいはざりき今こむ迄の空の雲月日隔てゝ物思へとは	
-zkt-akishinogetsusei-0780		黑旅■		心昨日まで雲のあなたにみし山の岩根に今宵衣片敷く	
-zkt-akishinogetsusei-0781				たり散る森の落葉を掻つめて木の下乍ら煙立てつる	
-zkt-akishinogetsusei-0782				C〓〓はは月は灯かくしても明かせばあくるさ夜の中山	
-zkt-akishinogetsusei-0783				一武蔵野に結べる草の緣りとや一夜の枕露なれにけり	
-zkt-akishinogetsusei-0784				ニうき枕風の寄邊も白波のうちぬる宵は夢をだに見ず	
-zkt-akishinogetsusei-0785		山家		1白雲の八重たつ山を深しとも覺えぬ迄に住馴にけり	
-zkt-akishinogetsusei-0786				栞せで獨分けこし奥山に雛まつかぜの庭に吹くらむ	
-zkt-akishinogetsusei-0787				山田み深しく袖に玉ちりて寢覺ならはす瀧の音かな七	
-zkt-akishinogetsusei-0788				な雲かゝる山の梯踏分けて入りにし路は苦生ひにけり	
-zkt-akishinogetsusei-0789				七忘れじの人だにとはぬ山路哉櫻は雪に降り變れども	
-zkt-akishinogetsusei-0790		鳥七		ハ〓渡の原沖のこじまの松風に鵜の居る岩をあらふ白波	
-zkt-akishinogetsusei-0791				短方方岸岸の柳にゐる鷺のみのげなみよる川風ぞ吹く	
-zkt-akishinogetsusei-0792				惜き哉人もてかけぬ敏鷹のと歸る山に頃も經にけり	
-zkt-akishinogetsusei-0793				タ夕ぐれ本高き森に住む鳩の獨り友よぶ聲ぞ悲しき	
-zkt-akishinogetsusei-0794				一筵田のいつぬき川の玄き波に群居るたづの萬代の聲	
-zkt-akishinogetsusei-0795		祝		玉椿二度色は變るともはこやの山の御代はつきせじ-八	
-zkt-akishinogetsusei-0796				益なき雲居の末ぞ遙なる空行く月日はてを知らねば	
-zkt-akishinogetsusei-0797				n竹吳の〓より移る春の宮兼ても千代の色は見えにき	
-zkt-akishinogetsusei-0798				若葉さす玉のうつ木の枝毎に幾代の光磨きそふらむ	
-zkt-akishinogetsusei-0799				45枚數やや和島根も神代より君が爲とや固めおきけむ	
-zkt-akishinogetsusei-0800		奮		Nおしなべて今朝は霞の敷島や大和諸人春を知るらし	
+zkt-akishinogetsusei-0751	751			かきり／＼す鳴くや霜夜のさ筵に衣片敷き獨かもねむ	
+zkt-akishinogetsusei-0752	752			∞。田田川ちらぬ紅葉のかげ見えて紅超ゆる瀨々の白波	
+zkt-akishinogetsusei-0753	753			。忘るなよ秋は稻葉の山の端に又こむころを松の下風	
+zkt-akishinogetsusei-0754	754			co今年みる我が元結の初霜一にに十十三の餘のふけぬる	
+zkt-akishinogetsusei-0755	755	冬		。明明の枕の上に冬はきて殘るともなき秋のともし火	
+zkt-akishinogetsusei-0756	756			。神鹿も分こぬ野べの古〓に本荒のこ萩枯まくも惜し	
+zkt-akishinogetsusei-0757	757			xo山下風に人やは庭を槽柴の暫しもふれば道もなき迄	
+zkt-akishinogetsusei-0758	758			わ村時雨すぐれば晴るゝ高嶺より嵐に出る冬の夜の月	
+zkt-akishinogetsusei-0759	759			、笹の葉は深山もさやに打そよぎ凍れる霜を吹く嵐哉	
+zkt-akishinogetsusei-0760	760			no風を痛み漂ふ池の洋もさそふ水なくつらゝゐにけり	
+zkt-akishinogetsusei-0761	761			加o野野川たきつ白波こほりゐて岩ねにおつる嶺の松風	
+zkt-akishinogetsusei-0762	762			〇明石潟須磨も一つに空さえて月に千鳥も浦傳ふなり	
+zkt-akishinogetsusei-0763	763			一片敷の袖の氷も結ぼゝれ解けて疑ぬ夜の夢ぞ短かき	
+zkt-akishinogetsusei-0764	764			一時雨より酸に變る槇の屋の音せぬ雪ぞ今朝は寂しき	
+zkt-akishinogetsusei-0765	765			一本枯につれなく殘る奥山のまきの梢も雪をれにけり	
+zkt-akishinogetsusei-0766	766			·誰を訪ひ誰を待たましと計に跡たえはつる雪の山里	
+zkt-akishinogetsusei-0767	767			〓花殘る頃にや分かむ白雪の降り紛へたる三吉野の山	
+zkt-akishinogetsusei-0768	768			かかくくすす嶺の吹雪に炭竈の煙の末ぞ結ぼゝれ行く	
+zkt-akishinogetsusei-0769	769			←一夜とや春を待つらむ年月は今口吳竹の雪の下をれ	
+zkt-akishinogetsusei-0770	770	戀		ヘ態をのみ須磨の要人藻潮垂れ干敢ぬ袖の果を知ばや	
+zkt-akishinogetsusei-0771	771			〓吉野川岩もる水の湧き返り色こそ見えね下騷きつゝ	
+zkt-akishinogetsusei-0772	772			〓伊勢島や湖干に拾ふ偶々も手にとる程の行方知せよ	
+zkt-akishinogetsusei-0773	773			一楫を絕え由良の湊による船の便も知らぬ沖つしほ風	
+zkt-akishinogetsusei-0774	774			〓せき返す袖に時雨や餘るらむ人も梢に秋ぞ見えぬる	
+zkt-akishinogetsusei-0775	775			ニ我かくて寢ぬ夜の果を詠む其誰かは知らむ有明の頃	
+zkt-akishinogetsusei-0776	776			しかすがに別こし人の袖のかの其かと計いつ殘り劍	
+zkt-akishinogetsusei-0777	777			E稀稀ここし頃だにつらき松風を幾夜ともなき寢覺にぞ聞	
+zkt-akishinogetsusei-0778	778			是は皆空しき〓とぞと計は契るにつけて思ひ知りにき	
+zkt-akishinogetsusei-0779	779			かいはざりき今こむ迄の空の雲月日隔てゝ物思へとは	
+zkt-akishinogetsusei-0780	780	黑旅■		心昨日まで雲のあなたにみし山の岩根に今宵衣片敷く	
+zkt-akishinogetsusei-0781	781			たり散る森の落葉を掻つめて木の下乍ら煙立てつる	
+zkt-akishinogetsusei-0782	782			C〓〓はは月は灯かくしても明かせばあくるさ夜の中山	
+zkt-akishinogetsusei-0783	783			一武蔵野に結べる草の緣りとや一夜の枕露なれにけり	
+zkt-akishinogetsusei-0784	784			ニうき枕風の寄邊も白波のうちぬる宵は夢をだに見ず	
+zkt-akishinogetsusei-0785	785	山家		1白雲の八重たつ山を深しとも覺えぬ迄に住馴にけり	
+zkt-akishinogetsusei-0786	786			栞せで獨分けこし奥山に雛まつかぜの庭に吹くらむ	
+zkt-akishinogetsusei-0787	787			山田み深しく袖に玉ちりて寢覺ならはす瀧の音かな七	
+zkt-akishinogetsusei-0788	788			な雲かゝる山の梯踏分けて入りにし路は苦生ひにけり	
+zkt-akishinogetsusei-0789	789			七忘れじの人だにとはぬ山路哉櫻は雪に降り變れども	
+zkt-akishinogetsusei-0790	790	鳥七		ハ〓渡の原沖のこじまの松風に鵜の居る岩をあらふ白波	
+zkt-akishinogetsusei-0791	791			短方方岸岸の柳にゐる鷺のみのげなみよる川風ぞ吹く	
+zkt-akishinogetsusei-0792	792			惜き哉人もてかけぬ敏鷹のと歸る山に頃も經にけり	
+zkt-akishinogetsusei-0793	793			タ夕ぐれ本高き森に住む鳩の獨り友よぶ聲ぞ悲しき	
+zkt-akishinogetsusei-0794	794			一筵田のいつぬき川の玄き波に群居るたづの萬代の聲	
+zkt-akishinogetsusei-0795	795	祝		玉椿二度色は變るともはこやの山の御代はつきせじ-八	
+zkt-akishinogetsusei-0796	796			益なき雲居の末ぞ遙なる空行く月日はてを知らねば	
+zkt-akishinogetsusei-0797	797			n竹吳の〓より移る春の宮兼ても千代の色は見えにき	
+zkt-akishinogetsusei-0798	798			若葉さす玉のうつ木の枝毎に幾代の光磨きそふらむ	
+zkt-akishinogetsusei-0799	799			45枚數やや和島根も神代より君が爲とや固めおきけむ	
+zkt-akishinogetsusei-0800	800	奮		Nおしなべて今朝は霞の敷島や大和諸人春を知るらし	
