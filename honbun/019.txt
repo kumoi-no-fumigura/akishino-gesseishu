@@ -38,7 +38,7 @@ zkt-akishinogetsusei-0937	937	月前竹風		ニ獨かも月は待ちいでゝ吳
 zkt-akishinogetsusei-0938	938	野徑月		行末は空も一つのむさし野に草の原より出づる月影	
 zkt-akishinogetsusei-0939	939	澤邊月		11月影の忘れすやどる忘れみづ野澤に誰か秋を契りし	
 zkt-akishinogetsusei-0940	940			たこし路より千里の雲を隔てきて都の月にはつ雁の聲	
-zkt-akishinogetsusei-0941	941	浦邊月		〓假枕月を玄きつの衣手に立寄る波もうらぶれにけり	
+zkt-akishinogetsusei-0941	941	浦邊月		〓假枕月を𛁈きつの衣手に立寄る波もうらぶれにけり	
 zkt-akishinogetsusei-0942	942	月照瀧水		〓山人の衣なるらし白妙の月にさらせる布びきのたき	
 zkt-akishinogetsusei-0943	943	杜間月		だふりにける龍田の森は神寂て木の本照す秋の夜の月	
 zkt-akishinogetsusei-0944	944	月前秋風		〓その色と思ひ分けとや秋風の心盡しの月に吹くらむ	

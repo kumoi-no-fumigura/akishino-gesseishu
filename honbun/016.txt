@@ -41,7 +41,7 @@ zkt-akishinogetsusei-0790	790	鳥七		ハ〓渡の原沖のこじまの松風に
 zkt-akishinogetsusei-0791	791			短方方岸岸の柳にゐる鷺のみのげなみよる川風ぞ吹く	
 zkt-akishinogetsusei-0792	792			惜き哉人もてかけぬ敏鷹のと歸る山に頃も經にけり	
 zkt-akishinogetsusei-0793	793			タ夕ぐれ本高き森に住む鳩の獨り友よぶ聲ぞ悲しき	
-zkt-akishinogetsusei-0794	794			一筵田のいつぬき川の玄き波に群居るたづの萬代の聲	
+zkt-akishinogetsusei-0794	794			一筵田のいつぬき川の𛁈き波に群居るたづの萬代の聲	
 zkt-akishinogetsusei-0795	795	祝		玉椿二度色は變るともはこやの山の御代はつきせじ-八	
 zkt-akishinogetsusei-0796	796			益なき雲居の末ぞ遙なる空行く月日はてを知らねば	
 zkt-akishinogetsusei-0797	797			n竹吳の〓より移る春の宮兼ても千代の色は見えにき	
