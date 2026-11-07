@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-1201	1201			山里はひとり音する松風をながめやるにも秋の夕霧	
-zkt-akishinogetsusei-1202	1202	座主無動寺に侍りけるに遣しける		君が住む山の奥をも見つるかな長き夜頃の夢の通路	
-zkt-akishinogetsusei-1203	1203			世のうきをよそに聞くなる山の奥に猶鹿なかば同秋風	
-zkt-akishinogetsusei-1204	1204			年にしわが立つ杣の杉村に幾秋風の君をとふらむ	
-zkt-akishinogetsusei-1205	1205			哀いかに志賀の秋霧ほの〳〵と浦ごく舟の跡眺む覽	
-zkt-akishinogetsusei-1206	1206			傳へくる跡はつきせじ岩が根の動くとなき寺の印は	
-zkt-akishinogetsusei-1207	1207	返し座		見ても我が思をも思ひしる忍ぶ日頃の夢の通路	
-zkt-akishinogetsusei-1208	1208			鹿は鳴けど世の憂事をよそに聞く山の奥にはあらぬ秋風	
-zkt-akishinogetsusei-1209	1209			風ならで君がとふこそ好しけれ我立つ杣の杉の印に	
-zkt-akishinogetsusei-1210	1210			辛崎や朝霧ほの〳〵と島なき舟の跡をしぞ思ふ	
-zkt-akishinogetsusei-1211	1211			岩がねや君が繰りの君なくば動かぬ寺も跡無らまし	
-zkt-akishinogetsusei-1212	1212	九月九日作文しける時中宮大夫詩を送るべき由かねていへりけるを其の日になりて賜はせざりければ後朝に遺しける		白菊の眞垣寂しく見えし哉君が言葉の花をよそにて	
-zkt-akishinogetsusei-1213	1213	返し中宮大夫		白ぎくの花もてやつす言の葉は中々なりや君が籬に	
-zkt-akishinogetsusei-1214	1214	さて十三夜にこそ詩を送らめと侍りければ		さりともな其夜の月の曇らずば詞の露を磨かざらめや	
-zkt-akishinogetsusei-1215	1215	返し中宮大夫		磨くべき詞の露の置かば社其夜の月の影も待たれめ	
-zkt-akishinogetsusei-1216	1216	又		磨きおく詞の露のもりこずば其夜の月ぞ梅雨の空	
-zkt-akishinogetsusei-1217	1217	返しにつけて詩を送るとて中宮大夫		大方の今宵の月は隈なきに言葉の露に五月雨ぞ降る	
-zkt-akishinogetsusei-1218	1218	返し		言の葉は空に知らるゝ光にて今宵の月は磨かれにけり	
-zkt-akishinogetsusei-1219	1219	x〓衣うつ哀は夜はの物なれや月入りぬれば聲たゆむ也ねかへるべき越の旅人待ちかねて都の月に衣搆つなり10大方の哀に過ぐる村時雨聞きわく袖に色は見ゆらむ00山川の末の流もにほふなり谷の白菊咲きにけらしもx0龍田山松のあなたの薄もみぢ時雨おくある秋の色哉。古〓の拂はぬ庭に跡とちて木の葉や霜の下に朽なむ一獨のみ月と霜とに起居つゝ頓て我世も更やしにけむ一宿さびて庭に木の葉の積るより人まつ蟲も聲弱る也一月形は有明がたに弱りきて烈しくなりぬやま颪の風和和ぶ秋の末にもなりぬれば裾野の草も風傷むなり長月の末葉の野べはうらがれて草の原より變る色設		九月盡	
-zkt-akishinogetsusei-1220	1220			遠方の浦人今や寢覺してとわたる千鳥近く聞くらむ	
-zkt-akishinogetsusei-1221	1221	行路雪		玉鉾の道ゆく袖の白妙にそれとも見えず置ける朝霜	
-zkt-akishinogetsusei-1222	1222	遠山雪		行て見ば今日も暮れなむ足引の山の端白き雪の曙	
-zkt-akishinogetsusei-1223	1223	行路朝雪		行人の跡にぞ雪は知られける月より後の山の端の月	
-zkt-akishinogetsusei-1224	1224	遠近千鳥		遠方や友よび捨てゝ立つ千鳥後るゝ聲ぞ空に殘れる	
-zkt-akishinogetsusei-1225	1225	家の選歌合の十百の內、庭雪		ふる雪に籬かたしく呉竹の庭のふしどは下凍りつゝ	
-zkt-akishinogetsusei-1226	1226	家の歌合に、寒樹交松		しぐれこし色や綠に返るらむ木葉晴れのく松の嵐に	
-zkt-akishinogetsusei-1227	1227	池水半氷		池水をいかに嵐の吹分けて凍れる程の凍らざるらむ	
-zkt-akishinogetsusei-1228	1228	山家夜霜		草結ぶよはの戶ざしの枯しより內も顯はに置ける霜哉	
-zkt-akishinogetsusei-1229	1229	關路雪朝		鈴鹿山せきの戶あくる東雲になほ道たゆる峯の白雪	
-zkt-akishinogetsusei-1230	1230	水鳥知主		鳰鳥の波に任する浮巢だに馴れぬ汀にわきてよる覽	
-zkt-akishinogetsusei-1231	1231	旅泊千鳥		己だにも問ひこなむさよ千鳥須磨の浮寢に物や思ふと	
-zkt-akishinogetsusei-1232	1232	霧中曉鼠		風吹く露のかども數そひては山の裾に宿りわびぬる	
-zkt-akishinogetsusei-1233	1233	湖上冬月		志賀の浦の汀ばかりは氷にて照てる月をよする白波	
-zkt-akishinogetsusei-1234	1234	爐邊懷舊		下にのみ忍ぶ昔のかひなきや掻き顯さぬ夜はの埋火	
-zkt-akishinogetsusei-1235	1235	寄歳暮戀		忘れずば逢ふ夜を待たむ涙川流るゝ年の末を數へて	
-zkt-akishinogetsusei-1236	1236	家の會に河氷を		かつこほる浪や嵐に碎くらむ清瀧川のあかつきの聲	
-zkt-akishinogetsusei-1237	1237	吉野山寒月		一年を詠めはてつる吉野山むなしき枝に月ぞ殘れる	
-zkt-akishinogetsusei-1238	1238	伏見里雲		わかぬ雪のうちにも菅原や伏見の幕は猶ぞ寂しき	
-zkt-akishinogetsusei-1239	1239	雪の朝座主のもとへ遣しける		雪の跡惜からぬ迄なりにけり君待つ宿の庭を詠めて	
-zkt-akishinogetsusei-1240	1240	返し座主		我宿は人を分てぞ跡を惜むしづしも雪を厭けるにぞ	
-zkt-akishinogetsusei-1241	1241			分來べき人なき宿の庭の雪にわれ跡つけて君を訪哉	
-zkt-akishinogetsusei-1242	1242			君が住む松の扉の雪の朝猶降りゆかむ末をこそ思へ	
-zkt-akishinogetsusei-1243	1243			君がとふ跡つけそむる初雪を積む覽末も賴まるゝ哉	
-zkt-akishinogetsusei-1244	1244			ふりはてゝ雪消えぬ共君が代を松の扉は猶尋ねみよ	
-zkt-akishinogetsusei-1245	1245			をしねつむ山田の庵は秋過て袖を時雨にほさぬ頃哉	
-zkt-akishinogetsusei-1246	1246			山の氣色ばかりや冬ならむ都なりせば秋の夜の月	
-zkt-akishinogetsusei-1247	1247			秋の色の今は殘らぬ梢より山風おつる字治の川なみ	
-zkt-akishinogetsusei-1248	1248			草枕まだ音づれのなきまヽに浪におどろく古郷の夢	
-zkt-akishinogetsusei-1249	1249			霜さゆる杉の板間のめも合ず誰まつ袖に月凍るらむ	
-zkt-akishinogetsusei-1250	1250			よもすがら凍れる露を光にて庭の木の葉に宿る月影	
+zkt-akishinogetsusei-1162	1201	八月十五夜座主の許より		今かも心の空に待し秋は山の端にだに雲のなき哉	
+zkt-akishinogetsusei-1163	1202			類ひなき光に色もそひなまし今宵の月を君と見たらは	
+zkt-akishinogetsusei-1164	1203	返し		晴初めてまたたなびかぬ雲迄も思し儘の山の端の月	
+zkt-akishinogetsusei-1165	1204			君と見むその面影をやどしても袖哀なる我が宿の月	
+zkt-akishinogetsusei-1166	1205	內大臣のこと侍りける頃無動寺の法印のもとへ遺しける		さへかしな影を並べて昔見し人なき庭の月はいかにと	
+zkt-akishinogetsusei-1167	1206	返し此二當正寛本に貫入之似い似部に入		古の影なき宿にすむ月は心をやりてとふと知らずや	
+zkt-akishinogetsusei-1168	1207	月のくまなかりける夜ながめあかして		袖の上に宿かす露の溜らずば唯雲居なる秋の夜の月	
+zkt-akishinogetsusei-1169	1208			すむ月よ幾里人の袖の上に光を分けて宿りきつらむ	
+zkt-akishinogetsusei-1170	1209			物思ふ我かはあやな秋の月尋ねて袖の露にすむらむ	
+zkt-akishinogetsusei-1171	1210			身やはうき空やはつらき秋の月いかに眺て袖濡す覽	
+zkt-akishinogetsusei-1172	1211			今年とて秋やは變る月影にならはぬ程の心そひぬる	
+zkt-akishinogetsusei-1173	1212			見る月は山より山に移り來ぬ寢ぬ夜のはての曉の空	
+zkt-akishinogetsusei-1174	1213	いかなりける時にか		思出でゝ泣く〳〵月に尋ずば待てと契し中や絕なむ	
+zkt-akishinogetsusei-1175	1214	月の歌よみける中に		春は猶心あてにぞ春は見し雲もまがはぬ三吉野の月	
+zkt-akishinogetsusei-1176	1215			泡雪を春の光に見しよりも雲間の月の庭のむらぎえ	
+zkt-akishinogetsusei-1177	1216			それも猶心のはてはありぬべし月見ぬ秋の鹽竈の浦	
+zkt-akishinogetsusei-1178	1217			廣澤の池の水草を吹きよせて風より晴るゝ波の月影	
+zkt-akishinogetsusei-1179	1218			手に汲みし由井の水にすまれ共あかで別るゝ東雲の月	
+zkt-akishinogetsusei-1180	1219			へにけりな今年も春を三吉野の今更科に秋ふくる迄	
+zkt-akishinogetsusei-1181	1220	一二三を何の上にすゑて秋の歌よみける		一むらの昔の薄思ひ出でゝしげき野分の秋の夕ぐれ	
+zkt-akishinogetsusei-1182	1221			二もとの杉の梢は初時雨ふる川のべに色もかはらず	
+zkt-akishinogetsusei-1183	1222			三日月の有明の空に變る迄槇の戶さゝぬ秋のよな〳〵	
+zkt-akishinogetsusei-1184	1223			四の海風靜かなる波の上に曇なき世の月を見るかな	
+zkt-akishinogetsusei-1185	1224			五月山照射に洩れしさを鹿の秋は思に身をしをる覽	
+zkt-akishinogetsusei-1186	1225			六月の空に厭ひし空蟬の今は秋なる音をや鳴くらむ	
+zkt-akishinogetsusei-1187	1226			七夕の秋の七日に知られにき忍兼ぬべき空の景色は	
+zkt-akishinogetsusei-1188	1227			八重しげる葎の門に夕霧のかさねてとづる秋の山里	
+zkt-akishinogetsusei-1189	1228			やや長き夜すがらもる水の音さへ寒きにはの初霜	
+zkt-akishinogetsusei-1190	1229			十返りの花咲松も朽にけり朝顏のみやはかなかるべき	
+zkt-akishinogetsusei-1191	1230	秋の夜に		焚置かぬ中こそあらめ秋の夜の長き思を問人もがな	
+zkt-akishinogetsusei-1192	1231			くらき夜の窓うつ雨に驚けば軒端の松に秋風ぞ吹く	
+zkt-akishinogetsusei-1193	1232			聞き明す松の嵐の聲なくば時雨ぬ跡や夢路ならまし	
+zkt-akishinogetsusei-1194	1233			物思ふ千夜を一夜も限あれば窓より西に月は廻りぬ	
+zkt-akishinogetsusei-1195	1234	秋の歌よみける中に		秋ぞかし草にも木にも露見えて月に鹿なく有明の山	
+zkt-akishinogetsusei-1196	1235			木のもとに積る木の葉をかきつめて露暖むる秋の盃	
+zkt-akishinogetsusei-1197	1236			秋と云へばなべて草木も萎れけり我袖のみと思ける哉	
+zkt-akishinogetsusei-1198	1237			曉の鴨の羽音は時雨にてすゞの篠屋に月ぞもりくる	
+zkt-akishinogetsusei-1199	1238	明カヒ		草も木も野分にたへぬ夕暮に裾野の色の露ぞ碎くる	
+zkt-akishinogetsusei-1200	1239	霧		時しらぬ山さへ時を知りにけり富士の煙を霧に紛へて	
+zkt-akishinogetsusei-1201	1240			山里はひとり音する松風をながめやるにも秋の夕霧	
+zkt-akishinogetsusei-1202	1241	座主無動寺に侍りけるに遣しける		君が住む山の奥をも見つるかな長き夜頃の夢の通路	
+zkt-akishinogetsusei-1203	1242			世のうきをよそに聞くなる山の奥に猶鹿なかば同秋風	
+zkt-akishinogetsusei-1204	1243			年にしわが立つ杣の杉村に幾秋風の君をとふらむ	
+zkt-akishinogetsusei-1205	1244			哀いかに志賀の秋霧ほの〳〵と浦ごく舟の跡眺む覽	
+zkt-akishinogetsusei-1206	1245			傳へくる跡はつきせじ岩が根の動くとなき寺の印は	
+zkt-akishinogetsusei-1207	1246	返し座		見ても我が思をも思ひしる忍ぶ日頃の夢の通路	
+zkt-akishinogetsusei-1208	1247			鹿は鳴けど世の憂事をよそに聞く山の奥にはあらぬ秋風	
+zkt-akishinogetsusei-1209	1248			風ならで君がとふこそ好しけれ我立つ杣の杉の印に	
+zkt-akishinogetsusei-1210	1249			辛崎や朝霧ほの〳〵と島なき舟の跡をしぞ思ふ	
+zkt-akishinogetsusei-1211	1250			岩がねや君が繰りの君なくば動かぬ寺も跡無らまし	

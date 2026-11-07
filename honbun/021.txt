@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-1001	1001	返し女房に代りて		此春は君を待ける花なれば散で日數をふると知ずや	
-zkt-akishinogetsusei-1002	1002	同じ頃南殿の花を折りて人の許へ遺しける		宮びとのかざす雲居の櫻花この一枝は君がためとて	
-zkt-akishinogetsusei-1003	1003	前齋院大炊御門におはしましける頃女房の中より八重櫻につけて		古の春を忘れぬ八重櫻これや見し世に變らざる覽	
-zkt-akishinogetsusei-1004	1004	返し		八重櫻折知る人の微せば見し世の春に爭であはまし	
-zkt-akishinogetsusei-1005	1005	宇治平等院にて一切經の會の後朝の會に		法の水八十宇治川に堰止めて花の友にや春を待けむ	
-zkt-akishinogetsusei-1006	1006	同じ日當座の會に依花留客といふ心を		春ごとの花の契に馴々て風よりかれむ頃をしぞ思ふ	
-zkt-akishinogetsusei-1007	1007	またの日中宮の女房ども船に乘りて公卿殿上人など物の音ならして遊びけるにはてつかたに人々、舟中見花といふことを詠みけるに		麓ゆく舟路は花になりはてゝ波に波そふやま風の風	
-zkt-akishinogetsusei-1008	1008	當世の女房の歌よみどもに百首の歌よませて披講せしついでに五首の歌詠みける中に春の心を		あたら夜の霞み行さへ惜しき哉花と月との明方の山	
-zkt-akishinogetsusei-1009	1009	花の歌よみける中に		櫻さく比良の山風ふく儘に花になりゆく志賀の浦波	
-zkt-akishinogetsusei-1010	1010			はれくもり峯定まらぬ白雲は風に天ぎる櫻なりけり	
-zkt-akishinogetsusei-1011	1011			深山路や散敷く花をふまじとて松の下ゆく谷の岩橋	
-zkt-akishinogetsusei-1012	1012			散り紛ふ櫻を風の吹きよせて深き浪たつ勝間田の池	
-zkt-akishinogetsusei-1013	1013	喚子島を含利講の次でに		時しもあれ我答へよと呼子鳥傾ぶく月の西の雲居に	
-zkt-akishinogetsusei-1014	1014	春の暮に		山里の人もこずゑに春くれて淺芽が末に花は移りぬ	
-zkt-akishinogetsusei-1015	1015			古巣うづむ雲の主となりぬらむ馴れし都を出づる鶯	
-zkt-akishinogetsusei-1016	1016	三月盡		霞かす入相の鐘に眺むれば今日まで霞む小泊瀨の山	
-zkt-akishinogetsusei-1017	1017	更衣		佐保姫に別し衣を脫ぎかへて戀しかるべき春の袖哉	
-zkt-akishinogetsusei-1018	1018			花の袖かへまく惜しき今日なれや山郭公聲は遲きに	
-zkt-akishinogetsusei-1019	1019	夏の歌よみける中に		片岡のはなも殘らぬ梢より綠かさなる松のしたしば	
-zkt-akishinogetsusei-1020	1020	卯花		自から心に秋もありぬべし卵の花月夜うち眺めつゝ	
-zkt-akishinogetsusei-1021	1021	薄暮卵花		眺めつる月よりつきは出でにけり卯花山の夕暮の空	
-zkt-akishinogetsusei-1022	1022			たち花の匂にさそふいにしへの面影になる有明の月	
-zkt-akishinogetsusei-1023	1023	廣橋を		風薫る軒の立花年ふりてしのぶの露の袖にかけつる	
-zkt-akishinogetsusei-1024	1024	院の選歌合の十首の中、雨後郭公		五月雨を厭ふとなしに郭公人に待たれて月を待ける	
-zkt-akishinogetsusei-1025	1025	松下晩涼		蟬の羽に置く夕露の木がくれて秋を宿せる庭の松風	
-zkt-akishinogetsusei-1026	1026	院にて人丸の影供ありしに、海邊夏月		夏の夜を明石のせとの浪の上に月吹き返す磯の松風	
-zkt-akishinogetsusei-1027	1027	同じ御合の次での當座の御會に、竹風夜凉		竹の起臥し風にそなれきて夜な〳〵秋と驚かす也	
-zkt-akishinogetsusei-1028	1028	山家五月雨		軒近きまきの梢に居る雲の重なるまゝに五月雨の空	
-zkt-akishinogetsusei-1029	1029	院の十首の歌合に、六蒲を		今日といへば袖も枕も菖蒲草かけてぞ結ぶ長き契を	
-zkt-akishinogetsusei-1030	1030	郭公		をちかへり軒端にきなけ郭公はな橘に雨そゝぐなり	
-zkt-akishinogetsusei-1031	1031	院の城南寺の御會に、雨中郭公		早苗とる鳥羽田の面に雨をえて折はへ來鳴く郭公哉	
-zkt-akishinogetsusei-1032	1032	野亭水凉		野中なる松の木蔭に堰入れてぬるき清水の庭に凉き	
-zkt-akishinogetsusei-1033	1033	家の歌合に、暮郭公		郭公月とともにや出でぬらむ外山の峯の夕暮のこゑ	
-zkt-akishinogetsusei-1034	1034	郭公		忍びねぞ色はありける郭公卯花やまの露にしをれて	
-zkt-akishinogetsusei-1035	1035			足引の山ほとゝぎす來鳴く也待ちつる宿の夕暮の空	
-zkt-akishinogetsusei-1036	1036			聞く人の袖に讓りて郭公なく音に落つる淚やはある	
-zkt-akishinogetsusei-1037	1037			分きて鳴け物思ふ宿の郭公ねに類ふべき心ある身ぞ	
-zkt-akishinogetsusei-1038	1038	海上郭公		尋ぬべき方こそなけれ郭公行方も知らぬ波に鳴く也	
-zkt-akishinogetsusei-1039	1039	五首の題の中に、夏の心を		打ちしめり菖蒲ぞかをる郭公鳴くや皐月の雨の夕暮	
-zkt-akishinogetsusei-1040	1040	早苗		梅雨に取らぬ早苗の流るゝをせく社頓て植る也けれ	
-zkt-akishinogetsusei-1041	1041	古池菖蒲		浮草は野邊も一つの綠にてあやめぞ池の匂なりける	
-zkt-akishinogetsusei-1042	1042	菖蒲を		隠れぬに今日引殘す菖蒲草いつかと知で朽や果なむ	
-zkt-akishinogetsusei-1043	1043	五月五日中宮大夫の許よりあやめの長根を贈れりける返事に		君を思ふ心の底の深きにや斯る菖蒲の根を宿しけむ	
-zkt-akishinogetsusei-1044	1044	返し中宮大夫		思ふらむ心の底は君よりも深き菖蒲に引き增りけり	
-zkt-akishinogetsusei-1045	1045	五月雨の歌とて		空は雲庭は波こす五月雨に詠めも絕えぬ人も通はず	
-zkt-akishinogetsusei-1046	1046	鳥羽殿にて五百の歌講ぜられける中に城外納涼		山城の鳥羽田の早苗取も敢ず末こす風に秋ぞ仄めく	
-zkt-akishinogetsusei-1047	1047	池上見		池にすむ光を見よと思ひけり木の下くらき庭の月影	
-zkt-akishinogetsusei-1048	1048	家々納凉		大方の夏なき年となりやせむ又此の里に淸水せく也	
-zkt-akishinogetsusei-1049	1049	關路晩凉		暫しこそ小川の淸水むすびつれ月も宿りぬ相坂の關	
-zkt-akishinogetsusei-1050	1050	夏の歌よみける中に		龍田川岸の柳の下かげに夏なきなみを風のよすなり	
+zkt-akishinogetsusei-0962	1001	春立つ日雪の降りければ		吉野山なほしら雪のふる里は去年とやいはむ春の曙	
+zkt-akishinogetsusei-0963	1002	春のはじめに		年くれし雲居の雪げ晴初めて絕え〳〵靑き東雲の空	
+zkt-akishinogetsusei-0964	1003			動きなき山の岩根は答へねど春をぞ告ぐる雪の下水	
+zkt-akishinogetsusei-0965	1004			此頃は谷の杉むら雪きえて霞も知らぬ春のやまかせ	
+zkt-akishinogetsusei-0966	1005			千里までけしきにこむる霞にも獨春なきこしの白山	
+zkt-akishinogetsusei-0967	1006	爲		雪はのこり花も匂はぬ山里にひとり春なる鶯のこゑ	
+zkt-akishinogetsusei-0968	1007	殘雪		逢坂の杉の木蔭に宿かりて關路にとまる去年の白雪	
+zkt-akishinogetsusei-0969	1008	春の歌よみける中に		春やとき軒ばの梅に雪さえて今日迄花の枝に殘れる	
+zkt-akishinogetsusei-0970	1009	院の十首の歌合、若草		春風の吹にし日よりみ吉野の雪まの草ぞ色增り行く	
+zkt-akishinogetsusei-0971	1010	同じ歌合に落花を		可惜夜の詠めし花に風吹けば月を殘して晴るゝ白雲	
+zkt-akishinogetsusei-0972	1011	院の選歌合の十首の中、霞隔遠樹		詠めこし沖つ波まの濱楸ひさしく見せぬはる霞かな	
+zkt-akishinogetsusei-0973	1012	同じ歌合に霧中花		今日もまた櫻に宿をかり衣著つゝなれ行く春の山風	
+zkt-akishinogetsusei-0974	1013	同じ御會に、松間爲		雪折の松を春風吹くからにまづ打ち解くる鶯のこゑ	
+zkt-akishinogetsusei-0975	1014	同じ御會に、朝若菜		都人けふの爲にとしめし野に朝露拂ひ若菜をぞ摘む	
+zkt-akishinogetsusei-0976	1015	同じ御會の三首、春風不分處		押なべて民の草葉も打廉き君が御代には春風ぞ吹く	
+zkt-akishinogetsusei-0977	1016	梅花薫晚袖		折る袖の露の詫言に影見れば有明の月も梅の香ぞする	
+zkt-akishinogetsusei-0978	1017	晩霞隔 春山		重ぬべき霞の袖もたゞ一重いかにやどらむ山の夕蔭	
+zkt-akishinogetsusei-0979	1018			今日だにも庭を盛とみつる花消すば有とも雪かとも見よ	
+zkt-akishinogetsusei-0980	1019	御返し		誘はれぬ人の爲とや殘りけむ明日より先の花の白書	
+zkt-akishinogetsusei-0981	1020	大原に罷りて花見侍りけるに日の暮れにければ		花にあかぬ名残を思ふ春の日の心も知らぬ鐘の音哉	
+zkt-akishinogetsusei-0982	1021	家の歌合に曉霞を		岩戸あけし神代も今の心地して仄に霞む天のかぐ山	
+zkt-akishinogetsusei-0983	1022	池岸梅花		春の池の汀の梅の咲きしより紅くゝるさゝ波ぞ立つ	
+zkt-akishinogetsusei-0984	1023	朝花		朝嵐に峯立つ雲の晴れぬれば花をぞ花と三吉野の山	
+zkt-akishinogetsusei-0985	1024	山花		都には霞のよそにながむらむ今日見る峯の花の白雲	
+zkt-akishinogetsusei-0986	1025	春の歌とて		程もなく枯野の原を焼しより春の若草萠え變るなり	
+zkt-akishinogetsusei-0987	1026			雪おつる朧月夜に窓をあけて衣手さむき春風ぞ吹く	
+zkt-akishinogetsusei-0988	1027			霜きえて打出づる波やこたふらむ霞める山の曉の鐘	
+zkt-akishinogetsusei-0989	1028			明ぬる夜の程なき夢と知られぬる春の櫻に殘る灯火	
+zkt-akishinogetsusei-0990	1029	歸服		眺むれば霞める空の浮雲と一つになりぬ歸る雁がね	
+zkt-akishinogetsusei-0991	1030	春の歌よみける中に		紫の庭も長閑にかすむ口の光ともなふうぐひすの聲	
+zkt-akishinogetsusei-0992	1031			里わかず眺めし秋の月よりも深山の花の人しをる覽	
+zkt-akishinogetsusei-0993	1032			あしの屋のなだの鹽燒暇あれや磯山櫻かざす海士人	
+zkt-akishinogetsusei-0994	1033			ふるきあとぞ霞みはてぬる高圓の尾上の宮の春の曙	
+zkt-akishinogetsusei-0995	1034	初瀬山春		はつせ山花に浮世や殘るらむ庵哀なる春の木のもと	
+zkt-akishinogetsusei-0996	1035	內裏の直應に侍りける頃大乘院座主無動寺より申しおくれりける		都には彌生のそらの花盛しるや深山はまだ雪のちる	
+zkt-akishinogetsusei-0997	1036	返し		知らざりつ今日九重の花を見て猶白雪の深き山とは	
+zkt-akishinogetsusei-0998	1037	同じ頃又山より		見せばやな志賀の唐崎麗なる長柄の山の春の景色を	
+zkt-akishinogetsusei-0999	1038	返し		我思ふ心や行て霞むらむ志賀のあたりの春の景色は	
+zkt-akishinogetsusei-1000	1039	花盛に大内におはしましける頃公衡卿の許より女房の中へ		風の音は長閑けれ共日數へて花や雲居の雪とふる也	
+zkt-akishinogetsusei-1001	1040	返し女房に代りて		此春は君を待ける花なれば散で日數をふると知ずや	
+zkt-akishinogetsusei-1002	1041	同じ頃南殿の花を折りて人の許へ遺しける		宮びとのかざす雲居の櫻花この一枝は君がためとて	
+zkt-akishinogetsusei-1003	1042	前齋院大炊御門におはしましける頃女房の中より八重櫻につけて		古の春を忘れぬ八重櫻これや見し世に變らざる覽	
+zkt-akishinogetsusei-1004	1043	返し		八重櫻折知る人の微せば見し世の春に爭であはまし	
+zkt-akishinogetsusei-1005	1044	宇治平等院にて一切經の會の後朝の會に		法の水八十宇治川に堰止めて花の友にや春を待けむ	
+zkt-akishinogetsusei-1006	1045	同じ日當座の會に依花留客といふ心を		春ごとの花の契に馴々て風よりかれむ頃をしぞ思ふ	
+zkt-akishinogetsusei-1007	1046	またの日中宮の女房ども船に乘りて公卿殿上人など物の音ならして遊びけるにはてつかたに人々、舟中見花といふことを詠みけるに		麓ゆく舟路は花になりはてゝ波に波そふやま風の風	
+zkt-akishinogetsusei-1008	1047	當世の女房の歌よみどもに百首の歌よませて披講せしついでに五首の歌詠みける中に春の心を		あたら夜の霞み行さへ惜しき哉花と月との明方の山	
+zkt-akishinogetsusei-1009	1048	花の歌よみける中に		櫻さく比良の山風ふく儘に花になりゆく志賀の浦波	
+zkt-akishinogetsusei-1010	1049			はれくもり峯定まらぬ白雲は風に天ぎる櫻なりけり	
+zkt-akishinogetsusei-1011	1050			深山路や散敷く花をふまじとて松の下ゆく谷の岩橋	

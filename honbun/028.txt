@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-1351	1351			白雲のたなびく空に吹く風の思ひたえなむ果ぞ悲しき	
-zkt-akishinogetsusei-1352	1352			君が邊り分てと思時しもあれそこはかとなき夕暮の空	
-zkt-akishinogetsusei-1353	1353	契幕秋戀		秋は惜し契は待たるとにかくに心にかゝる暮の空哉	
-zkt-akishinogetsusei-1354	1354	北野の宮の歌合に、久戀		石上ふるの神杉ふりぬれど色には出でず露も時雨も	
-zkt-akishinogetsusei-1355	1355			知れて厭れぬべき身ならずば名をさへ人に包むべしやは	
-zkt-akishinogetsusei-1356	1356	嵐前戀人		獨ぬるよはの衣を吹き返しさても嵐は見せぬ夢かな	
-zkt-akishinogetsusei-1357	1357	聞虫聲增戀		獨寐の枕に蟲は宿りけりおのが聲より露をおかせて	
-zkt-akishinogetsusei-1358	1358	晝夜思戀		晝は夜よるは晝なる思かな涙にくらし床に起きゐて	
-zkt-akishinogetsusei-1359	1359	月前戀		君に我踈くなりにし其の日より袖に親しき月の影哉	
-zkt-akishinogetsusei-1360	1360	舟裏戀		浮舟の便も知らぬ波路にも見し佛のたゝぬ日ぞなき	
-zkt-akishinogetsusei-1361	1361	戀耻榜輩		とふ人は忍ぶ中とや思ふらむ答へ兼たる袖の氣色を	
-zkt-akishinogetsusei-1362	1362	三島江戀		高瀨舟ほのみしま江に濟返り葦間の道の猶や障らむ	
-zkt-akishinogetsusei-1363	1363	後朝戀		曉の霧の迷に立ち別れ消えぬる身とも知せてしがな	
-zkt-akishinogetsusei-1364	1364	五首の歌被〓講し中に戀を		吹く風も物や思ふと問ひがほに打眺むれば松の一聲	
-zkt-akishinogetsusei-1365	1365	戀の歌よみける中に		凄まじく床も枕もなりはてゝ幾夜有明の月を宿しつ	
-zkt-akishinogetsusei-1366	1366			物思ふたゞ獨寐の狭筵にあたりの塵よ幾夜つもりぬ	
-zkt-akishinogetsusei-1367	1367			おもひねの夢に慰むほどばかり枕の露のよはの村消	
-zkt-akishinogetsusei-1368	1368			よせ返る荒磯浪のしき波に間なく時なくぬるゝ袖哉	
-zkt-akishinogetsusei-1369	1369			涙せく袖に思やあまるらむ眺むる空も色かはるまで	
-zkt-akishinogetsusei-1370	1370			夕暮の雲の旗手の空にのみ浮きて物思ふ果を知らばや	
-zkt-akishinogetsusei-1371	1371			さめこかし君松風のかひなくば物思ふ宿の花の折々	
-zkt-akishinogetsusei-1372	1372			落たきつ川瀨の波の岩越て堰放ぬ袖の果を知らばや	
-zkt-akishinogetsusei-1373	1373			忍ぶとは思はざる覽難波女のすくも焚火も下ぞ焦るゝ	
-zkt-akishinogetsusei-1374	1374			それはなほ夢の名殘もながめけり雨の夕も雪の朝も	
-zkt-akishinogetsusei-1375	1375			山の井にむすびもはてぬ契哉あかぬ半にかつ消る泡	
-zkt-akishinogetsusei-1376	1376	水無瀬殿にて九月十三夜戀の十五百の歌合に、春戀		露のこほれる淚解けぬれど猶わが袖の結ばゝれつゝ	
-zkt-akishinogetsusei-1377	1377	夏戀		草深き夏野分行さを鹿の音を社たてね淚ぞこぼるゝ	
-zkt-akishinogetsusei-1378	1378	秋戀		せく袖に涙の色やあまるらむ詠むる儘の萩の上の露	
-zkt-akishinogetsusei-1379	1379	冬戀		葦鴨の拂ふ翅におく霜の消え返りても幾夜へぬらむ	
-zkt-akishinogetsusei-1380	1380	曉戀		もり明す水の白玉岩こえてたゆむも知らぬ袖の上哉	
-zkt-akishinogetsusei-1381	1381	タ		何故と思も入らぬ夕だに待ち出でし物を山の端の月	
-zkt-akishinogetsusei-1382	1382	縣中戀		うつの山うつゝ悲しき道たえて夢に都の人は忘れず	
-zkt-akishinogetsusei-1383	1383	山家戀		山がつの麻のさ衣目を荒みあはで月日や杉ふける庵	
-zkt-akishinogetsusei-1384	1384	故〓戀		すゑまでと契りてとはぬ故鄕に昔語の松かぜぞ吹く	
-zkt-akishinogetsusei-1385	1385	旅泊		待てとしも頼めぬ磯の假枕蟲明の波の寢ぬ夜聞ぬる	
-zkt-akishinogetsusei-1386	1386	關路戀		我戀や此よを關と鈴鹿山すゞろに袖のかくは萎れし	
-zkt-akishinogetsusei-1387	1387	海邊戀		打忘れ藻に棲蟲はよそにして須磨の餘りに恨兼つる	
-zkt-akishinogetsusei-1388	1388	司書館		泊瀨川井手こす波の岩の上に己れ碎けて人ぞ戀しき	
-zkt-akishinogetsusei-1389	1389	寄雨戀		こぬ人を待夜乍らの軒の雨に月をよそにて侘つゝや寢む	
-zkt-akishinogetsusei-1390	1390	寄風戀		荻原やよそに聞來し秋の風物思ふ暮は我が身一つに	
-zkt-akishinogetsusei-1391	1391	院の選歌合に、遇不會戀		暫し社こぬ夜許多と數へても猶山の端の月を待しか	
-zkt-akishinogetsusei-1392	1392	院の影供の歌合に忍戀を		泊瀨川なびく玉藻の下亂れ苦しや心みがくれてのみ	
-zkt-akishinogetsusei-1393	1393	同じ影供の當座に、月前戀		わくらばに待ちつる宵も更にけりさやは契し山の端の月	
-zkt-akishinogetsusei-1394	1394	同し影供に、依忍增戀		せきかへす袖の下水したにのみ咽ぶ思の遺方ぞなき	
-zkt-akishinogetsusei-1395	1395	同じ影供、旅曉戀		わくらばの風のつてにも知せばや思をすまの暁の夢	
-zkt-akishinogetsusei-1396	1396	和歌所の初度の影供に、初戀		須磨の海士の藻汐の煙忽にむせぶ思をとふ人のなき	
-zkt-akishinogetsusei-1397	1397	久戀		難波人いかなる江にか朽果む逢事波に身を盡しつゝ	
-zkt-akishinogetsusei-1398	1398	家の選歌合に、夏戀		空蟬の鳴音やよそに森の露ほし敢ぬ袖を人のとふ迄	
-zkt-akishinogetsusei-1399	1399	家の會に、變契絕怒		引かへてあだし心の末の松待夜の果は波ぞ越しぬる	
-zkt-akishinogetsusei-1400	1400	宇治にて院の御會の五首の中、夜戀		待ちわびぬ今宵もさてや山階の木幡の峯の遠の白雲	
+zkt-akishinogetsusei-1312	1351	山野の竹樹などに雪ふり積みたむ所、人家あり		眺めやる心の道も辿りけり千里の外の雪のあけぼの	
+zkt-akishinogetsusei-1313	1352	歲暮に下人等山より松などきりていづる所		千世經べき松さへ山を出にけり春を營む賤に引かれて	
+zkt-akishinogetsusei-1314	1353			夏草の風にみだるゝ夕暮は秋のみ深き大あらきの森	
+zkt-akishinogetsusei-1315	1354	冬池上氷		池水にさゆる光をたよりにて氷は月の結ぶなりけり	
+zkt-akishinogetsusei-1316	1355	院にて入道釋阿に九十賀給はせける屏風の歌に春帖霞		春假しのに衣を綴りはへて幾日ほすらむ天のかぐ山	
+zkt-akishinogetsusei-1317	1356	若草		三吉野は草のはつかに淺綠高嶺に深雪今朝や消らむ	
+zkt-akishinogetsusei-1318	1357	花		老らくの今日こむ道は殘さなむ散かひ曇る花の白雪	
+zkt-akishinogetsusei-1319	1358	夏帖郭公		戀しをる人や賴めし郭公三輪の檜原に來つゝ鳴く也	
+zkt-akishinogetsusei-1320	1359	五月雨		を山田に引注繩の打はへて朽ちやしぬらむ梅雨の頃	
+zkt-akishinogetsusei-1321	1360	納凉		紀の國や吹上の濱邊による浪の寄邊凉しき磯枕かな	
+zkt-akishinogetsusei-1322	1361	秋帖秋野		さを鹿の入野の秋の下露に誰つま籠めて草結ぶらむ	
+zkt-akishinogetsusei-1323	1362	月		此頃は秋つしま人ときを得て君が光の月を見るかな	
+zkt-akishinogetsusei-1324	1363	紅葉		山越ゆる雁の翅に霜おきて四方の梢は色づきにけり	
+zkt-akishinogetsusei-1325	1364	冬帖千鳥		濱千鳥跡ふみつけよいもが紐ゆふは河原の忘形見に	
+zkt-akishinogetsusei-1326	1365	氷		初瀬女の白木綿花はおちもこす氷にせける山川の水	
+zkt-akishinogetsusei-1327	1366	雪		ふりにける友とやこれを眺む覽雪積りにし越の白山	
+zkt-akishinogetsusei-1328	1367	今上の一品宮生れさせたまひての七夜人々盃とりて詠みける		光そふ雲居の月をみかさ山千代の始は今年のみかは	
+zkt-akishinogetsusei-1329	1368	中宮の初度の御會に、月契秋久		萬の月をば秋の光にて絶えぬ契はくもゐにぞ見る	
+zkt-akishinogetsusei-1330	1369	庭梅久芳n六		我袖に軒端の梅の香をとめよ花は幾代も春ぞ匂はむ	
+zkt-akishinogetsusei-1331	1370	渡新所之後初度之會に、松延齢友		千代までと契る心や通ふらむ松に答ふる風の音づれ	
+zkt-akishinogetsusei-1332	1371	大臣の後の初度の會に、松不改色		春くれば今一しほの綠こそ變らぬ松の變るなりけれ	
+zkt-akishinogetsusei-1333	1372			盡なき千代の光は春日山松より出づる朝日なりけり	
+zkt-akishinogetsusei-1334	1373	祝の歌とて詠みける		其も猶千代の限の有ければ松だに知らぬ君が御代哉	
+zkt-akishinogetsusei-1335	1374			霜や度置けど變らぬ松も猶君が御代にや生ひ替るべき	
+zkt-akishinogetsusei-1336	1375			深山より松の葉分けて出る月千代に變らぬ光也けり	
+zkt-akishinogetsusei-1337	1376			千代やちよ年波こゆる末の松朽ち變る共君は常磐に	
+zkt-akishinogetsusei-1338	1377			自ら治まれる世や聞ゆらむはかなくすさむ山人の歌	
+zkt-akishinogetsusei-1339	1378			神風や御裳濯川の流こそ月日と共にすむべかりけれ	
+zkt-akishinogetsusei-1340	1379	院於鳥羽殿初度の御會に、池上松風		傅へこし深き流の池水になほ千代までと松風ぞ吹く	
+zkt-akishinogetsusei-1341	1380	院の選歌合に、寄神祇祝		君が代のしるしとこれを宮川の岸の杉村色も變らず	
+zkt-akishinogetsusei-1342	1381	院の十番の歌合、神祇		神風や御裳濯川にちぎりおきし流の末ぞ北の藤なみ	
+zkt-akishinogetsusei-1343	1382	同じ庭の松		庭の石も岩と成べき君が代に生添ふ松の種ぞ籠れる	
+zkt-akishinogetsusei-1344	1383	院の影供に、松邊千鳥		高砂の松を友とし鳴く千鳥君が八千代の聲や添らむ	
+zkt-akishinogetsusei-1345	1384	家の歌合に、春祝		春日山都の南しかぞ思ふ北の藤なみはるに逢へとは	
+zkt-akishinogetsusei-1346	1385	院の御會に、初春祝		春と云へば八重たつ霞重ねても幾萬代を空にこむ覽	
+zkt-akishinogetsusei-1347	1386	和歌所おかれて初度の御會に、松月夜深		松風に今日より秋を契り置て月に住べき和歌の浦人	
+zkt-akishinogetsusei-1348	1387	城南寺にて祈雨御會に、社頭祝		民の戶も神の惠にうるふらし都の南みやゐせしより	
+zkt-akishinogetsusei-1349	1388	京極殿の初度の御會に、松有春色		押なべて木芽も春の淺綠松にぞ千代の色は見えける	
+zkt-akishinogetsusei-1350	1389	高陽院の初度の御會に戀の歌よみけるに		氷ゐる志賀の浦吹く春風の打解けてだに人を戀ばや	
+zkt-akishinogetsusei-1351	1390			白雲のたなびく空に吹く風の思ひたえなむ果ぞ悲しき	
+zkt-akishinogetsusei-1352	1391			君が邊り分てと思時しもあれそこはかとなき夕暮の空	
+zkt-akishinogetsusei-1353	1392	契幕秋戀		秋は惜し契は待たるとにかくに心にかゝる暮の空哉	
+zkt-akishinogetsusei-1354	1393	北野の宮の歌合に、久戀		石上ふるの神杉ふりぬれど色には出でず露も時雨も	
+zkt-akishinogetsusei-1355	1394			知れて厭れぬべき身ならずば名をさへ人に包むべしやは	
+zkt-akishinogetsusei-1356	1395	嵐前戀人		獨ぬるよはの衣を吹き返しさても嵐は見せぬ夢かな	
+zkt-akishinogetsusei-1357	1396	聞虫聲增戀		獨寐の枕に蟲は宿りけりおのが聲より露をおかせて	
+zkt-akishinogetsusei-1358	1397	晝夜思戀		晝は夜よるは晝なる思かな涙にくらし床に起きゐて	
+zkt-akishinogetsusei-1359	1398	月前戀		君に我踈くなりにし其の日より袖に親しき月の影哉	
+zkt-akishinogetsusei-1360	1399	舟裏戀		浮舟の便も知らぬ波路にも見し佛のたゝぬ日ぞなき	
+zkt-akishinogetsusei-1361	1400	戀耻榜輩		とふ人は忍ぶ中とや思ふらむ答へ兼たる袖の氣色を	

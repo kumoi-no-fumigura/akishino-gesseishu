@@ -30,7 +30,7 @@
   "text": "CC0 1.0"
  },
  "translation": {
-  "count": 1532,
+  "count": 1571,
   "note": "AI による現代語訳"
  },
  "blocks": [
@@ -11431,6 +11431,76 @@
    "jo": ""
   },
   {
+   "id": "zkt-akishinogetsusei-0814-01",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "明果ば戀しかるべき名殘哉花の影もる可惜夜の月",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0814-02",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "うち眺め春の三月の短夜を寢もせで獨あかす頃かな",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0814-03",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "初瀨山花に春風ふきはてゝ雲なき峯にありあけの月",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0814-04",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "花散て木の本疎くなるまゝに遠ざかりゆく袖の移香",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0814-05",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "手に掬ぶ石井の水の他でのみ春に別るゝ志賀の山越",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
    "id": "zkt-akishinogetsusei-0815",
    "pid": "873675",
    "pages": [
@@ -11445,6 +11515,216 @@
    "jo": ""
   },
   {
+   "id": "zkt-akishinogetsusei-0815-01",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "三島江や茂り果ぬる蘆の根の一夜は春を隔て來にけり",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-02",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "鶯のひとりかへれるおく山に心あるべきおそ櫻かな",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-03",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "有明のつれなく見えし月は出ぬ山郭公待つ夜乍らに",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-04",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "須磨の浦の浪に折はへ降雨に沙垂衣いかにほさまし",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-05",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "時しもあれ花ちる里の軒の雨に己が皐月の鳥の一聲",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-06",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "飛ぶ鳥の飛鳥の里の郭公昔の聲になほや鳴くらむ",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-07",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "鵬の雲のかけはしほどやなき夏の夜渡る山の端の月",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-08",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "眞葛原玉まく數やまさるらむ葉におく露に螢飛ぶ也",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-09",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "水錆江の菱の浮葉にかくろへて蛙鳴くなり夕立の空",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-10",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "塵をこそ据ゑじとせしか獨ぬる我常夏は露も拂はず",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-11",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "山ひめの瀧の白糸くりためて織るてふ布は夏衣かも",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-12",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "松風のはらふ汀のはちす葉に清き玉ゐるなつの夕暮",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-13",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "蜩の鳴く音に風を吹きそへて夕日凉しき關のべの松",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-14",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "荻原や聲もほに出ぬさを鹿の深く夏野に戰ぐなる哉",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0815-15",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "織女の天の川原に戀せじと秋を迎ふる御禊すらしも",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
    "id": "zkt-akishinogetsusei-0816",
    "pid": "873675",
    "pages": [
@@ -11454,6 +11734,272 @@
    "kotobagaki": "",
    "author": "",
    "text": "秋",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-01",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "深草の露のよすがを契にて里をばかれず秋は來にけり",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-02",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "大方の夕はさぞと思へども我がために吹く荻の上風",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-03",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "白露も色そめあへぬ龍田山まだ青葉にて秋風ぞ吹く",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-04",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "旅びとの入野の尾花手枕に結びかはせる女郎花かな",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-05",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "さを鹿の鳴初しより宮城野の萩の下露盈ぬ日ぞなき",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-06",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "猶草葉にあらぬ我が袖の露を尋ねていかで鳴くらむ",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-07",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "常世にていづれの秋か月は見し都忘れぬ初雁のこゑ",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-08",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "物思へとする業ならし木間より落たる月に棹鹿の聲",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-09",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "古鄕はわれまつ風をあるじにて月に宿かる更科の山",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-10",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋なればとて淚濡す袖の上を物や思ふと月は訪ひけり",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-11",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "蟲の音はならの落葉に埋もれて霧の籬に急雨ぞふる",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-12",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "かち人の道をぞおもふ山科の木幡のみねの秋の夕霧",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-13",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "千度打つ砧の音を數へてもよを長月の程ぞ知らるゝ",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-14",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "裾野ゆく衣に摺れる月草の移り易くも過ぐる秋かな",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-15",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋風にはし腐ならず片岡の柴の下草いろづきにけり",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-16",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋は猶葛の裏風恨みてもとはず枯れにし人ぞ戀しき",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-17",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "露の袖霜のさ筵さきしのぶ方こそなけれ淺茅生の宿",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-18",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "雖がてに庵もる田子の假枕よはに奥手の露ぞ跳なき",
+   "sachu": "",
+   "poems": [],
+   "jo": ""
+  },
+  {
+   "id": "zkt-akishinogetsusei-0816-19",
+   "pid": "873675",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "苔の上に嵐吹きしく唐錦たゝまくをしき森の陰かな",
    "sachu": "",
    "poems": [],
    "jo": ""
@@ -21492,12 +22038,12 @@
   "order": 2002,
   "era": "鎌倉初期",
   "author": "藤原良経（九条良経）",
-  "blocks": 1532,
-  "chars": 36597,
-  "poems": 1532,
-  "yaku": 1532,
+  "blocks": 1571,
+  "chars": 36048,
+  "poems": 1571,
+  "yaku": 1571,
   "editions": 1,
   "updated": "2026-11-07",
-  "updated_at": "2026-11-07T10:30:13+09:00"
+  "updated_at": "2026-11-07T10:37:23+09:00"
  }
 }

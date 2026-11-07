@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-1101	1101			のち見むと行末遠く契る哉今宵はふけぬ秋の夜の月	
-zkt-akishinogetsusei-1102	1102			露といへば必ず月ぞ宿りけるそれ故おかぬ雁の淚も	
-zkt-akishinogetsusei-1103	1103			昨日迄秋の半ばと待ちし夜は唯今宵ぞとすめる月哉	
-zkt-akishinogetsusei-1104	1104	八幡若宮の歌合院より侍けるに六首之內初秋風		八幡山にしに嵐の秋吹けば川なみ白き淀のあけぼの	
-zkt-akishinogetsusei-1105	1105	野徑月		遠近の限も知らぬ野べの月行きつくはてや峰の白雲	
-zkt-akishinogetsusei-1106	1106	乾麵線		大和にも敷島の宮しきしのぶ昔をいとヾ霧や隔てむ	
-zkt-akishinogetsusei-1107	1107	海邊雁		白雲に翅しをれし雁がねの下ゐる磯も波やひまなき	
-zkt-akishinogetsusei-1108	1108	宇治の御所にて院の御會に、山風		末遠き朝日の山の嶺に生ふる松には風も常磐也けり	
-zkt-akishinogetsusei-1109	1109	水月		今宵しも八十宇治川に澄む月を長柄の橋の上に見哉	
-zkt-akishinogetsusei-1110	1110	野路		都より分けくる人の袖みれば露深草の人ぞ知らるゝ	
-zkt-akishinogetsusei-1111	1111	八月十五夜の五首五辻殿の初度の御會に松間月		今よりは爰に千年を松蔭にすまむ月とは知や知ずや	
-zkt-akishinogetsusei-1112	1112	野邊月		この里は北野の原の近ければ隈なき月の賴もしき哉	
-zkt-akishinogetsusei-1113	1113	田家月		寢がてに幾夜を積てみたや守苦も顯はの月に臥す覽	
-zkt-akishinogetsusei-1114	1114	縣旅月		都には月の雲居にながむらむ千里の山の岩のかけ道	
-zkt-akishinogetsusei-1115	1115	名所月		今宵ならで外に見し夜は間なれや今社月はすまの浦波	
-zkt-akishinogetsusei-1116	1116	八月十五夜翫月、同じ當座の會に		行秋も今や半ばに過ぎぬらむ月にねぬ夜の鐘の一聲	
-zkt-akishinogetsusei-1117	1117	家の選歌合に、山月		足引の山の高嶺は久かたの月の都のふもとなりけり	
-zkt-akishinogetsusei-1118	1118	野風		袖の露斯れとてやは占し野にすヾの篠屋を拂ふ秋風	
-zkt-akishinogetsusei-1119	1119	秋の夕暮に		何故と思ひもわかぬ袂かなむなしき空の秋の夕ぐれ	
-zkt-akishinogetsusei-1120	1120			秋の色を心にそめて後ぞ思ふ露も時雨も人の爲とは	
-zkt-akishinogetsusei-1121	1121			秋といへば夕暮每の詠めゆゑ其の故もなき物思かな	
-zkt-akishinogetsusei-1122	1122			袖の上は唯此頃の露おきて世をば恨みず秋ぞ悲しき	
-zkt-akishinogetsusei-1123	1123			見もしらぬ昔の人の心まで嵐にこもる夕ぐれのくも	
-zkt-akishinogetsusei-1124	1124	古〓秋		來ぬ人をうらむる宿の夕暮に思ひすつれど荻の上風	
-zkt-akishinogetsusei-1125	1125			秋風に荻のはすさむ夕まぐれ誰が住捨てし宿の籠ぞ	
-zkt-akishinogetsusei-1126	1126			出ていにし人は歸らで葛の葉の風に恨むる古鄕の秋	
-zkt-akishinogetsusei-1127	1127			眺めわび誰いでにけむ古鄕の秋を殘せる荻のうは風	
-zkt-akishinogetsusei-1128	1128			露の袖霜の狭筵いかならむ淺芽かたしく小野の古里	
-zkt-akishinogetsusei-1129	1129	秋の歌よみける中に		みよし野を秋の春にて眺むれば曙よりも夕幕のそら	
-zkt-akishinogetsusei-1130	1130			春にこそ明ばのごとに詠めしか又この頃の薄霧の空	
-zkt-akishinogetsusei-1131	1131			露深しと計見つる淺茅原くるれば蟲の聲もみちぬる	
-zkt-akishinogetsusei-1132	1132			庭深き籬の野べの蟲の音を月と風との下に聞くかな	
-zkt-akishinogetsusei-1133	1133			村雨は程なく過ぎて日ぐらしの鳴く山陰に萩の下露	
-zkt-akishinogetsusei-1134	1134			草深き野べは一つに見しかども思ひわくべき花盛哉	
-zkt-akishinogetsusei-1135	1135			野中なる葦の丸屋に誰住みて轉の床の友となるらむ	
-zkt-akishinogetsusei-1136	1136			打廉く入江の尾花ほの見えて夕波まがふまのゝ浦風	
-zkt-akishinogetsusei-1137	1137	庭草露滋		置く露を拂はで見れば淺芽原玉しく庭と成にける哉	
-zkt-akishinogetsusei-1138	1138	蟲聲非一		様々の淺茅が原の蟲の音を哀一つに聞きぞなしつる	
-zkt-akishinogetsusei-1139	1139	田家秋		風の音は蘆の丸屋に時雨來て非ぬ雲しく秋の小山田	
-zkt-akishinogetsusei-1140	1140	風破曉夢		見る夢は深山颪に絕果てゝ月は軒端の嶺にかゝりぬ	
-zkt-akishinogetsusei-1141	1141	萩		古鄕の庭の小萩の花盛鹿なけとてや野邊になりにし	
-zkt-akishinogetsusei-1142	1142	女郞花		風ふけば玉ちる野邊に折れふして枕露けき女郎花哉	
-zkt-akishinogetsusei-1143	1143	鹿		秋の風尾上の松に言とへば人はこたへずさを鹿の聲	
-zkt-akishinogetsusei-1144	1144			武蔵野のしのゝ小薄寒き夜に妻も籠らぬを鹿鳴く也	
-zkt-akishinogetsusei-1145	1145	初雁		秋來風も涼しく成ぬとや寒き越路を出る雁がね	
-zkt-akishinogetsusei-1146	1146			初雁の涙おちそふ萩のうへに下露よりも色ぞ有ける	
-zkt-akishinogetsusei-1147	1147	水風		清水せく松の下風吹き迷ひ波にぞ浮ぶ日ぐらしの聲	
-zkt-akishinogetsusei-1148	1148			うちなびく岩もる小菅玉ちりて嵐もおつる山川の水	
-zkt-akishinogetsusei-1149	1149	名所を四季によせて詠みける中に、宮城野秋		宮城野の木の下露を片敷て袖に小萩の形見をや見む	
-zkt-akishinogetsusei-1150	1150	須磨關月		須磨の關ふけゆく波のうき枕伴ふ月ぞ浦づたひゆく	
+zkt-akishinogetsusei-1062	1101	水路夏月		高瀬舟棹も取敢ず明くる夜にさきだつ月の跡の白波	
+zkt-akishinogetsusei-1063	1102	雨後聞蟬		村雨の跡こそ見えね山の蟬なけども未だ紅葉せぬ頃	
+zkt-akishinogetsusei-1064	1103	影供の次でに、夏月を當座		大空は霞も霧もたなびきて木蔭ばかりに曇る月かな	
+zkt-akishinogetsusei-1065	1104			此頃は富士の白雪消えそめて獨や月の峯にすむらむ	
+zkt-akishinogetsusei-1066	1105			下草に露置きそへて秋の來るけしきの森に蜩ぞ鳴く	
+zkt-akishinogetsusei-1067	1106			くる方は西と聞け共今日の日の出るより社秋は立けれ	
+zkt-akishinogetsusei-1068	1107	水邊立秋		松蔭や夏なき年の淸水にもげに秋風は今日ぞ立ける	
+zkt-akishinogetsusei-1069	1108	秋の始に		淺茅原秋風立ちぬ是ぞこの眺めなれにし小野の古鄕	
+zkt-akishinogetsusei-1070	1109			己れのみ岩に碎くる波の音に我もありとや磯の松風	
+zkt-akishinogetsusei-1071	1110			露の下に道あり迚や秋はこし菲の庭に月のみぞすむ	
+zkt-akishinogetsusei-1072	1111			色變る露のみ袖に散りやせむ峯の秋風木の葉靑くて	
+zkt-akishinogetsusei-1073	1112			梢ふく風の響きに秋はあれどまだ色わかぬ嶺の椎柴	
+zkt-akishinogetsusei-1074	1113	院の選歌合の十首の內山家秋月を		時しもあれ古鄕人は音もせで深山の月に秋風ぞ吹く	
+zkt-akishinogetsusei-1075	1114	湖上曉霧		志賀の浦の漣白む霧の内にほの〳〵出づる沖の友舟	
+zkt-akishinogetsusei-1076	1115	院の八月十五夜の選歌合に十首の歌に月多秋友		月ならで誰かは知む君が代に秋の今宵の幾廻りとも	
+zkt-akishinogetsusei-1077	1116	月前松風		秋の夜の光も聲も一つにて月のかつらに松風ぞ吹く	
+zkt-akishinogetsusei-1078	1117	月下接衣		里は荒て月やあらぬと恨みても誰淺芽生に衣打らむ	
+zkt-akishinogetsusei-1079	1118	海邊秋月		立返り煙な立てそ須磨の蜑の潮くむ袖に月ぞ宿れる	
+zkt-akishinogetsusei-1080	1119	湖上月明		逢坂の山越えはてゝ眺むれば鳰てる月は千里也けり	
+zkt-akishinogetsusei-1081	1120	古寺殘月		鐘の音に初瀨の檜原尋來て分くる木の間に有明の月	
+zkt-akishinogetsusei-1082	1121	深山曉月		深からぬ外山の庵の寢覺だに嘸な樹間の月は寂しき	
+zkt-akishinogetsusei-1083	1122	野月露原		秋の野の篠に露置すゞの庵はすゞろに月も濡るゝ顏なる	
+zkt-akishinogetsusei-1084	1123	田家見月		秋の雲しくとは見れど稻筵伏見の里は月のみぞすむ	
+zkt-akishinogetsusei-1085	1124	河月似氷		是もまた神代は知らず龍田川月の氷に水くゝるなり	
+zkt-akishinogetsusei-1086	1125	同じ夜の當座の御會に、月前雁		雁がねも雲の衣を厭ひけり己が羽風にすめる夜の月	
+zkt-akishinogetsusei-1087	1126	院の十首の歌合に、浦月		月かげや波をむすばぬうす氷敷津の浦によする舟人	
+zkt-akishinogetsusei-1088	1127	山嵐		打しぐれ四方の木葉は色づきて深山の嵐秋を吹く也	
+zkt-akishinogetsusei-1089	1128			秋の來て幾日もあらぬ萩原や曉つゆの袖に馴れぬる	
+zkt-akishinogetsusei-1090	1129	關路秋風		人すまぬ不破の關屋の板廂あれにし後はたゞ秋の風	
+zkt-akishinogetsusei-1091	1130	聞旅月鹿(廣月間象熊)定女本式時代こ·には舞之イ		忘れずよかりねに月を宮城野の枕に近きさを鹿の聲	
+zkt-akishinogetsusei-1092	1131	故〓蟲		高圓の尾上の宮の秋はぎを誰きて見よと松蟲のこゑ	
+zkt-akishinogetsusei-1093	1132	院の影供の歌合に、江月聞雁		夜を重ね玉江におるゝ雁の聲葦間の月に立空やなき	
+zkt-akishinogetsusei-1094	1133	夜風似雨ジ		宮城野の木のした風のはらふ夜は音も年も村雨の空	
+zkt-akishinogetsusei-1095	1134	同じ夜の當座の御會に、山家持衣		古鄕を夢にだに見む山賤の夜はのさ衣打も寢なゝむ	
+zkt-akishinogetsusei-1096	1135	同じ影供に、月前秋風		行返り月と松とに吹く風はれての雲に露ぞこぼるゝ	
+zkt-akishinogetsusei-1097	1136	水路秋月		久方の天の川より歸るらしくだすうき木を送る月影	
+zkt-akishinogetsusei-1098	1137	關路曉霧		忘るなよ霧の迷に一夜ねて關こぎ出づる須磨の友舟	
+zkt-akishinogetsusei-1099	1138	院にて八月十五夜の當座御會に秋月の和歌五百		嵐ふき村雲迷ふ夕より出でやらぬ月も見る心地する	
+zkt-akishinogetsusei-1100	1139			聞捨てゝぬる夜も一よ有なまし庵の松風月に吹ずば	
+zkt-akishinogetsusei-1101	1140			のち見むと行末遠く契る哉今宵はふけぬ秋の夜の月	
+zkt-akishinogetsusei-1102	1141			露といへば必ず月ぞ宿りけるそれ故おかぬ雁の淚も	
+zkt-akishinogetsusei-1103	1142			昨日迄秋の半ばと待ちし夜は唯今宵ぞとすめる月哉	
+zkt-akishinogetsusei-1104	1143	八幡若宮の歌合院より侍けるに六首之內初秋風		八幡山にしに嵐の秋吹けば川なみ白き淀のあけぼの	
+zkt-akishinogetsusei-1105	1144	野徑月		遠近の限も知らぬ野べの月行きつくはてや峰の白雲	
+zkt-akishinogetsusei-1106	1145	乾麵線		大和にも敷島の宮しきしのぶ昔をいとヾ霧や隔てむ	
+zkt-akishinogetsusei-1107	1146	海邊雁		白雲に翅しをれし雁がねの下ゐる磯も波やひまなき	
+zkt-akishinogetsusei-1108	1147	宇治の御所にて院の御會に、山風		末遠き朝日の山の嶺に生ふる松には風も常磐也けり	
+zkt-akishinogetsusei-1109	1148	水月		今宵しも八十宇治川に澄む月を長柄の橋の上に見哉	
+zkt-akishinogetsusei-1110	1149	野路		都より分けくる人の袖みれば露深草の人ぞ知らるゝ	
+zkt-akishinogetsusei-1111	1150	八月十五夜の五首五辻殿の初度の御會に松間月		今よりは爰に千年を松蔭にすまむ月とは知や知ずや	

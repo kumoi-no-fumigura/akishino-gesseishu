@@ -1,50 +1,50 @@
-zkt-akishinogetsusei-0901	901			吉野山花より雪に詠めきて雪より花も近づきにけり	
-zkt-akishinogetsusei-0902	902	雜		我國は天照神の末なれば日の本としも云にぞ有ける	
-zkt-akishinogetsusei-0903	903			昔より三國つたはる法の水流れてすめる四の海かな	
-zkt-akishinogetsusei-0904	904			民もみな君に心をつくば山しげき惠の雨うるふ世に	
-zkt-akishinogetsusei-0905	905			此頃は關の戶さゝず成果て道ある世にぞ立返るべき	
-zkt-akishinogetsusei-0906	906			かゝる世に契ありてぞ逢坂の小川の末は君に任せむ	
-zkt-akishinogetsusei-0907	907			世中はあるに任せて過ぐす哉答へぬ空を打眺めつゝ	
-zkt-akishinogetsusei-0908	908			知るや君星を戴く年ふりて我世の月も影たけにけり	
-zkt-akishinogetsusei-0909	909			幾年の花と月とになれ〳〵て心の色を人に見すらむ	
-zkt-akishinogetsusei-0910	910			世々をへて君が御代をや松の風殘るかひある住吉の岸	
-zkt-akishinogetsusei-0911	911			和歌浦の葦邊のたづのさし乍ら千歳を懸て遊ぶ頃哉	
-zkt-akishinogetsusei-0912	912	初春待花		春來てもつれなき花の冬籠待たじと思へば峯の白雪	
-zkt-akishinogetsusei-0913	913	山路尋花		花を見て去年の栞は跡もなし雪にぞ紛ふ三吉野の山	
-zkt-akishinogetsusei-0914	914	山花未遍		花もまだ咲かぬ方には山川の打出る波を春の物にて)	
-zkt-akishinogetsusei-0915	915	朝見花		ほの〳〵と花は外山に顯れて雪に霞の明け離れゆく	
-zkt-akishinogetsusei-0916	916	遠村花		尋ねばや誰が住む里の一村ぞぬし思ほゆる花の奧哉	
-zkt-akishinogetsusei-0917	917	故〓花		かはらじな志賀の都のしかすがに今も昔の春の花園	
-zkt-akishinogetsusei-0918	918	田家花		なれ〳〵て門田の澤に立つ雁の涙の露は花に落ちけり	
-zkt-akishinogetsusei-0919	919	古寺花		遁れすむ小泊瀨山の苔の袖花の上にや雲に臥すらむ	
-zkt-akishinogetsusei-0920	920	花似雪		吉野山このめも春の雪消えて又ふる度は櫻なりけり	
-zkt-akishinogetsusei-0921	921	河邊花		鈴鹿川波と花との道すがら八十瀨を分けし春は忘ず	
-zkt-akishinogetsusei-0922	922	深山花		かへり見る山は遙にかさなりて麓の花も八重の白雲	
-zkt-akishinogetsusei-0923	923	幕山花		深山出て花の鏡となる月は木間わくるや曇るなる覽	
-zkt-akishinogetsusei-0924	924	古溪花		しもとゆふ葛城山の谷風に花の雪さへまなく散る也	
-zkt-akishinogetsusei-0925	925	關路花		逢坂の關ふみならすかち人の渡れどぬれぬ花の白波	
-zkt-akishinogetsusei-0926	926	霧中花		旅寢する花の下風たち別れ稻葉の山の松ぞかひなき	
-zkt-akishinogetsusei-0927	927	湖上花		雲のなみ煙の浪やちる花の霞にしづむにほの水うみ	
-zkt-akishinogetsusei-0928	928	橋下花		東路の佐野の舟橋しら波の上にぞかよふ花の散る頃	
-zkt-akishinogetsusei-0929	929	花下送日		故郷のあれまく誰か惜む覽我が世へぬべき花の蔭哉	
-zkt-akishinogetsusei-0930	930	庭前落花		春雨の我身世にふる詠めより淺芽が庭に花も移りぬ	
-zkt-akishinogetsusei-0931	931	幕春惜花		佐保姫の袖の花の香も名殘はつきぬ春の暮かな	
-zkt-akishinogetsusei-0932	932	初秋月		秋は來ぬ露は袂に置初ぬ木間の月の洩らぬよぞなき	
-zkt-akishinogetsusei-0933	933	月前草花		古郷の本荒の小萩咲しより夜な〳〵庭の月ぞ移ろふ	
-zkt-akishinogetsusei-0934	934	可愛い		深き夜のはしに滴る秋の雨の音絕ぬれば軒端もる月	
-zkt-akishinogetsusei-0935	935	松間月		松陰のまやの餘りにさし入りて梢に月は傾きにけり	
-zkt-akishinogetsusei-0936	936	山家月		月見ばといひし計の人はこで槇の戶たゝく庭の松風	
-zkt-akishinogetsusei-0937	937	月前竹風		獨かも月は待ちいでゝ吳竹の長々し夜を秋風ぞ吹く	
-zkt-akishinogetsusei-0938	938	野徑月		行末は空も一つのむさし野に草の原より出づる月影	
-zkt-akishinogetsusei-0939	939	澤邊月		月影の忘れすやどる忘れみづ野澤に誰か秋を契りし	
-zkt-akishinogetsusei-0940	940			こし路より千里の雲を隔てきて都の月にはつ雁の聲	
-zkt-akishinogetsusei-0941	941	浦邊月		假枕月を𛁈きつの衣手に立寄る波もうらぶれにけり	
-zkt-akishinogetsusei-0942	942	月照瀧水		山人の衣なるらし白妙の月にさらせる布びきのたき	
-zkt-akishinogetsusei-0943	943	杜間月		ふりにける龍田の森は神寂て木の本照す秋の夜の月	
-zkt-akishinogetsusei-0944	944	月前秋風		その色と思ひ分けとや秋風の心盡しの月に吹くらむ	
-zkt-akishinogetsusei-0945	945	江上月		旅人を送りし秋のあとなれや入江の波にひたす月影	
-zkt-akishinogetsusei-0946	946	月前蟲		誰となく人松蟲を知べにてさそふか野べに獨ゆく月	
-zkt-akishinogetsusei-0947	947	月前聞鹿		さを鹿もをのゝ草臥し侘て月夜よしとや妻を戀らむ	
-zkt-akishinogetsusei-0948	948	旅泊月		忘るなよ出でし都のよはの月清見が關に廻り逢ふ迄	
-zkt-akishinogetsusei-0949	949	月前草露		秋夜はませもる露の儚さも月の夜すがらならぬ物かは	
-zkt-akishinogetsusei-0950	950	菊籬月		月のすむ空にまれなる星の色を籬に殘す白菊のはな	
+zkt-akishinogetsusei-0862	901			君に斯逢ぬる身社嬉しけれ名やは朽せむ世々の末迄	
+zkt-akishinogetsusei-0863	902	老若歌合五十首春		今朝よりは都の空もかすみぬと櫻に告げよ春の初風	
+zkt-akishinogetsusei-0864	903			古の子日の御幸跡しあればふりぬる松や君を待らむ	
+zkt-akishinogetsusei-0865	904			冬の梢にのこる去年の雪ことしの花の初なりけり	
+zkt-akishinogetsusei-0866	905			霞よりつゝみかねたる梅が枝の朧月夜に誰誘ふらむ	
+zkt-akishinogetsusei-0867	906			葛城や高間の山の雲間より空にぞ霞むうぐひすの聲	
+zkt-akishinogetsusei-0868	907			明石潟かすみて歸る雁がねも島隱れ行く春の明ばの	
+zkt-akishinogetsusei-0869	908			梓弓おしてはるさめ小山田に苗代水も今やひくらむ	
+zkt-akishinogetsusei-0870	909			いつまでか雲を雲とも詠めけむ霞む三吉野	
+zkt-akishinogetsusei-0871	910			風ふけば己が雲よりおのが花を散して見する山櫻哉	
+zkt-akishinogetsusei-0872	911			花は彌生の空に移ろひて月ぞつれなき有明の山	
+zkt-akishinogetsusei-0873	912	夏		昨日まで霞みしものを津の國の難波あたりの夏の曙	
+zkt-akishinogetsusei-0874	913			里人の卯花かこふ山かげに月とゆきとの昔をぞとふ	
+zkt-akishinogetsusei-0875	914			郭公なく夜はいはず鳴かぬ夜も詠めぞ明す軒の立花	
+zkt-akishinogetsusei-0876	915			五月山雨にあめそふ夕風に雲よりしたを過ぐる白雲	
+zkt-akishinogetsusei-0877	916			長閑に袖のあやめを片敷きて枕も夢も結ぶともなし	
+zkt-akishinogetsusei-0878	917			鵜飼舟下す戶無瀨の水馴棹さしも程なく明るよは哉	
+zkt-akishinogetsusei-0879	918			尋ねきてこゝには夏も嵐山木隱れてこそ秋は有けれ	
+zkt-akishinogetsusei-0880	919			螢とぶ野澤にしげる蘆の根の夜な〳〵下に通ふ秋風	
+zkt-akishinogetsusei-0881	920			郭公なくねも稀になる儘にやゝ影すゞし山の端の月	
+zkt-akishinogetsusei-0882	921			常夏の花も玉ゐる夕暮を知らでや鹿の秋を待つらむ	
+zkt-akishinogetsusei-0883	922	秋		秋を秋と思ひ入りても詠めつる雲の旗手の夕暮の空	
+zkt-akishinogetsusei-0884	923			鶉なく野べのしのやに一夜ねて袂ならはす萩の下露	
+zkt-akishinogetsusei-0885	924			白露の賴めか置きし人はこで霧の眞垣に松蟲のこゑ	
+zkt-akishinogetsusei-0886	925			誰が秋の寢覺とはむと分かず共唯我爲のさを鹿の聲	
+zkt-akishinogetsusei-0887	926			露の上に秋の涙も置きてみむ暫しな吹きそ荻の上風	
+zkt-akishinogetsusei-0888	927			雲は皆拂ひはてたる秋風を松に殘して月を見るかな	
+zkt-akishinogetsusei-0889	928			狹筵に獨寢待のよはの月しきしのぶべき秋の空かは	
+zkt-akishinogetsusei-0890	929			月のこる古鄕人のあさぢふに忘れず秋の衣うつなり	
+zkt-akishinogetsusei-0891	930			見渡せば松に紅葉をこきまぜて山こそ秋の錦也けれ	
+zkt-akishinogetsusei-0892	931			草も木もおのが色々改めて霜になりゆく長月のすゑ	
+zkt-akishinogetsusei-0893	932	冬		風にあへず散りにし楢柴の空しき枝に時雨ふる也	
+zkt-akishinogetsusei-0894	933			臥馴れし蘆の丸屋も霜枯てうちもあらはに宿る月哉	
+zkt-akishinogetsusei-0895	934			嵐吹く梢に波のおとはして松の下水うすごほりせり	
+zkt-akishinogetsusei-0896	935			月ぞすむ誰かは爰に紀の國や吹上の千鳥獨なくなり	
+zkt-akishinogetsusei-0897	936			槇の戶を朝げの袖に風さえて初雪おつる嶺の白雲	
+zkt-akishinogetsusei-0898	937			朝妻やをちの外山に出る日の氷をみがく志賀の唐崎	
+zkt-akishinogetsusei-0899	938			山人のたきすさみたる榾柴の跡さへしめる雪の夕暮	
+zkt-akishinogetsusei-0900	939			吳竹の葉末にすがる白雪も夜頃へぬれば氷とぞなる	
+zkt-akishinogetsusei-0901	940			吉野山花より雪に詠めきて雪より花も近づきにけり	
+zkt-akishinogetsusei-0902	941	雜		我國は天照神の末なれば日の本としも云にぞ有ける	
+zkt-akishinogetsusei-0903	942			昔より三國つたはる法の水流れてすめる四の海かな	
+zkt-akishinogetsusei-0904	943			民もみな君に心をつくば山しげき惠の雨うるふ世に	
+zkt-akishinogetsusei-0905	944			此頃は關の戶さゝず成果て道ある世にぞ立返るべき	
+zkt-akishinogetsusei-0906	945			かゝる世に契ありてぞ逢坂の小川の末は君に任せむ	
+zkt-akishinogetsusei-0907	946			世中はあるに任せて過ぐす哉答へぬ空を打眺めつゝ	
+zkt-akishinogetsusei-0908	947			知るや君星を戴く年ふりて我世の月も影たけにけり	
+zkt-akishinogetsusei-0909	948			幾年の花と月とになれ〳〵て心の色を人に見すらむ	
+zkt-akishinogetsusei-0910	949			世々をへて君が御代をや松の風殘るかひある住吉の岸	
+zkt-akishinogetsusei-0911	950			和歌浦の葦邊のたづのさし乍ら千歳を懸て遊ぶ頃哉	
